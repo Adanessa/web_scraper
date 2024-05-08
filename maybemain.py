@@ -1,36 +1,45 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-# Ange URL:en för sidan
-url = 'https://inara.cz/starfield/starsystem/9/'
+# Path to your ChromeDriver executable
+chromedriver_path = 'chromedriver.exe'
 
-# Definiera en användaragent
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
-}
+# Create a new Chrome session
+service = Service(chromedriver_path)
+driver = webdriver.Chrome(service=service)
 
-# Begär sidans HTML-innehåll med användaragenten
-response = requests.get(url, headers=headers)
+# Open the webpage with the interactive map
+url = 'https://inara.cz/starfield/starsystems/'
+driver.get(url)
 
-# Kontrollera om begäran lyckades (HTTP-statuskod 200 betyder att allt är OK)
-if response.status_code == 200:
-    html_content = response.text
+# Find the map container
+map_container = driver.find_element(By.CLASS_NAME, 'mapcontainer')
 
-    # Skapa ett BeautifulSoup-objekt för att analysera HTML
-    soup = BeautifulSoup(html_content, 'html.parser')
+# Find all system links within the map container
+system_links = map_container.find_elements(By.CSS_SELECTOR, 'span.mappoint a')
 
-    # Hitta den div där resurslänkarna finns
-    tag_container = soup.find('div', class_='tagcontainer')
+# Extract the URLs from the system links
+system_urls = [link.get_attribute('href') for link in system_links]
 
-    # Om div med klassen "tagcontainer" hittades
-    if tag_container:
-        # Hitta alla länkar inom div och loopa över dem
-        resources = tag_container.find_all('a', class_='tag')
-        for resource in resources:
-            # Extrahera resursnamnet från länken
-            resource_name = resource.text
-            print(resource_name)
-    else:
-        print("Kunde inte hitta resursinformationen på sidan.")
-else:
-    print("Fel vid hämtning av sidans innehåll. Statuskod:", response.status_code)
+# Iterate over each system URL
+for system_url in system_urls:
+    # Open the system page
+    driver.get(system_url)
+
+    # Wait until all h3 elements with class 'bodyname' are visible
+    planet_names = WebDriverWait(driver, 10).until(
+        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, 'h3.bodyname'))
+    )
+
+    # Print the number of planet names found for this system
+    print(f"Number of planet names found for {system_url}: {len(planet_names)}")
+
+    # Iterate over each planet name and print it
+    for planet_name in planet_names:
+        print("Planet Name:", planet_name.text)
+
+# Close the browser session
+driver.quit()
