@@ -1,92 +1,76 @@
-import requests
-from bs4 import BeautifulSoup
-import csv
+import json
+import re
+import time
+import pygame
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-def scrape_page(soup, quotes):
-    # retrieving all the quote <div> HTML element on the page
-    quote_elements = soup.find_all('div', class_='quote')
+pygame.mixer.init()
+pygame.mixer.music.load('epic_hacker_song.mp3')
+pygame.mixer.music.play()
 
-    # iterating over the list of quote elements
-    # to extract the data of interest and store it
-    # in quotes
-    for quote_element in quote_elements:
-        # extracting the text of the quote
-        text = quote_element.find('span', class_='text').text
-        # extracting the author of the quote
-        author = quote_element.find('small', class_='author').text
+chromedriver_path = 'chromedriver.exe'
 
-        # extracting the tag <a> HTML elements related to the quote
-        tag_elements = quote_element.find('div', class_='tags').find_all('a', class_='tag')
+# Create a new Chrome session
+service = Service(chromedriver_path)
+driver = webdriver.Chrome(service=service)
 
-        # storing the list of tag strings in a list
-        tags = []
-        for tag_element in tag_elements:
-            tags.append(tag_element.text)
+url = 'https://inara.cz/starfield/starsystems/'
+driver.get(url)
 
-        # appending a dictionary containing the quote data
-        # in a new format in the quote list
-        quotes.append(
-            {
-                'text': text,
-                'author': author,
-                'tags': ', '.join(tags)  # merging the tags into a "A, B, ..., Z" string
-            }
-        )
+map_container = driver.find_element(By.CLASS_NAME, 'mapcontainer')
 
-# the url of the home page of the target website
-base_url = 'https://quotes.toscrape.com'
+# Find all system links within the map container
+system_links = map_container.find_elements(By.CSS_SELECTOR, 'span.mappoint a')
 
-# defining the User-Agent header to use in the GET request below
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
-}
+# Extract the system names and URLs from the system links
+system_data = [(link.text.strip(), link.get_attribute('href')) for link in system_links]
 
-# retrieving the target web page
-page = requests.get(base_url, headers=headers)
+# Create an empty dictionary to store planet data
+planet_data = {}
 
-# parsing the target web page with Beautiful Soup
-soup = BeautifulSoup(page.text, 'html.parser')
+# Iterate over each system
+for system_name, system_url in system_data:
+    driver.get(system_url)
+    
+    # Wait until all planet names are visible
+    planet_names = WebDriverWait(driver, 10).until(
+        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, 'h3.bodyname'))
+    )
+    
+    # Extract cleaned planet names
+    cleaned_planet_names = [re.sub(r'^[^\w\s]+', '', planet_name.text.strip()) for planet_name in planet_names]
+    
+    # Remove unwanted characters from the system name
+    cleaned_system_name = re.sub(r'^[^\w\s]+', '', system_name)
+    
+    # Create a dictionary to store planet resources for this system
+    system_planet_resources = {}
+    
+    # Find all mainblocks
+    mainblocks = driver.find_elements(By.CLASS_NAME, 'mainblock')
+    
+    # Iterate over each planet name and corresponding mainblock
+    for planet_name, mainblock in zip(cleaned_planet_names, mainblocks):
+        # Extract the text content of the mainblock
+        mainblock_text = mainblock.text
+        
+        # Store the entire mainblock text for the planet
+        system_planet_resources[planet_name] = mainblock_text
 
-# initializing the variable that will contain
-# the list of all quote data
-quotes = []
+    # Store the planet resources for this system in the main planet data dictionary
+    planet_data[cleaned_system_name] = system_planet_resources
 
-# scraping the home page
-scrape_page(soup, quotes)
+# Close the browser session
+driver.quit()
 
-# getting the "Next →" HTML element
-next_li_element = soup.find('li', class_='next')
+pygame.mixer.music.stop()
 
-# if there is a next page to scrape
-while next_li_element is not None:
-    next_page_relative_url = next_li_element.find('a', href=True)['href']
+# Save the planet data to a JSON file
+with open('planet_data.json', 'w') as json_file:
+    json.dump(planet_data, json_file, indent=4)
 
-    # getting the new page
-    page = requests.get(base_url + next_page_relative_url, headers=headers)
-
-    # parsing the new page
-    soup = BeautifulSoup(page.text, 'html.parser')
-
-    # scraping the new page
-    scrape_page(soup, quotes)
-
-    # looking for the "Next →" HTML element in the new page
-    next_li_element = soup.find('li', class_='next')
-
-# reading  the "quotes.csv" file and creating it
-# if not present
-csv_file = open('quotes.csv', 'w', encoding='utf-8', newline='')
-
-# initializing the writer object to insert data
-# in the CSV file
-writer = csv.writer(csv_file)
-
-# writing the header of the CSV file
-writer.writerow(['Text', 'Author', 'Tags'])
-
-# writing each row of the CSV
-for quote in quotes:
-    writer.writerow(quote.values())
-
-# terminating the operation and releasing the resources
-csv_file.close()
+print("Scraped data has been saved to planet_data.json")
