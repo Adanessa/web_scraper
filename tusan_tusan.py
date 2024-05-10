@@ -15,7 +15,7 @@ driver.get(url)
 
 # Find the mainblock for Alpha Andraste I
 alpha_andraste_mainblock = WebDriverWait(driver, 30).until(
-    EC.visibility_of_element_located((By.XPATH, "//h3[contains(text(),'Alpha Andraste I')]/following-sibling::div[@class='mainblock']"))
+    EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[1]"))
 )
 
 
