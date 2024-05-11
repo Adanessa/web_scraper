@@ -1,0 +1,2137 @@
+{
+    "BarnardsStar": {
+        "planets": {
+            "Frost": "[\"H20\", \"He-3\", \"Pb\"]"
+        }
+    },
+    "Cheyenne": {
+        "planets": {
+            "Akila": "[\"H20\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"Co\"]",
+            "Antherum": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Bindi": "[\"He-3\", \"U\", \"Pb\", \"Ni\", \"A\", \"Ag\"]",
+            "Codos": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"Be\", \"R-COC\", \"HnCn\"]",
+            "Skink": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Ag\", \"Hg\"]",
+            "Burran": "[\"He-3\", \"Fe\"]",
+            "Rell": "[\"He-3\", \"A\", \"Be\"]",
+            "Grizzit": "[\"He-3\", \"A\", \"Be\"]",
+            "Washakie": "[\"H20\", \"U\", \"Pb\", \"Ar\", \"C6Hn\", \"Ne\", \"Ag\"]",
+            "Smet": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "Montara": "[]",
+            "MontaraLuna": "[\"H20\", \"C\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"Co\", \"R-COC\"]",
+            "Heilo": "[\"H20\", \"Pb\", \"W\", \"Ti\"]",
+            "Kalira": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "Thren": "[\"H20\", \"Pb\", \"W\"]",
+            "Agamon": "[]",
+            "AgamonA": "[\"H20\", \"Cu\", \"Ar\"]",
+            "AgamonB": "[\"H20\", \"Cu\"]",
+            "AgamonC": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "AgamonD": "[\"H20\", \"Cu\"]",
+            "Stellis": "[]",
+            "StellisA": "[\"H20\", \"Ni\", \"Cu\", \"Co\", \"Au\"]",
+            "StellisB": "[\"H20\", \"C\"]",
+            "StellisC": "[\"H20\", \"Ni\", \"Co\"]",
+            "StellisD": "[\"H20\", \"Ni\", \"Pd\", \"Co\", \"Pt\"]",
+            "Fenn": "[]",
+            "Tarhnis": "[\"H20\", \"Cu\"]",
+            "Cragg": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"Ag\", \"xF4\"]",
+            "Navaha": "[]",
+            "Hardpoint": "[]",
+            "Belwah": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"Ir\", \"Co\", \"V\"]",
+            "Laramie": "[\"H20\", \"C\"]",
+            "Olaran": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "Bismark": "[\"H20\", \"Ni\", \"Co\"]",
+            "Wellish": "[\"H20\", \"Cu\", \"IL\"]"
+        }
+    },
+    "AlBattani": {
+        "planets": {
+            "AlBattaniII": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"IL\", \"HnCn\", \"Dy\"]",
+            "AlBattaniI": "[\"He-3\", \"Fe\"]",
+            "AlBattaniIa": "[\"He-3\", \"A\", \"Be\"]",
+            "AlBattaniIb": "[\"He-3\", \"A\", \"Be\"]",
+            "AlBattaniIc": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "AlBattaniIII": "[\"Pb\", \"Ni\", \"Cu\", \"Pd\", \"F\"]",
+            "AlBattaniIIIa": "[\"He-3\", \"Fe\"]",
+            "AlBattaniIIIb": "[\"He-3\", \"A\", \"Be\"]",
+            "AlBattaniIV": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"SiH3C\", \"HnCn\"]",
+            "AlBattaniIVa": "[\"He-3\", \"Fe\"]",
+            "AlBattaniIVb": "[]",
+            "AlBattaniV": "[\"He-3\", \"Fe\"]",
+            "AlBattaniVa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "AlBattaniVI": "[]",
+            "AlBattaniVIa": "[\"H20\", \"Cu\"]",
+            "AlBattaniVIb": "[\"H20\", \"Cu\"]",
+            "AlBattaniVII": "[]",
+            "AlBattaniVIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "AlBattaniVIII": "[\"He-3\", \"A\", \"Be\"]",
+            "AlBattaniVIIIa": "[\"H20\", \"Pb\", \"Ag\"]"
+        }
+    },
+    "Maheo": {
+        "planets": {
+            "MaheoI": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\", \"C6Hn\", \"Co\", \"Ag\"]",
+            "MaheoII": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"Cu\", \"HnCn\", \"xF4\", \"Yb\"]",
+            "MaheoIII": "[\"He-3\", \"A\", \"Be\"]",
+            "MaheoIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "MaheoIIIb": "[\"He-3\", \"A\"]",
+            "MaheoIV": "[]",
+            "MaheoIVa": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "MaheoIVb": "[\"H20\", \"Ar\", \"Ne\"]",
+            "MaheoIVc": "[\"H20\", \"C\", \"A\", \"Ar\", \"C6Hn\", \"Nd\", \"R-COC\"]",
+            "MaheoIVd": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "MaheoV": "[]",
+            "MaheoVa": "[\"H20\", \"Cu\", \"F\", \"xF4\"]",
+            "MaheoVI": "[\"He-3\", \"A\", \"Be\"]",
+            "MaheoVIa": "[\"He-3\", \"Fe\"]",
+            "MaheoVII": "[\"H20\", \"Cu\", \"F\", \"Sb\"]",
+            "MaheoVIIa": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "Narion": {
+        "planets": {
+            "Anselon": "[]",
+            "Kreet": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"Ar\", \"Ne\", \"Ag\", \"HnCn\"]",
+            "Vectera": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"Ar\", \"Ne\", \"Ag\", \"HnCn\"]",
+            "Magreth": "[\"He-3\", \"Pb\", \"A\"]",
+            "Hyperia": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Sumati": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"SiH3C\", \"xF4\"]",
+            "Andraphon": "[\"He-3\", \"Fe\", \"A\", \"Be\", \"Eu\"]",
+            "Danra": "[\"He-3\", \"U\", \"A\", \"Ir\"]",
+            "Podius": "[\"He-3\", \"Fe\"]",
+            "Gryphus": "[\"He-3\", \"A\", \"Nd\", \"Eu\"]",
+            "Dalvik": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "Deepala": "[]",
+            "Grimsey": "[\"U\", \"Ir\", \"Pu\", \"V\"]",
+            "Niira": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"Ar\", \"C6Hn\", \"F\", \"IL\"]"
+        }
+    },
+    "AlphaTirna": {
+        "planets": {
+            "TirnaII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"IL\", \"Dy\"]",
+            "TirnaI": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "TirnaIIa": "[\"He-3\", \"Fe\"]",
+            "TirnaIII": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\", \"F\", \"Co\", \"Ag\"]",
+            "TirnaIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "TirnaIIIb": "[\"He-3\", \"A\", \"Be\"]",
+            "TirnaIIIc": "[\"He-3\", \"Fe\"]",
+            "TirnaIV": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"Co\", \"V\"]",
+            "TirnaIVa": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "TirnaV": "[\"H20\", \"U\", \"Pb\", \"Cu\", \"F\", \"W\", \"V\"]",
+            "TirnaVI": "[]",
+            "TirnaVIa": "[\"H20\", \"Cu\", \"F\", \"xF4\"]",
+            "TirnaVIb": "[\"H20\", \"He-3\", \"C\", \"Cu\", \"A\", \"F\", \"Eu\", \"Au\"]",
+            "TirnaVIc": "[\"H20\", \"C\", \"SiH3C\"]",
+            "TirnaVId": "[\"H20\", \"C\"]",
+            "TirnaVIe": "[\"H20\", \"C\"]",
+            "TirnaVII": "[]",
+            "TirnaVIIa": "[\"H20\", \"Ni\"]",
+            "TirnaVIIb": "[\"H20\", \"Pb\", \"W\"]",
+            "TirnaVIIc": "[\"H20\", \"Ni\"]",
+            "TirnaVIII": "[]",
+            "TirnaVIIIa": "[]",
+            "TirnaVIIIb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "TirnaVIIIc": "[\"H20\", \"Fe\", \"Pb\", \"W\", \"HnCn\", \"Ti\", \"Ta\", \"Dy\"]",
+            "TirnaVIIId": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"C6Hn\", \"R-COC\", \"HnCn\"]",
+            "TirnaVIIIe": "[\"H20\", \"He-3\", \"U\", \"A\", \"Ar\", \"Ir\", \"C6Hn\", \"Ne\"]",
+            "TirnaIX": "[\"H20\", \"Cu\", \"xF4\"]",
+            "TirnaX": "[]",
+            "TirnaXa": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"W\", \"Au\", \"Ti\"]",
+            "TirnaXb": "[\"H20\", \"C\", \"SiH3C\"]",
+            "TirnaXc": "[\"H20\", \"Cu\", \"F\", \"Au\"]"
+        }
+    },
+    "Sol": {
+        "planets": {
+            "Mercury": "[\"He-3\", \"A\", \"Nd\"]",
+            "Venus": "[\"H20\", \"Pb\", \"Ni\", \"Co\", \"Dy\"]",
+            "Earth": "[\"H20\", \"C\", \"Pb\", \"SiH3C\", \"Hg\"]",
+            "Luna": "[\"He-3\", \"Fe\"]",
+            "Mars": "[\"H20\", \"C\", \"Pb\", \"SiH3C\"]",
+            "Deimos": "[]",
+            "Phobos": "[]",
+            "Jupiter": "[]",
+            "Europa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "Callisto": "[\"He-3\", \"Fe\"]",
+            "Io": "[\"He-3\", \"Fe\"]",
+            "Ganymede": "[\"H20\", \"C\"]",
+            "Saturn": "[]",
+            "Rhea": "[\"H20\", \"Cu\", \"F\"]",
+            "Enceladus": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "Iapetus": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "Dione": "[\"H20\", \"Pb\", \"Ag\"]",
+            "Mimas": "[\"H20\", \"Ni\", \"Pd\"]",
+            "Titan": "[\"H20\", \"Pb\", \"W\", \"Ti\"]",
+            "Tethys": "[\"H20\", \"Pb\"]",
+            "Uranus": "[]",
+            "Oberon": "[\"H20\", \"Ni\"]",
+            "Ariel": "[\"H20\", \"Cu\"]",
+            "Titania": "[\"H20\", \"Cu\"]",
+            "Miranda": "[\"H20\", \"Pb\"]",
+            "Umbriel": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "Neptune": "[]",
+            "Triton": "[]",
+            "Pluto": "[\"H20\", \"Pb\", \"W\", \"Ti\"]",
+            "Charon": "[\"H20\", \"Cu\"]"
+        }
+    },
+    "AlphaCentauri": {
+        "planets": {
+            "Jemison": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"SiH3C\"]",
+            "Kurtz": "[\"He-3\", \"A\"]",
+            "Bondar": "[\"C\", \"Pb\", \"Ni\", \"W\", \"Pt\", \"Xe\"]",
+            "Curbeam": "[\"He-3\", \"A\"]",
+            "Grissom": "[\"He-3\", \"Fe\"]",
+            "Olivas": "[]",
+            "Lovell": "[\"H20\", \"Ni\", \"Co\"]",
+            "Voss": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"W\", \"Co\", \"V\", \"Dy\"]",
+            "Chawla": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "Zamka": "[\"H20\", \"He-3\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"V\"]",
+            "Hawley": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Co\"]",
+            "Gagarin": "[\"H20\", \"C\", \"Pb\", \"SiH3C\"]"
+        }
+    },
+    "LuytensStar": {
+        "planets": {
+            "LuytensRock": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"Ar\", \"HnCn\", \"Ta\", \"Li\"]"
+        }
+    },
+    "ProcyonB": {
+        "planets": {
+            "ProcyonBI": "[\"He-3\", \"A\", \"Nd\"]"
+        }
+    },
+    "Sirius": {
+        "planets": {
+            "SiriusI": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "SiriusII": "[\"H20\", \"U\", \"C\", \"Ni\", \"Ir\", \"SiH3C\", \"Xe\", \"Li\"]",
+            "SiriusIIa": "[\"H20\", \"He-3\", \"U\", \"Fe\", \"Ar\", \"C6Hn\"]",
+            "SiriusIII": "[]",
+            "SiriusIIIa": "[\"H20\", \"C\", \"Cu\", \"A\", \"F\", \"Li\"]",
+            "SiriusIIIb": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "Toliman": {
+        "planets": {
+            "TolimanI": "[\"He-3\", \"A\"]",
+            "TolimanII": "[\"H20\", \"Pb\", \"Ar\", \"C6Hn\", \"Ag\"]",
+            "TolimanIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "TolimanIIb": "[\"He-3\", \"A\"]",
+            "TolimanIIc": "[\"He-3\", \"A\", \"Be\"]"
+        }
+    },
+    "Valo": {
+        "planets": {
+            "Polvo": "[\"H20\", \"U\", \"Ni\", \"Ar\", \"Ir\", \"C6Hn\", \"V\"]",
+            "Miatha": "[\"He-3\", \"A\", \"Nd\"]",
+            "Navacci": "[\"He-3\", \"A\", \"Eu\"]",
+            "Cantra": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Prax": "[\"He-3\", \"A\"]",
+            "Hillex": "[\"He-3\", \"A\"]",
+            "Lumos": "[]",
+            "Golga": "[\"He-3\", \"A\"]",
+            "Kindi": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Shorun": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "Virum": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "Volii": {
+        "planets": {
+            "VoliiAlpha": "[\"H20\", \"C6Hn\"]",
+            "VoliiBeta": "[\"H20\", \"A\", \"Be\"]",
+            "VoliiDelta": "[]",
+            "VoliiChi": "[\"H20\", \"Pb\"]",
+            "VoliiGamma": "[\"He-3\", \"Fe\"]",
+            "VoliiOmega": "[]",
+            "VoliiUpsilon": "[\"H20\", \"Cu\"]",
+            "VoliiTau": "[\"He-3\", \"Fe\"]",
+            "VoliiPsi": "[\"He-3\", \"Fe\"]",
+            "VoliiPhi": "[\"He-3\", \"A\", \"Nd\"]",
+            "VoliiEpsilon": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"IL\", \"SiH3C\"]"
+        }
+    },
+    "Archimedes": {
+        "planets": {
+            "ArchimedesIV": "[\"H20\", \"Pb\", \"Cu\", \"F\", \"IL\", \"Hg\"]",
+            "ArchimedesI": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Co\", \"HnCn\", \"Pt\"]",
+            "ArchimedesIa": "[\"He-3\", \"A\", \"Be\"]",
+            "ArchimedesII": "[\"H20\", \"U\", \"Ar\"]",
+            "ArchimedesIII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"A\", \"Be\", \"W\", \"Nd\"]",
+            "ArchimedesIVa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "ArchimedesV": "[]",
+            "ArchimedesVa": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"Pd\", \"Ta\", \"Yb\"]",
+            "ArchimedesVb": "[\"H20\", \"Ni\", \"Co\", \"Pt\"]",
+            "ArchimedesVI": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"Pt\"]",
+            "ArchimedesVIa": "[\"H20\", \"U\", \"Pb\", \"Ar\", \"Ir\", \"Ag\", \"R-COC\"]",
+            "ArchimedesVIb": "[\"H20\", \"Ar\", \"C6Hn\"]"
+        }
+    },
+    "Wolf": {
+        "planets": {
+            "Etherea": "[]",
+            "Pontem": "[\"H20\", \"Pb\", \"Ag\", \"Hg\"]",
+            "Chthonia": "[\"He-3\", \"A\", \"Be\"]"
+        }
+    },
+    "Bessel": {
+        "planets": {
+            "BesselI": "[]",
+            "BesselII": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "BesselIII": "[\"He-3\", \"A\"]",
+            "BesselIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BesselIIIb": "[\"H20\", \"Fe\", \"Ni\", \"A\", \"Ar\", \"Co\", \"Ne\", \"Pt\"]"
+        }
+    },
+    "Carinae": {
+        "planets": {
+            "CarinaeI": "[\"He-3\", \"A\", \"Be\"]",
+            "CarinaeII": "[\"H20\", \"He-3\", \"A\", \"Ar\", \"Ne\", \"Nd\"]",
+            "CarinaeIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "CarinaeIII": "[]",
+            "CarinaeIIIa": "[\"H20\", \"Fe\", \"Pb\", \"HnCn\", \"Rc\"]",
+            "CarinaeIIIb": "[\"H20\", \"Pb\", \"Hg\"]",
+            "CarinaeIIIc": "[\"H20\", \"Pb\"]",
+            "CarinaeIIId": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "CarinaeIV": "[]",
+            "CarinaeIVa": "[\"H20\", \"Cu\"]",
+            "CarinaeV": "[]",
+            "CarinaeVa": "[\"H20\", \"Cu\", \"xF4\"]",
+            "CarinaeVb": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "CarinaeVc": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Pd\", \"W\", \"SiH3C\", \"Xe\"]"
+        }
+    },
+    "EtaCassiopeia": {
+        "planets": {
+            "CassiopeiaI": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"F\", \"Co\"]",
+            "CassiopeiaII": "[\"H20\", \"C\", \"Ni\", \"Co\", \"Pt\"]",
+            "CassiopeiaIIa": "[\"H20\", \"He-3\", \"U\", \"C\", \"Pb\", \"Ni\", \"W\", \"SiH3C\"]",
+            "CassiopeiaIII": "[\"H20\", \"U\", \"C\", \"Ni\"]",
+            "CassiopeiaIIIa": "[\"He-3\", \"A\"]",
+            "CassiopeiaIV": "[]",
+            "CassiopeiaIVa": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "CassiopeiaIVb": "[\"H20\", \"Ni\"]",
+            "CassiopeiaIVc": "[\"H20\", \"Ni\", \"Pt\"]"
+        }
+    },
+    "KapteynsStar": {
+        "planets": {
+            "KapteynI": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"Ni\", \"A\", \"V\", \"Pt\"]",
+            "KapteynII": "[]"
+        }
+    },
+    "Olympus": {
+        "planets": {
+            "Nesoi": "[\"H20\", \"U\", \"Fe\", \"Ar\", \"Ir\", \"C6Hn\", \"R-COC\", \"Ta\"]",
+            "Ananke": "[\"He-3\", \"A\", \"Eu\"]",
+            "Ourea": "[\"H20\", \"U\", \"Cu\", \"Ar\", \"Ir\", \"C6Hn\", \"V\", \"R-COC\"]",
+            "Thanatos": "[]",
+            "Hypnos": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "Erebus": "[\"U\", \"Fe\", \"HnCn\"]",
+            "Pontus": "[\"He-3\", \"A\", \"Be\"]",
+            "Thalassa": "[\"He-3\", \"A\"]",
+            "Aion": "[]",
+            "Orphius": "[\"He-3\", \"Fe\"]",
+            "Dionysus": "[\"H20\", \"U\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"C6Hn\", \"HnCn\"]",
+            "Mithras": "[\"H20\", \"Ni\", \"Pd\", \"Co\"]",
+            "Cybele": "[\"He-3\", \"A\"]"
+        }
+    },
+    "Piazzi": {
+        "planets": {
+            "PiazziI": "[\"Pb\"]",
+            "PiazziII": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"Pd\", \"F\", \"Co\", \"Pt\"]",
+            "PiazziIII": "[\"He-3\", \"A\"]",
+            "PiazziIIIa": "[\"He-3\", \"A\"]",
+            "PiazziIIIb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "PiazziIV": "[]",
+            "PiazziIVa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "PiazziIVb": "[\"He-3\", \"Fe\"]",
+            "PiazziIVc": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"SiH3C\"]",
+            "PiazziV": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "PiazziVa": "[\"He-3\", \"Fe\"]",
+            "PiazziVb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "PiazziVc": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "PiazziVI": "[\"He-3\", \"A\"]",
+            "PiazziVIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "PiazziVIb": "[\"He-3\", \"A\", \"Be\"]",
+            "PiazziVIc": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "PiazziVII": "[]",
+            "PiazziVIIa": "[\"H20\", \"C\"]",
+            "PiazziVIIb": "[\"H20\", \"Cu\", \"Au\"]",
+            "PiazziVIIc": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "ProcyonA": {
+        "planets": {
+            "ProcyonI": "[\"U\", \"C\", \"Pb\", \"Cu\", \"Ir\", \"F\", \"W\", \"SiH3C\"]",
+            "ProcyonIa": "[]",
+            "ProcyonII": "[\"Pb\", \"Ni\", \"Ti\"]",
+            "ProcyonIIIa": "[\"He-3\", \"Fe\"]",
+            "ProcyonIV": "[\"H20\", \"U\", \"Ni\", \"Co\"]",
+            "ProcyonIVa": "[\"He-3\", \"A\"]",
+            "ProcyonV": "[]",
+            "ProcyonVa": "[\"H20\", \"Ni\", \"Co\"]",
+            "ProcyonVb": "[\"H20\", \"Ni\"]",
+            "ProcyonVc": "[\"H20\", \"Ar\"]",
+            "ProcyonVI": "[]",
+            "ProcyonVIa": "[\"H20\", \"Cu\"]",
+            "ProcyonVIb": "[\"H20\", \"Fe\", \"Pb\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "ProcyonVIc": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"HnCn\"]",
+            "ProcyonIII": "[\"H20\", \"Cu\", \"Ar\", \"F\", \"IL\", \"Ne\", \"xF4\"]"
+        }
+    },
+    "BetaMarae": {
+        "planets": {
+            "BetaMaraeIII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"IL\"]",
+            "BetaMaraeI": "[\"H20\", \"U\", \"C\", \"Pb\", \"Cu\", \"Ar\"]",
+            "BetaMaraeIa": "[\"He-3\", \"Fe\"]",
+            "BetaMaraeII": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"Pd\", \"F\", \"W\", \"Co\"]",
+            "BetaMaraeIIa": "[\"He-3\", \"A\", \"Nd\"]",
+            "BetaMaraeIIb": "[]",
+            "BetaMaraeIIIa": "[\"He-3\", \"Fe\"]",
+            "BetaMaraeIV": "[]",
+            "BetaMaraeIVa": "[\"H20\", \"Ni\", \"Pd\"]",
+            "BetaMaraeIVb": "[\"H20\", \"U\", \"Ni\", \"Ir\", \"Co\", \"V\"]",
+            "BetaMaraeIVc": "[\"H20\", \"Cu\"]",
+            "BetaMaraeIVd": "[\"H20\", \"Ar\"]",
+            "BetaMaraeV": "[]",
+            "BetaMaraeVa": "[\"He-3\", \"A\"]",
+            "BetaMaraeVb": "[\"H20\", \"Cu\", \"Sb\"]",
+            "BetaMaraeVc": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"Pu\", \"V\", \"HnCn\"]",
+            "BetaMaraeVd": "[\"H20\", \"C\"]",
+            "BetaMaraeVI": "[]",
+            "BetaMaraeVIa": "[\"H20\", \"C\"]",
+            "BetaMaraeVIb": "[\"H20\", \"C\", \"SiH3C\"]",
+            "BetaMaraeVIc": "[\"H20\", \"Cu\"]"
+        }
+    },
+    "TauCeti": {
+        "planets": {
+            "TauCetiI": "[\"He-3\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Pd\", \"V\", \"Pt\"]",
+            "TauCetiII": "[\"H20\", \"Fe\", \"Ar\", \"C6Hn\", \"HnCn\"]",
+            "TauCetiIIa": "[\"He-3\", \"A\", \"Nd\"]",
+            "TauCetiIII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"HnCn\", \"xF4\", \"Li\"]",
+            "TauCetiIV": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"SiH3C\"]",
+            "TauCetiIVa": "[\"He-3\", \"A\", \"Be\"]",
+            "TauCetiIVb": "[\"He-3\", \"Fe\"]",
+            "TauCetiV": "[\"H20\", \"Fe\", \"Ni\", \"Pd\", \"Co\", \"HnCn\", \"Pt\", \"Yb\"]",
+            "TauCetiVI": "[\"H20\", \"A\", \"Be\", \"Nd\"]",
+            "TauCetiVIa": "[\"H20\", \"Fe\", \"Ta\"]",
+            "TauCetiVII": "[\"He-3\", \"A\"]",
+            "TauCetiVIIa": "[\"He-3\", \"A\"]",
+            "TauCetiVIII": "[]",
+            "TauCetiVIIIa": "[\"H20\", \"Cu\"]",
+            "TauCetiVIIIb": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"SiH3C\"]",
+            "TauCetiVIIIc": "[\"H20\", \"C\", \"SiH3C\", \"Cs\", \"Li\"]",
+            "TauCetiVIIId": "[\"H20\", \"Ni\", \"Pd\", \"Pt\"]",
+            "TauCetiIX": "[]"
+        }
+    },
+    "ThePup": {
+        "planets": {
+            "PupI": "[\"H20\", \"C\", \"Cs\"]"
+        }
+    },
+    "VanMaanensStar": {
+        "planets": {
+            "VanMaanenI": "[\"H20\", \"Cu\"]"
+        }
+    },
+    "Altair": {
+        "planets": {
+            "AltairI": "[\"U\", \"Pb\", \"Ni\", \"Ir\", \"Pu\", \"Co\", \"Ag\", \"Pt\"]",
+            "AltairII": "[\"H20\", \"U\", \"Ar\", \"C6Hn\"]",
+            "AltairIII": "[\"H20\", \"Pb\", \"Cu\", \"F\", \"Au\"]",
+            "AltairIIIa": "[]",
+            "AltairIIIb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "AltairIIIc": "[\"He-3\", \"A\", \"Be\"]",
+            "AltairIV": "[]",
+            "AltairIVa": "[\"H20\", \"Cu\", \"xF4\"]",
+            "AltairIVb": "[\"H20\", \"C\", \"SiH3C\"]",
+            "AltairIVc": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"W\", \"Co\"]",
+            "AltairIVd": "[\"H20\", \"Ni\"]",
+            "AltairV": "[\"He-3\", \"A\", \"Be\"]",
+            "AltairVa": "[\"H20\", \"Pb\"]"
+        }
+    },
+    "Andromas": {
+        "planets": {
+            "AndromasI": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Ir\", \"V\", \"Xe\"]",
+            "AndromasII": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"F\", \"SiH3C\", \"R-COC\", \"Li\"]",
+            "AndromasIII": "[\"H20\", \"He-3\", \"A\", \"Ar\", \"Be\", \"Ne\", \"Eu\"]",
+            "AndromasIV": "[]",
+            "AndromasIVa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "AndromasV": "[]",
+            "AndromasVa": "[]",
+            "AndromasVb": "[]",
+            "AndromasVI": "[]",
+            "AndromasVIa": "[\"H20\", \"Cu\", \"F\"]",
+            "AndromasVIb": "[\"H20\", \"He-3\", \"Fe\", \"Cu\", \"A\", \"F\", \"Be\", \"HnCn\"]"
+        }
+    },
+    "Aranae": {
+        "planets": {
+            "AranaeI": "[\"He-3\", \"A\", \"Be\"]",
+            "AranaeII": "[\"He-3\", \"A\"]",
+            "AranaeIIa": "[\"He-3\", \"A\"]",
+            "AranaeIIb": "[\"He-3\", \"A\"]",
+            "AranaeIII": "[\"He-3\", \"Fe\"]",
+            "AranaeIV": "[]",
+            "AranaeIVa": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "AranaeIVb": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "AranaeIVc": "[\"H20\", \"Cu\"]",
+            "AranaeIVd": "[\"H20\", \"Cu\"]",
+            "AranaeV": "[\"H20\", \"Pb\"]"
+        }
+    },
+    "Arcturus": {
+        "planets": {
+            "ArcturusI": "[\"He-3\", \"U\", \"Pb\", \"Ir\"]",
+            "ArcturusII": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ar\", \"Ir\", \"C6Hn\", \"HnCn\"]",
+            "ArcturusIII": "[]",
+            "ArcturusIIIa": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Muphrid": {
+        "planets": {
+            "MuphridI": "[\"U\", \"Ir\"]",
+            "MuphridIa": "[\"He-3\", \"A\"]",
+            "MuphridII": "[\"H20\", \"U\", \"Cu\"]",
+            "MuphridIIa": "[\"H20\", \"He-3\", \"Ni\", \"A\", \"Be\"]",
+            "MuphridIII": "[\"U\", \"Fe\", \"Ni\", \"V\", \"HnCn\"]",
+            "MuphridIIIa": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "MuphridIIIb": "[\"He-3\", \"A\"]",
+            "MuphridIIIc": "[\"He-3\", \"A\"]",
+            "MuphridIV": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"SiH3C\", \"HnCn\", \"Li\"]",
+            "MuphridV": "[]",
+            "MuphridVa": "[\"H20\", \"Ni\"]",
+            "MuphridVb": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"W\", \"SiH3C\", \"Xe\"]",
+            "MuphridVc": "[\"H20\", \"Ni\", \"Co\"]",
+            "MuphridVd": "[\"H20\", \"He-3\", \"C\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"Co\"]",
+            "MuphridVI": "[]",
+            "MuphridVIa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "MuphridVIb": "[\"C\", \"Fe\", \"Pb\", \"Hg\"]",
+            "MuphridVIc": "[\"He-3\", \"A\"]",
+            "MuphridVId": "[\"H20\", \"Cu\", \"F\", \"Sb\"]",
+            "MuphridVII": "[]",
+            "MuphridVIIa": "[\"H20\", \"Cu\", \"Sb\"]",
+            "MuphridVIIb": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Sb\"]",
+            "MuphridVIII": "[]",
+            "MuphridVIIIa": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"V\", \"Ag\", \"Pt\"]",
+            "MuphridVIIIb": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "MuphridVIIIc": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"W\", \"Co\"]",
+            "MuphridVIIId": "[\"H20\", \"He-3\", \"Fe\", \"Ni\", \"Co\"]",
+            "MuphridVIIc": "[\"H20\", \"Cu\", \"IL\"]"
+        }
+    },
+    "Sagan": {
+        "planets": {
+            "Sagan1": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "Sakharov": {
+        "planets": {
+            "Bonner": "[]",
+            "MirII": "[\"He-3\", \"A\"]"
+        }
+    },
+    "BetaAndraste": {
+        "planets": {
+            "BetaAndrasteI": "[]",
+            "BetaAndrasteIa": "[\"H20\", \"He-3\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"F\", \"V\"]",
+            "BetaAndrasteIb": "[\"H20\", \"C\"]",
+            "BetaAndrasteIc": "[\"H20\", \"Cu\", \"Au\", \"Sb\"]",
+            "BetaAndrasteId": "[\"H20\", \"C\"]"
+        }
+    },
+    "Bradbury": {
+        "planets": {
+            "BradburyI": "[\"He-3\", \"Fe\", \"HnCn\", \"Yb\"]",
+            "BradburyIa": "[\"He-3\", \"A\"]",
+            "BradburyIb": "[\"He-3\", \"A\"]",
+            "BradburyII": "[\"U\", \"Fe\", \"Pb\", \"HnCn\"]",
+            "BradburyIII": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Co\", \"SiH3C\", \"Ti\"]",
+            "BradburyIV": "[\"H20\", \"U\", \"Ar\", \"C6Hn\"]",
+            "BradburyIVa": "[\"He-3\", \"A\", \"Eu\"]",
+            "BradburyV": "[]",
+            "BradburyVa": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "Eridani": {
+        "planets": {
+            "EridaniI": "[\"U\", \"C\"]",
+            "EridaniII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Au\"]",
+            "EridaniIII": "[\"H20\", \"U\", \"Ar\", \"Ir\", \"Pu\", \"V\"]",
+            "EridaniIIIa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "EridaniIIIb": "[\"H20\", \"He-3\", \"U\", \"C\", \"Fe\", \"Ni\", \"Ir\", \"V\"]",
+            "EridaniIIIc": "[\"He-3\", \"A\"]",
+            "EridaniIV": "[\"H20\", \"Ar\", \"F\"]",
+            "EridaniIVa": "[\"He-3\", \"A\"]",
+            "EridaniIVb": "[\"He-3\", \"A\", \"Be\", \"Nd\", \"Eu\"]",
+            "EridaniIVc": "[\"He-3\", \"A\", \"Eu\"]",
+            "EridaniV": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ag\"]",
+            "EridaniVI": "[]",
+            "EridaniVIa": "[\"H20\", \"Pb\"]",
+            "EridaniVII": "[]",
+            "EridaniVIIa": "[\"H20\", \"Ar\", \"Ne\"]",
+            "EridaniVIIb": "[\"H20\", \"Ar\"]",
+            "EridaniVIIc": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"A\", \"W\", \"Eu\", \"Ti\"]",
+            "EridaniVIII": "[]",
+            "EridaniVIIIa": "[]",
+            "EridaniVIIIb": "[\"H20\", \"He-3\", \"Pb\", \"Ni\", \"A\", \"Be\", \"Co\", \"Ag\"]",
+            "EridaniVIIIc": "[\"H20\", \"C\", \"SiH3C\", \"Cs\", \"Li\"]",
+            "EridaniVIIId": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Co\", \"HnCn\", \"Li\"]",
+            "EridaniIX": "[\"H20\", \"Ni\"]"
+        }
+    },
+    "Guniibuu": {
+        "planets": {
+            "GuniibuuI": "[\"He-3\", \"A\"]",
+            "GuniibuuIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "GuniibuuIb": "[\"He-3\", \"A\", \"Nd\"]",
+            "GuniibuuII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"A\", \"F\", \"Be\", \"Au\"]",
+            "GuniibuuIII": "[\"H20\", \"U\", \"Pb\", \"Ar\", \"Ir\", \"C6Hn\", \"V\", \"R-COC\"]",
+            "GuniibuuIIIa": "[]",
+            "GuniibuuIIIb": "[\"He-3\", \"A\"]",
+            "GuniibuuIIIc": "[\"He-3\", \"A\"]",
+            "GuniibuuIV": "[\"H20\", \"U\", \"Fe\", \"Cu\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "GuniibuuIVa": "[\"He-3\", \"Fe\"]",
+            "GuniibuuIVb": "[\"He-3\", \"A\", \"Nd\"]",
+            "GuniibuuV": "[]",
+            "GuniibuuVa": "[\"H20\", \"Cu\", \"F\"]",
+            "GuniibuuVb": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "GuniibuuVc": "[\"H20\", \"C\", \"SiH3C\"]",
+            "GuniibuuVd": "[\"H20\", \"Cu\"]",
+            "GuniibuuVe": "[\"H20\", \"C\"]",
+            "GuniibuuVI": "[]",
+            "GuniibuuVIa": "[\"H20\", \"Ni\"]",
+            "GuniibuuVIb": "[\"H20\", \"Pb\", \"Ni\", \"Pd\", \"Co\", \"Hg\"]",
+            "GuniibuuVIc": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "GuniibuuVId": "[\"H20\", \"Pb\", \"HnCn\", \"Ti\"]",
+            "GuniibuuVIe": "[\"H20\", \"Pb\", \"W\", \"Ti\"]",
+            "GuniibuuVII": "[]",
+            "GuniibuuVIIa": "[\"H20\", \"Ar\"]",
+            "GuniibuuVIIb": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "GuniibuuVIIc": "[\"H20\", \"Cu\", \"F\"]"
+        }
+    },
+    "Indum": {
+        "planets": {
+            "IndumI": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "IndumIa": "[\"He-3\", \"A\"]",
+            "IndumII": "[\"H20\", \"U\", \"Cu\", \"A\", \"Ar\", \"C6Hn\", \"F\", \"Be\"]",
+            "IndumIII": "[]",
+            "IndumIIIa": "[\"H20\", \"Cu\", \"Sb\"]",
+            "IndumIIIb": "[\"H20\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"xF4\", \"Ta\", \"Yb\"]",
+            "IndumIIIc": "[\"H20\", \"C\"]",
+            "IndumIIId": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "IndumIV": "[]",
+            "IndumIVa": "[\"H20\", \"Ni\", \"Pt\"]",
+            "IndumIVb": "[\"H20\", \"Ni\"]",
+            "IndumIVc": "[\"H20\", \"Pb\", \"Hg\"]",
+            "IndumIVd": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"F\", \"Au\", \"Ta\", \"Sb\"]",
+            "IndumV": "[]",
+            "IndumVa": "[\"He-3\", \"Fe\", \"HnCn\", \"Yb\"]"
+        }
+    },
+    "Kryx": {
+        "planets": {
+            "Suvorov": "[\"H20\", \"Cu\", \"F\"]",
+            "Neebas": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Pu\", \"Co\", \"Au\"]",
+            "Max": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"SiH3C\", \"Li\"]",
+            "Rocklock": "[\"He-3\", \"Fe\"]",
+            "Candore": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Nox": "[\"He-3\", \"A\", \"Be\"]",
+            "Boron": "[\"He-3\", \"A\", \"Be\"]",
+            "Ice": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "McClure": {
+        "planets": {
+            "McClureI": "[\"He-3\", \"A\", \"Nd\"]",
+            "McClureIa": "[\"He-3\", \"Fe\"]",
+            "McClureII": "[\"H20\", \"C\", \"Cu\", \"SiH3C\"]",
+            "McClureIIa": "[\"He-3\", \"A\"]",
+            "McClureIIb": "[\"He-3\", \"A\", \"Nd\"]",
+            "McClureIIc": "[]",
+            "McClureIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"HnCn\", \"Ta\"]"
+        }
+    },
+    "OborumPrime": {
+        "planets": {
+            "OborumI": "[\"H20\", \"C\", \"Cu\", \"SiH3C\", \"Au\"]",
+            "OborumII": "[]",
+            "OborumIIa": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"Ag\", \"Pt\", \"Ta\"]",
+            "OborumIIb": "[\"H20\", \"Ar\"]",
+            "OborumIII": "[]",
+            "OborumIIIa": "[\"H20\", \"Cu\"]",
+            "OborumIIIb": "[\"He-3\", \"A\", \"Nd\"]",
+            "OborumIIIc": "[\"H20\", \"Ar\"]",
+            "OborumIIId": "[\"H20\", \"Cu\", \"xF4\"]",
+            "OborumIV": "[]"
+        }
+    },
+    "UrsaeMinoris": {
+        "planets": {
+            "UrsaeMinorI": "[\"U\", \"Ni\", \"Cu\", \"Ir\", \"F\", \"Co\"]",
+            "UrsaeMinorIa": "[\"He-3\", \"A\", \"Eu\"]",
+            "UrsaeMinorIb": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "UrsaeMinorII": "[\"H20\", \"Cu\", \"Ar\", \"R-COC\", \"xF4\"]",
+            "UrsaeMinorIIa": "[\"He-3\", \"A\", \"Eu\"]",
+            "UrsaeMinorIII": "[\"H20\", \"C\", \"Cu\", \"SiH3C\"]"
+        }
+    },
+    "DeltaPavonis": {
+        "planets": {
+            "Curie": "[\"He-3\", \"A\"]",
+            "Magnar": "[\"H20\", \"Pb\", \"Ni\", \"A\", \"Ar\", \"Be\", \"Co\", \"Ag\"]",
+            "Arachna": "[\"H20\", \"U\", \"C\", \"Pb\", \"W\", \"SiH3C\", \"Dy\"]",
+            "Worthless": "[\"He-3\", \"Fe\"]",
+            "Bitsy": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Itsy": "[]",
+            "Nascent": "[\"He-3\", \"Fe\"]",
+            "Rudiment": "[\"He-3\", \"Fe\"]",
+            "Fundament": "[]",
+            "Gamow": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Co\", \"SiH3C\", \"HnCn\", \"Li\"]",
+            "Bose": "[\"He-3\", \"Fe\"]",
+            "Bode": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "Herald": "[\"He-3\", \"A\", \"Be\"]",
+            "Augur": "[\"H20\", \"Cu\", \"F\", \"xF4\"]",
+            "Faraday": "[]",
+            "Coulomb": "[\"H20\", \"Cu\", \"F\"]",
+            "Ampere": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"Ir\", \"V\", \"Ag\", \"HnCn\"]",
+            "Volt": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Yb\"]",
+            "Ohm": "[\"H20\", \"Cu\", \"F\"]"
+        }
+    },
+    "Groombridge": {
+        "planets": {
+            "GroombridgeI": "[\"H20\", \"U\", \"Fe\", \"A\", \"Be\", \"V\"]",
+            "GroombridgeII": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"W\", \"HnCn\"]",
+            "GroombridgeIIa": "[\"He-3\", \"A\"]",
+            "GroombridgeIIb": "[\"H20\", \"Pb\", \"Cu\", \"xF4\"]",
+            "GroombridgeIIc": "[\"He-3\", \"A\", \"Nd\"]",
+            "GroombridgeIII": "[\"H20\", \"U\", \"Pb\", \"Ag\"]",
+            "GroombridgeIIIa": "[]",
+            "GroombridgeIV": "[\"He-3\", \"A\", \"Be\"]",
+            "GroombridgeIVa": "[\"He-3\", \"A\"]",
+            "GroombridgeV": "[]",
+            "GroombridgeVa": "[\"H20\", \"Cu\", \"F\"]",
+            "GroombridgeVb": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "GroombridgeVc": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "GroombridgeVd": "[\"H20\", \"Ar\"]",
+            "GroombridgeVe": "[\"H20\", \"Cu\"]",
+            "GroombridgeVI": "[]",
+            "GroombridgeVIa": "[\"H20\", \"He-3\", \"Cu\", \"A\"]",
+            "GroombridgeVIb": "[\"H20\", \"C\", \"SiH3C\"]",
+            "GroombridgeVII": "[]",
+            "GroombridgeVIIa": "[\"H20\", \"Cu\"]",
+            "GroombridgeVIIb": "[\"H20\", \"Pb\", \"Ti\"]",
+            "GroombridgeVIII": "[]",
+            "GroombridgeVIIIa": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "GroombridgeVIIIb": "[\"H20\", \"Ni\", \"Co\"]",
+            "GroombridgeVIIIc": "[\"H20\", \"Pb\", \"Cu\", \"A\", \"Be\"]",
+            "GroombridgeVIIId": "[\"H20\", \"U\", \"C\", \"Ar\", \"Ir\", \"Li\"]"
+        }
+    },
+    "Kumasi": {
+        "planets": {
+            "KumasiI": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"Ne\"]",
+            "KumasiIa": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "KumasiII": "[\"H20\", \"U\", \"Ni\", \"Ir\", \"Pd\", \"Pu\", \"Co\", \"Pt\"]",
+            "KumasiIIa": "[]",
+            "KumasiIII": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"Co\"]",
+            "KumasiIIIa": "[]",
+            "KumasiIV": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"Co\", \"Dy\"]",
+            "KumasiIVa": "[\"He-3\", \"A\", \"Be\"]",
+            "KumasiV": "[]",
+            "KumasiVa": "[\"H20\", \"Cu\", \"Au\"]",
+            "KumasiVb": "[\"H20\", \"C\"]",
+            "KumasiVc": "[\"H20\", \"Ni\"]",
+            "KumasiVd": "[\"H20\", \"Ni\"]",
+            "KumasiVe": "[\"H20\", \"Ni\", \"Co\"]",
+            "KumasiVI": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ir\", \"HnCn\", \"Cs\"]",
+            "KumasiVIa": "[\"H20\", \"Cu\"]",
+            "KumasiVII": "[]",
+            "KumasiVIIa": "[\"He-3\", \"A\", \"Nd\", \"Eu\"]",
+            "KumasiVIIc": "[\"He-3\", \"Fe\"]",
+            "KumasiVIId": "[\"H20\", \"Cu\"]",
+            "KumasiVIII": "[]",
+            "KumasiVIIIa": "[\"H20\", \"He-3\", \"Fe\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "KumasiVIIIb": "[\"H20\", \"Pb\"]",
+            "KumasiVIIId": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Co\", \"SiH3C\"]",
+            "KumasiIX": "[\"H20\", \"C\"]",
+            "KumasiIXa": "[\"H20\", \"C\", \"Xe\"]",
+            "KumasiVIIb": "[\"H20\", \"Cu\", \"F\", \"IL\", \"xF4\"]",
+            "KumasiVIIIc": "[\"H20\", \"Cu\", \"F\", \"IL\"]"
+        }
+    },
+    "Feynman": {
+        "planets": {
+            "FeynmanV": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"W\", \"IL\", \"Co\"]",
+            "FeynmanI": "[\"U\", \"C\", \"Cu\", \"Ir\", \"F\", \"SiH3C\", \"xF4\", \"Li\"]",
+            "FeynmanII": "[\"U\", \"Pb\", \"Ir\", \"V\", \"Ag\"]",
+            "FeynmanIII": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ir\", \"V\", \"HnCn\", \"Ta\"]",
+            "FeynmanIV": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"A\", \"Ar\", \"C6Hn\", \"SiH3C\"]",
+            "FeynmanVa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "FeynmanVb": "[]",
+            "FeynmanVI": "[]",
+            "FeynmanVIa": "[\"H20\", \"Pd\", \"W\"]",
+            "FeynmanVIb": "[\"He-3\", \"A\", \"Be\"]",
+            "FeynmanVIc": "[\"H20\", \"Pb\", \"W\"]",
+            "FeynmanVII": "[]",
+            "FeynmanVIIa": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "FeynmanVIIb": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"A\", \"Ar\", \"Pu\", \"Nd\"]",
+            "FeynmanVIIc": "[\"H20\", \"Cu\", \"F\"]",
+            "FeynmanVIII": "[]",
+            "FeynmanVIIIa": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "FeynmanVIIIb": "[\"H20\", \"Cu\", \"F\", \"Au\", \"Sb\"]",
+            "FeynmanVIIIc": "[\"H20\", \"C\", \"Fe\", \"SiH3C\"]",
+            "FeynmanVIIId": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"Hg\", \"Au\"]",
+            "FeynmanVIIIe": "[\"H20\", \"Cu\", \"xF4\"]",
+            "FeynmanIX": "[\"He-3\", \"A\", \"Eu\"]",
+            "FeynmanIXa": "[\"H20\", \"Pb\"]"
+        }
+    },
+    "Foucault": {
+        "planets": {
+            "FoucaultVIIIa": "[\"H20\", \"Cu\", \"F\", \"IL\"]",
+            "FoucaultI": "[\"He-3\", \"A\", \"Be\"]",
+            "FoucaultIa": "[\"He-3\", \"A\", \"Nd\"]",
+            "FoucaultIb": "[\"He-3\", \"A\"]",
+            "FoucaultII": "[\"U\", \"C\", \"Ir\", \"Pu\"]",
+            "FoucaultIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "FoucaultIIb": "[\"He-3\", \"Fe\"]",
+            "FoucaultIII": "[\"H20\", \"Pb\", \"Ni\"]",
+            "FoucaultIIIa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "FoucaultIIIb": "[\"He-3\", \"A\"]",
+            "FoucaultIV": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "FoucaultV": "[]",
+            "FoucaultVa": "[\"H20\", \"Ni\"]",
+            "FoucaultVb": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Cu\", \"HnCn\", \"Hg\"]",
+            "FoucaultVc": "[\"H20\", \"Cu\", \"F\"]",
+            "FoucaultVd": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"W\", \"Co\"]",
+            "FoucaultVI": "[]",
+            "FoucaultVIa": "[\"H20\", \"Cu\", \"Au\"]",
+            "FoucaultVIb": "[\"H20\", \"C\"]",
+            "FoucaultVIc": "[\"H20\", \"He-3\", \"Cu\", \"A\", \"xF4\"]",
+            "FoucaultVId": "[\"H20\", \"C\", \"SiH3C\"]",
+            "FoucaultVIe": "[\"H20\", \"Cu\", \"F\", \"Au\", \"Sb\"]",
+            "FoucaultVII": "[]",
+            "FoucaultVIIa": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"W\", \"V\", \"Ti\"]",
+            "FoucaultVIIb": "[\"H20\", \"Ni\", \"Pt\"]",
+            "FoucaultVIIc": "[\"H20\", \"Ni\"]",
+            "FoucaultVIId": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"C6Hn\"]",
+            "FoucaultVIIe": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"A\", \"Ar\", \"Nd\", \"R-COC\"]",
+            "FoucaultVIII": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Lunara": {
+        "planets": {
+            "Vesta": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"Ar\", \"C6Hn\", \"F\", \"Hg\"]",
+            "VestaLunaris": "[\"He-3\", \"A\"]",
+            "Numitor": "[\"He-3\", \"A\", \"Be\"]",
+            "Remus": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "Romulus": "[\"He-3\", \"A\", \"Be\"]",
+            "Petria": "[\"H20\", \"Pb\", \"Cu\", \"F\", \"xF4\"]",
+            "Earrach": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "Gaea": "[\"He-3\", \"A\", \"Nd\"]",
+            "Crius": "[\"He-3\", \"A\"]",
+            "Coeus": "[\"He-3\", \"Fe\"]",
+            "Cassini": "[]",
+            "Lillius": "[\"H20\", \"Cu\", \"F\"]",
+            "Abetti": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "Gasparis": "[\"H20\", \"Cu\", \"F\", \"Au\", \"Sb\"]",
+            "Okoro": "[]",
+            "OkoroAlpha": "[\"H20\", \"C\", \"SiH3C\"]",
+            "OkoroBeta": "[\"H20\", \"C\", \"SiH3C\", \"Xe\"]",
+            "OkoroDelta": "[\"H20\", \"Ni\", \"Co\"]",
+            "OkoroEpsilon": "[\"H20\", \"Pb\"]",
+            "OkoroGamma": "[\"H20\", \"Ni\", \"Pt\"]",
+            "Cthol": "[]",
+            "Nyarloth": "[\"He-3\", \"Fe\"]",
+            "Uvhan": "[\"H20\", \"Ar\"]",
+            "AzValok": "[\"He-3\", \"Fe\"]",
+            "RevasWorld": "[\"He-3\", \"A\"]"
+        }
+    },
+    "OborumProxima": {
+        "planets": {
+            "OborumProximaI": "[\"H20\", \"C\", \"Pb\"]"
+        }
+    },
+    "Vega": {
+        "planets": {
+            "VegaI": "[]",
+            "VegaIa": "[\"H20\", \"C\"]",
+            "VegaIb": "[\"He-3\", \"A\"]",
+            "VegaIc": "[\"H20\", \"C\", \"SiH3C\"]",
+            "VegaII": "[]",
+            "VegaIIa": "[\"H20\", \"Cu\"]",
+            "VegaIIb": "[\"H20\", \"Pb\", \"Ti\", \"Dy\"]",
+            "VegaIIc": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\"]",
+            "VegaIId": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Pd\", \"HnCn\"]",
+            "VegaIIe": "[\"H20\", \"Ni\", \"Pd\", \"Co\"]"
+        }
+    },
+    "AlphaAndraste": {
+        "planets": {
+            "AlphaAndrasteI": "[\"He-3\", \"A\"]",
+            "AlphaAndrasteIa": "[\"He-3\", \"Fe\"]",
+            "AlphaAndrasteII": "[\"He-3\", \"C\", \"Fe\", \"A\", \"Be\", \"Ta\"]",
+            "AlphaAndrasteIII": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"SiH3C\", \"Xe\"]",
+            "AlphaAndrasteIV": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Cu\", \"Pd\", \"HnCn\", \"Ti\"]",
+            "AlphaAndrasteV": "[\"H20\", \"U\", \"C\", \"Ni\", \"Ir\", \"SiH3C\"]",
+            "AlphaAndrasteVI": "[\"H20\", \"Pb\", \"Ni\"]"
+        }
+    },
+    "Copernicus": {
+        "planets": {
+            "CopernicusI": "[\"H20\", \"Pb\", \"Ni\", \"W\"]",
+            "CopernicusII": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Cu\", \"C6Hn\", \"F\", \"Ti\"]",
+            "CopernicusIII": "[\"H20\", \"Pb\", \"Ar\", \"C6Hn\"]",
+            "CopernicusIIIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "CopernicusIV": "[\"H20\", \"Ni\", \"A\", \"Ar\", \"Be\"]",
+            "CopernicusV": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"Li\"]",
+            "CopernicusVI": "[\"He-3\", \"A\", \"Nd\", \"Eu\"]",
+            "CopernicusVII": "[]",
+            "CopernicusVIIa": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"F\"]",
+            "CopernicusVIIb": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "CopernicusVIII": "[]",
+            "CopernicusVIIIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "CopernicusVIIIb": "[\"H20\", \"Pb\"]",
+            "CopernicusVIIIc": "[\"H20\", \"Pb\", \"Ti\"]",
+            "CopernicusVIIId": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "CopernicusMinor": {
+        "planets": {
+            "CopernicusMinorI": "[]",
+            "CopernicusMinorIa": "[\"H20\", \"C\", \"Li\"]",
+            "CopernicusMinorIb": "[\"H20\", \"C\", \"Fe\", \"SiH3C\", \"HnCn\", \"Li\"]"
+        }
+    },
+    "Denebola": {
+        "planets": {
+            "DenebolaI": "[]",
+            "DenebolaIa": "[\"He-3\", \"A\"]",
+            "DenebolaIb": "[\"H20\", \"He-3\", \"U\", \"Fe\", \"Pb\", \"Cu\", \"Ir\", \"Ag\"]",
+            "DenebolaII": "[]",
+            "DenebolaIII": "[]",
+            "DenebolaIIIa": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"SiH3C\", \"HnCn\", \"Ta\", \"Yb\"]",
+            "DenebolaIIIb": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "Lantana": {
+        "planets": {
+            "LantanaI": "[\"He-3\", \"A\", \"Be\"]",
+            "LantanaII": "[\"U\", \"Pb\", \"Ni\", \"W\"]",
+            "LantanaIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"SiH3C\"]",
+            "LantanaIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "LantanaIV": "[\"H20\", \"Ni\", \"Cu\", \"F\", \"Co\"]",
+            "LantanaV": "[]",
+            "LantanaVa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "LantanaVb": "[\"H20\", \"Cu\"]",
+            "LantanaVI": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Co\", \"V\", \"HnCn\"]",
+            "LantanaVII": "[\"He-3\", \"C\", \"Pb\", \"Cu\", \"Ag\", \"Au\"]",
+            "LantanaVIII": "[]",
+            "LantanaVIIIa": "[\"H20\", \"Cu\", \"xF4\"]",
+            "LantanaVIIIb": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ir\", \"Pu\", \"Co\", \"Pt\"]",
+            "LantanaVIIIc": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"SiH3C\"]",
+            "LantanaVIIId": "[\"H20\", \"He-3\", \"C\", \"Ni\", \"Pd\", \"Co\", \"Pt\"]",
+            "LantanaIX": "[]",
+            "LantanaIXa": "[\"H20\", \"C\"]",
+            "LantanaIXb": "[\"H20\", \"Pb\", \"Ag\", \"Hg\"]",
+            "LantanaIXc": "[\"H20\", \"Ni\", \"Co\"]",
+            "LantanaIXd": "[\"H20\", \"Ni\"]",
+            "LantanaIXe": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Cu\", \"HnCn\", \"Ta\"]"
+        }
+    },
+    "Porrima": {
+        "planets": {
+            "PorrimaI": "[\"He-3\", \"Fe\"]",
+            "PorrimaIa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "PorrimaIb": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "PorrimaII": "[\"H20\", \"C\", \"Cs\", \"Li\"]",
+            "PorrimaIIa": "[]",
+            "PorrimaIIb": "[\"He-3\", \"A\"]",
+            "PorrimaIIc": "[\"H20\", \"C\", \"Pb\"]",
+            "PorrimaIII": "[\"H20\", \"He-3\", \"C\", \"A\", \"Li\"]",
+            "PorrimaIIIa": "[\"He-3\", \"A\", \"Eu\"]",
+            "PorrimaIIIb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "PorrimaIV": "[]",
+            "PorrimaIVa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "PorrimaIVb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "PorrimaIVc": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"Ne\", \"SiH3C\", \"R-COC\", \"HnCn\"]",
+            "PorrimaIVd": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ar\", \"Pu\", \"Ne\", \"R-COC\"]",
+            "PorrimaV": "[]",
+            "PorrimaVa": "[\"H20\", \"C\", \"Cu\", \"Ar\", \"C6Hn\", \"F\", \"Cs\", \"Li\"]",
+            "PorrimaVb": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "PorrimaVc": "[\"H20\", \"Cu\", \"Au\", \"Sb\"]",
+            "PorrimaVI": "[\"H20\", \"C\", \"Li\"]",
+            "PorrimaVIa": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "UrsaeMajoris": {
+        "planets": {
+            "UrsaeMajorI": "[\"U\", \"Cu\", \"F\"]",
+            "UrsaeMajorIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "UrsaeMajorIb": "[\"U\", \"Cu\", \"F\"]",
+            "UrsaeMajorIc": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "UrsaeMajorII": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"C6Hn\", \"SiH3C\"]",
+            "UrsaeMajorIII": "[\"H20\", \"Cu\", \"F\"]"
+        }
+    },
+    "Hyla": {
+        "planets": {
+            "HylaVIIIa": "[\"H20\", \"Cu\", \"IL\", \"xF4\"]",
+            "HylaI": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"Ir\", \"HnCn\", \"Hg\"]",
+            "HylaIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "HylaII": "[\"H20\", \"Pb\", \"A\", \"Ar\", \"F\", \"Be\", \"Ag\", \"R-COC\"]",
+            "HylaIIa": "[\"He-3\", \"A\", \"Eu\"]",
+            "HylaIIb": "[]",
+            "HylaIII": "[\"H20\", \"He-3\", \"Pb\", \"A\", \"Be\", \"Nd\", \"Hg\"]",
+            "HylaIV": "[]",
+            "HylaIVa": "[\"H20\", \"Ni\", \"Pt\"]",
+            "HylaIVb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "HylaV": "[\"H20\", \"He-3\", \"Pb\", \"A\", \"Nd\", \"Ag\", \"Hg\"]",
+            "HylaVa": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ar\", \"Ne\", \"V\", \"Ta\"]",
+            "HylaVI": "[]",
+            "HylaVIa": "[\"H20\", \"Cu\"]",
+            "HylaVIb": "[\"H20\", \"Cu\"]",
+            "HylaVII": "[]",
+            "HylaVIIa": "[\"H20\", \"C\", \"Pb\", \"W\", \"Ti\", \"Li\"]",
+            "HylaVIII": "[]",
+            "HylaVIIIb": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "HylaVIIIc": "[\"H20\", \"C\", \"SiH3C\"]",
+            "HylaVIIId": "[\"H20\", \"U\", \"C\", \"Ni\", \"Cu\", \"Ir\", \"Pu\", \"F\"]",
+            "HylaVIIIe": "[\"H20\", \"Ni\"]"
+        }
+    },
+    "Ixyll": {
+        "planets": {
+            "IxyllVIa": "[\"H20\", \"Cu\", \"F\", \"IL\"]",
+            "IxyllI": "[\"U\", \"Fe\", \"Pb\", \"Ni\", \"Ir\", \"Co\", \"HnCn\"]",
+            "IxyllII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"SiH3C\", \"HnCn\", \"Au\", \"Sb\"]",
+            "IxyllIIa": "[]",
+            "IxyllIII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"SiH3C\"]",
+            "IxyllIIIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "IxyllIIIb": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"C6Hn\", \"Be\", \"SiH3C\"]",
+            "IxyllIV": "[\"H20\", \"U\", \"Ni\", \"Ar\", \"Ne\", \"R-COC\"]",
+            "IxyllV": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"Ag\", \"Li\"]",
+            "IxyllVI": "[]",
+            "IxyllVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "IxyllVIc": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"A\", \"HnCn\", \"Eu\"]",
+            "IxyllVId": "[\"H20\", \"Pb\"]",
+            "IxyllVIe": "[\"H20\", \"C\", \"Ni\", \"Co\", \"SiH3C\"]",
+            "IxyllVII": "[]",
+            "IxyllVIIa": "[\"H20\", \"He-3\", \"U\", \"Cu\", \"A\", \"F\", \"Be\", \"Sb\"]",
+            "IxyllVIIb": "[\"H20\", \"Pb\", \"Cu\", \"W\", \"Au\"]",
+            "IxyllVIIc": "[\"H20\", \"Cu\", \"F\"]",
+            "IxyllVIII": "[]",
+            "IxyllVIIIa": "[\"He-3\", \"U\", \"A\", \"Ir\", \"Pu\", \"Be\"]",
+            "IxyllVIIIb": "[\"H20\", \"Ar\"]",
+            "IxyllIX": "[]",
+            "IxyllIXa": "[\"H20\", \"Ar\"]",
+            "IxyllIXb": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "IxyllIXc": "[\"H20\", \"Cu\", \"Au\"]",
+            "IxyllIXd": "[\"H20\", \"U\", \"Cu\", \"F\", \"V\"]"
+        }
+    },
+    "BetaTirna": {
+        "planets": {
+            "TirnaB": "[\"He-3\", \"Fe\", \"HnCn\"]"
+        }
+    },
+    "Bolivar": {
+        "planets": {
+            "BolivarI": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Cu\", \"W\"]"
+        }
+    },
+    "Jaffa": {
+        "planets": {
+            "JaffaI": "[\"U\", \"Fe\", \"Pb\", \"W\", \"HnCn\", \"Ti\", \"Dy\"]",
+            "JaffaIa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "JaffaII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"Hg\", \"Au\", \"Li\"]",
+            "JaffaIIa": "[\"H20\", \"U\", \"Ni\", \"Ir\", \"Pd\", \"Pu\", \"Co\"]",
+            "JaffaIII": "[\"H20\", \"U\", \"C\", \"Cu\", \"SiH3C\"]",
+            "JaffaIV": "[\"H20\", \"U\", \"Pb\", \"Cu\", \"Ar\", \"V\", \"R-COC\"]",
+            "JaffaIVa": "[\"He-3\", \"A\", \"Be\"]",
+            "JaffaV": "[]",
+            "JaffaVa": "[\"H20\", \"Cu\", \"xF4\"]",
+            "JaffaVI": "[]",
+            "JaffaVIa": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"C6Hn\", \"Ag\"]",
+            "JaffaVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "JaffaVIc": "[\"He-3\", \"A\", \"Nd\", \"Eu\"]",
+            "JaffaVII": "[]",
+            "JaffaVIIa": "[\"He-3\", \"Fe\"]",
+            "JaffaVIIb": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"W\", \"SiH3C\", \"Ti\", \"Dy\"]",
+            "JaffaVIIc": "[\"H20\", \"Ni\", \"Co\"]",
+            "JaffaVIId": "[\"H20\", \"Ni\", \"Co\"]",
+            "JaffaVIIe": "[\"H20\", \"Cu\", \"F\"]",
+            "JaffaVIII": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Nemeria": {
+        "planets": {
+            "NemeriaI": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\", \"Ag\", \"R-COC\"]",
+            "NemeriaII": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Ar\", \"C6Hn\", \"W\", \"Ne\"]",
+            "NemeriaIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "NemeriaIIb": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"HnCn\"]",
+            "NemeriaIII": "[\"He-3\", \"A\", \"Be\"]",
+            "NemeriaIIIa": "[\"He-3\", \"Fe\"]",
+            "NemeriaIV": "[]",
+            "NemeriaIVa": "[\"H20\", \"Pb\", \"Cu\", \"A\", \"Ar\", \"C6Hn\", \"F\", \"Sb\"]",
+            "NemeriaIVb": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Pd\", \"Co\", \"V\", \"Dy\"]",
+            "NemeriaV": "[]",
+            "NemeriaVa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "NemeriaVb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "NemeriaVc": "[\"H20\", \"He-3\", \"U\", \"Fe\", \"Cu\", \"V\", \"HnCn\", \"xF4\"]",
+            "NemeriaVI": "[]",
+            "NemeriaVIa": "[\"He-3\", \"A\"]",
+            "NemeriaVIb": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"F\", \"W\", \"HnCn\", \"Yb\"]",
+            "NemeriaVIc": "[\"H20\", \"Cu\", \"F\"]",
+            "NemeriaVId": "[\"H20\", \"Cu\", \"F\", \"Au\", \"Sb\"]",
+            "NemeriaVII": "[\"H20\", \"C\"]"
+        }
+    },
+    "Rivera": {
+        "planets": {
+            "RiveraI": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ar\", \"C6Hn\", \"Co\", \"Pt\"]",
+            "RiveraIa": "[\"H20\", \"He-3\", \"C\", \"A\", \"Be\", \"SiH3C\", \"Nd\"]",
+            "RiveraII": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ag\", \"Hg\"]",
+            "RiveraIIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "RiveraIIb": "[\"He-3\", \"A\"]",
+            "RiveraIIc": "[\"He-3\", \"A\", \"Eu\"]",
+            "RiveraIII": "[\"He-3\", \"Fe\"]",
+            "RiveraIV": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "RiveraIVa": "[\"He-3\", \"A\"]",
+            "RiveraV": "[]",
+            "RiveraVa": "[\"H20\", \"Ni\", \"Pt\"]"
+        }
+    },
+    "Shoza": {
+        "planets": {
+            "ShozaI": "[\"H20\", \"U\", \"Cu\", \"Ir\"]",
+            "ShozaIa": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "ShozaII": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Cu\", \"Co\", \"Ag\"]",
+            "ShozaIIa": "[\"H20\", \"He-3\", \"U\", \"C\", \"Ni\", \"A\", \"Co\", \"SiH3C\"]",
+            "ShozaIII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"A\", \"F\", \"SiH3C\", \"Li\"]",
+            "ShozaIIIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "ShozaIV": "[\"H20\", \"Pb\", \"Ni\", \"Ar\", \"C6Hn\", \"Co\", \"R-COC\", \"Pt\"]",
+            "ShozaV": "[\"H20\", \"Pb\", \"Cu\", \"Ar\", \"F\", \"W\", \"R-COC\"]",
+            "ShozaVI": "[]",
+            "ShozaVIa": "[\"H20\", \"Cu\"]",
+            "ShozaVII": "[]",
+            "ShozaVIIa": "[\"H20\", \"He-3\", \"Pb\", \"Cu\", \"A\", \"F\", \"W\"]",
+            "ShozaVIIb": "[\"H20\", \"He-3\", \"Pb\", \"Ni\", \"A\"]",
+            "ShozaVIIc": "[\"H20\", \"Pb\", \"Ni\", \"A\", \"Pd\", \"Be\", \"Co\", \"Eu\"]",
+            "ShozaVIII": "[]",
+            "ShozaVIIIa": "[\"H20\", \"Ni\"]",
+            "ShozaVIIIb": "[\"H20\", \"He-3\", \"Fe\", \"Cu\", \"A\", \"F\", \"Be\", \"Au\"]",
+            "ShozaVIIIc": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "ShozaVIIId": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Ir\", \"Pd\", \"Co\"]",
+            "ShozaIX": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "BetaTernion": {
+        "planets": {
+            "BetaTernionI": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"SiH3C\", \"Li\"]",
+            "BetaTernionIa": "[]",
+            "BetaTernionII": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"Pd\", \"Co\", \"Pt\"]",
+            "BetaTernionIII": "[\"H20\", \"Pb\", \"Cu\", \"Ar\", \"C6Hn\"]",
+            "BetaTernionIIIa": "[\"H20\", \"He-3\", \"C\", \"Ni\", \"A\", \"SiH3C\"]"
+        }
+    },
+    "Freya": {
+        "planets": {
+            "FreyaI": "[\"He-3\", \"A\", \"Eu\"]",
+            "FreyaII": "[\"U\", \"C\", \"Pb\", \"V\"]",
+            "FreyaIII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"Ar\", \"C6Hn\", \"Ag\", \"Hg\"]",
+            "FreyaIV": "[\"H20\", \"He-3\", \"U\", \"Ni\", \"A\", \"Ir\", \"Co\", \"Eu\"]",
+            "FreyaIVa": "[\"He-3\", \"Fe\"]",
+            "FreyaIVb": "[\"He-3\", \"A\", \"Eu\"]",
+            "FreyaIVc": "[\"He-3\", \"A\"]",
+            "FreyaV": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"Co\", \"SiH3C\"]",
+            "FreyaVI": "[\"He-3\", \"A\"]",
+            "FreyaVII": "[]",
+            "FreyaVIIa": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"W\", \"xF4\", \"Ti\"]",
+            "FreyaVIII": "[]",
+            "FreyaVIIIa": "[\"H20\", \"Pb\"]",
+            "FreyaIX": "[]",
+            "FreyaIXa": "[\"H20\", \"C\", \"SiH3C\", \"Xe\"]",
+            "FreyaIXb": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"Co\", \"Pt\"]",
+            "FreyaIXc": "[\"H20\", \"He-3\", \"C\", \"A\", \"Be\", \"Eu\"]"
+        }
+    },
+    "Khayyam": {
+        "planets": {
+            "KhayyamVIe": "[\"H20\", \"Cu\", \"IL\", \"xF4\"]",
+            "KhayyamI": "[\"He-3\", \"A\", \"Be\"]",
+            "KhayyamIa": "[]",
+            "KhayyamII": "[\"H20\", \"U\", \"C\", \"Ar\", \"Ir\", \"Pu\", \"SiH3C\", \"Xe\"]",
+            "KhayyamIIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "KhayyamIII": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Cu\", \"SiH3C\", \"HnCn\", \"Au\"]",
+            "KhayyamIIIa": "[\"He-3\", \"Fe\"]",
+            "KhayyamIIIb": "[\"He-3\", \"Fe\", \"HnCn\", \"Yb\"]",
+            "KhayyamIIIc": "[\"He-3\", \"A\", \"Eu\"]",
+            "KhayyamIV": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"W\", \"HnCn\", \"Ti\", \"Ta\"]",
+            "KhayyamIVa": "[\"He-3\", \"A\"]",
+            "KhayyamV": "[]",
+            "KhayyamVa": "[\"H20\", \"Ni\"]",
+            "KhayyamVI": "[]",
+            "KhayyamVIa": "[\"H20\", \"Ni\", \"Co\"]",
+            "KhayyamVIb": "[\"H20\", \"Pb\", \"W\"]",
+            "KhayyamVIc": "[\"H20\", \"Ar\"]",
+            "KhayyamVId": "[\"H20\", \"Ar\", \"C6Hn\"]"
+        }
+    },
+    "Moloch": {
+        "planets": {
+            "MolochI": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Co\", \"V\", \"Hg\"]",
+            "MolochIa": "[\"He-3\", \"A\"]",
+            "MolochII": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"C6Hn\", \"R-COC\", \"Li\"]",
+            "MolochIII": "[\"H20\", \"Pb\", \"Cu\", \"Ar\", \"F\", \"R-COC\", \"Sb\"]",
+            "MolochIV": "[\"He-3\", \"A\"]",
+            "MolochV": "[]",
+            "MolochVa": "[\"H20\", \"Cu\"]",
+            "MolochVb": "[\"H20\", \"Cu\", \"Au\"]",
+            "MolochVc": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"Ar\", \"C6Hn\", \"Ag\"]",
+            "MolochVd": "[\"H20\", \"He-3\", \"Cu\", \"A\", \"Nd\"]",
+            "MolochVI": "[]",
+            "MolochVIa": "[\"H20\", \"Cu\"]",
+            "MolochVIb": "[\"H20\", \"He-3\", \"U\", \"Ni\", \"A\", \"Ir\", \"Co\", \"Nd\"]",
+            "MolochVII": "[\"H20\", \"Cu\", \"F\"]"
+        }
+    },
+    "Nikola": {
+        "planets": {
+            "NikolaI": "[\"H20\", \"Fe\", \"A\", \"Ar\", \"Be\", \"R-COC\", \"HnCn\", \"Ta\"]",
+            "NikolaII": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ar\", \"Pu\", \"W\"]",
+            "NikolaIIa": "[\"He-3\", \"Fe\"]",
+            "NikolaIII": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"HnCn\", \"Ta\"]",
+            "NikolaIIIa": "[\"He-3\", \"A\"]",
+            "NikolaIIIb": "[\"He-3\", \"A\", \"Be\"]",
+            "NikolaIV": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "NikolaIVa": "[\"He-3\", \"Fe\"]",
+            "NikolaV": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "NikolaVI": "[\"He-3\", \"A\", \"Be\"]",
+            "NikolaVIa": "[\"He-3\", \"Fe\"]",
+            "NikolaVIb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "NikolaVII": "[]",
+            "NikolaVIIa": "[\"H20\", \"U\", \"Ni\", \"Ar\", \"Ir\", \"F\", \"Co\", \"Pt\"]",
+            "NikolaVIII": "[\"He-3\", \"A\"]",
+            "NikolaVIIIa": "[\"H20\", \"Cu\"]",
+            "NikolaIX": "[\"He-3\", \"A\"]",
+            "NikolaX": "[]",
+            "NikolaXa": "[\"H20\", \"C\"]"
+        }
+    },
+    "Nirvana": {
+        "planets": {
+            "Nirvana": "[\"U\", \"Pb\", \"Ir\", \"V\", \"Ag\"]",
+            "NirvanaIIa": "[\"He-3\", \"Fe\", \"HnCn\"]",
+            "NirvanaIII": "[\"H20\", \"U\", \"C\", \"Ni\", \"Ir\", \"SiH3C\", \"V\"]",
+            "NirvanaIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "NirvanaIV": "[]",
+            "NirvanaIVa": "[\"H20\", \"Cu\"]",
+            "NirvanaII": "[\"H20\", \"U\", \"Fe\", \"Cu\", \"F\", \"IL\", \"V\", \"xF4\"]"
+        }
+    },
+    "Masada": {
+        "planets": {
+            "MasadaVIIb": "[\"H20\", \"Cu\", \"IL\"]",
+            "MasadaI": "[\"He-3\", \"A\", \"Be\"]",
+            "MasadaII": "[\"U\", \"Pb\", \"Ir\", \"Ag\"]",
+            "MasadaIII": "[\"H20\", \"Fe\", \"Ni\", \"Ar\", \"Co\", \"HnCn\", \"Pt\", \"Yb\"]",
+            "MasadaIV": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"F\", \"W\", \"Co\", \"V\"]",
+            "MasadaIVa": "[]",
+            "MasadaV": "[]",
+            "MasadaVa": "[\"H20\", \"Ni\", \"Co\"]",
+            "MasadaVb": "[\"H20\", \"Ni\"]",
+            "MasadaVc": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ar\", \"C6Hn\", \"W\"]",
+            "MasadaVI": "[]",
+            "MasadaVIa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "MasadaVII": "[]",
+            "MasadaVIIa": "[\"H20\", \"Ar\"]",
+            "MasadaVIII": "[\"H20\", \"C\"]",
+            "MasadaVIIIa": "[\"H20\", \"Cu\"]",
+            "MasadaIX": "[]"
+        }
+    },
+    "Rasalhague": {
+        "planets": {
+            "RasalhagueI": "[\"U\", \"Fe\", \"HnCn\", \"Yb\"]",
+            "RasalhagueIa": "[\"He-3\", \"A\", \"Be\"]",
+            "RasalhagueII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"Cs\"]",
+            "RasalhagueIII": "[]",
+            "RasalhagueIIIa": "[\"H20\", \"Cu\", \"F\"]",
+            "RasalhagueIIIb": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "RasalhagueIV": "[\"He-3\", \"Fe\"]"
+        }
+    },
+    "AlphaMarae": {
+        "planets": {
+            "AlphaMaraeI": "[\"U\", \"Pb\", \"Ni\", \"Co\", \"V\", \"Ag\"]",
+            "AlphaMaraeII": "[]",
+            "AlphaMaraeIIa": "[\"H20\", \"Ni\"]",
+            "AlphaMaraeIII": "[]",
+            "AlphaMaraeIIIa": "[\"H20\", \"Pb\"]",
+            "AlphaMaraeIIIb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "AlphaMaraeIIIc": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "AlphaMaraeIIId": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ar\", \"Ir\", \"C6Hn\", \"Li\"]",
+            "AlphaMaraeIV": "[]",
+            "AlphaMaraeIVa": "[\"H20\", \"Cu\", \"F\"]",
+            "AlphaMaraeIVb": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"A\", \"Be\", \"Co\", \"HnCn\"]",
+            "AlphaMaraeV": "[\"He-3\", \"A\", \"Be\", \"Eu\"]"
+        }
+    },
+    "Bara": {
+        "planets": {
+            "BaraI": "[\"He-3\", \"Fe\"]",
+            "BaraII": "[\"U\", \"Fe\", \"Ir\"]",
+            "BaraIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BaraIII": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"SiH3C\", \"R-COC\", \"HnCn\"]",
+            "BaraIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BaraIV": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "BaraV": "[]",
+            "BaraVa": "[\"H20\", \"Pb\", \"Ti\"]",
+            "BaraVI": "[]",
+            "BaraVIa": "[\"H20\", \"Ni\", \"Co\"]",
+            "BaraVIb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "BaraVIc": "[\"H20\", \"Cu\", \"Au\"]",
+            "BaraVII": "[]",
+            "BaraVIIa": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "BaraVIIb": "[\"H20\", \"Cu\", \"F\"]",
+            "BaraVIIc": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "BaraVIId": "[\"H20\", \"U\", \"C\", \"Fe\", \"Cu\", \"A\", \"Li\"]"
+        }
+    },
+    "Linnaeus": {
+        "planets": {
+            "LinnaeusI": "[\"U\", \"Ir\"]",
+            "LinnaeusII": "[\"H20\", \"Pb\", \"Ar\", \"C6Hn\", \"Ag\"]",
+            "LinnaeusIIa": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "LinnaeusIII": "[\"H20\", \"U\", \"C\", \"Ni\", \"Cu\", \"F\", \"SiH3C\", \"xF4\"]",
+            "LinnaeusIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "LinnaeusIV": "[]",
+            "LinnaeusIVa": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ir\", \"Co\", \"Pt\"]",
+            "LinnaeusIVb": "[\"H20\", \"He-3\", \"Fe\", \"Pb\", \"A\", \"Be\", \"HnCn\", \"Yb\"]",
+            "LinnaeusIVc": "[\"H20\", \"Pb\", \"Ni\"]",
+            "LinnaeusV": "[\"He-3\", \"A\", \"Eu\"]",
+            "LinnaeusVI": "[\"H20\", \"Ni\", \"Co\"]",
+            "LinnaeusVII": "[\"He-3\", \"A\", \"Nd\"]"
+        }
+    },
+    "Ophion": {
+        "planets": {
+            "OphionI": "[]",
+            "OphionIa": "[\"H20\", \"Cu\", \"F\"]"
+        }
+    },
+    "Rutherford": {
+        "planets": {
+            "RutherfordI": "[\"He-3\", \"A\", \"Be\"]",
+            "RutherfordIa": "[\"He-3\", \"A\"]",
+            "RutherfordIb": "[\"He-3\", \"A\"]",
+            "RutherfordII": "[\"C\", \"Pb\", \"Ni\", \"Pt\"]",
+            "RutherfordIIa": "[\"He-3\", \"A\", \"Nd\"]",
+            "RutherfordIII": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"SiH3C\", \"Li\"]",
+            "RutherfordIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "RutherfordIV": "[]",
+            "RutherfordIVa": "[\"H20\", \"Ni\"]",
+            "RutherfordIVb": "[\"H20\", \"Ni\"]",
+            "RutherfordIVc": "[\"H20\", \"Ar\"]",
+            "RutherfordIVd": "[\"H20\", \"He-3\", \"U\", \"A\", \"Ar\", \"Ir\", \"C6Hn\", \"V\"]",
+            "RutherfordIVe": "[\"H20\", \"Ar\", \"Ne\", \"R-COC\"]",
+            "RutherfordV": "[]",
+            "RutherfordVa": "[\"H20\", \"Pb\", \"Cu\", \"Ti\"]",
+            "RutherfordVb": "[\"H20\", \"He-3\", \"U\", \"C\", \"Fe\", \"Pb\", \"SiH3C\", \"Hg\"]",
+            "RutherfordVI": "[]",
+            "RutherfordVIa": "[\"H20\", \"He-3\", \"U\", \"C\", \"A\", \"Be\", \"Nd\", \"Cs\"]",
+            "RutherfordVIb": "[\"H20\", \"Cu\", \"Sb\"]",
+            "RutherfordVIc": "[\"H20\", \"C\"]",
+            "RutherfordVId": "[\"H20\", \"Pb\"]"
+        }
+    },
+    "Tidacha": {
+        "planets": {
+            "TidachaI": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"C6Hn\", \"R-COC\", \"HnCn\"]",
+            "TidachaIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "TidachaIb": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "TidachaIc": "[\"He-3\", \"Fe\", \"Yb\"]"
+        }
+    },
+    "Alchiba": {
+        "planets": {
+            "AlchibaI": "[\"Pb\", \"Ni\", \"Pd\", \"Co\"]",
+            "AlchibaII": "[\"U\", \"Fe\", \"Pb\", \"Ir\", \"Ag\", \"HnCn\"]",
+            "AlchibaIIa": "[\"He-3\", \"A\"]",
+            "AlchibaIII": "[]",
+            "AlchibaIIIa": "[\"H20\", \"He-3\", \"Pb\", \"A\", \"W\"]",
+            "AlchibaIIIb": "[\"He-3\", \"A\"]",
+            "AlchibaIIIc": "[\"H20\", \"He-3\", \"Ni\", \"A\", \"Be\", \"Co\", \"Nd\", \"Pt\"]",
+            "AlchibaIV": "[\"H20\", \"U\", \"Pb\", \"Cu\", \"Ir\", \"V\", \"xF4\"]",
+            "AlchibaIVa": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"Ar\", \"F\", \"Co\"]",
+            "AlchibaV": "[\"H20\", \"U\", \"Pb\", \"Ar\", \"Ir\"]",
+            "AlchibaVa": "[\"He-3\", \"Fe\", \"HnCn\", \"Yb\"]",
+            "AlchibaVI": "[]",
+            "AlchibaVIa": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "AlchibaVIb": "[\"H20\", \"Cu\", \"xF4\"]",
+            "AlchibaVIc": "[\"H20\", \"Cu\", \"F\"]",
+            "AlchibaVII": "[]",
+            "AlchibaVIIa": "[\"H20\", \"Cu\"]",
+            "AlchibaVIIb": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Cu\", \"Co\", \"xF4\"]",
+            "AlchibaVIIc": "[\"H20\", \"Pb\", \"Hg\"]",
+            "AlchibaVIId": "[\"H20\", \"Pb\"]",
+            "AlchibaVIII": "[\"He-3\", \"Fe\"]",
+            "AlchibaVIIIa": "[\"H20\", \"Pb\"]",
+            "AlchibaVIIIb": "[\"He-3\", \"A\"]",
+            "AlchibaIX": "[]",
+            "AlchibaIXa": "[\"H20\", \"Ar\"]",
+            "AlchibaX": "[]",
+            "AlchibaXa": "[\"H20\", \"Cu\", \"Au\"]",
+            "AlchibaXb": "[\"H20\", \"Pb\", \"Ar\", \"C6Hn\"]"
+        }
+    },
+    "Bannoc": {
+        "planets": {
+            "BannocIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BannocIV": "[]",
+            "BannocIVa": "[\"H20\", \"C\", \"SiH3C\", \"Cs\"]",
+            "BannocIVb": "[\"H20\", \"Pb\", \"Ag\"]"
+        }
+    },
+    "BannocSecondus": {
+        "planets": {
+            "BannocSecondusI": "[\"He-3\", \"A\", \"Nd\"]"
+        }
+    },
+    "DeltaVulpes": {
+        "planets": {
+            "DeltaVulpesI": "[]",
+            "DeltaVulpesII": "[\"H20\", \"Fe\", \"Ni\", \"Co\"]",
+            "DeltaVulpesIII": "[\"He-3\", \"A\", \"Be\"]",
+            "DeltaVulpesIIIa": "[\"He-3\", \"Fe\", \"Ta\"]",
+            "DeltaVulpesIV": "[]",
+            "DeltaVulpesIVa": "[\"H20\", \"Ni\"]",
+            "DeltaVulpesV": "[]",
+            "DeltaVulpesVa": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "DeltaVulpesVb": "[\"H20\", \"Ar\"]",
+            "DeltaVulpesVc": "[\"H20\", \"He-3\", \"U\", \"C\", \"Fe\", \"Cu\", \"A\", \"xF4\"]",
+            "DeltaVulpesVd": "[\"H20\", \"Cu\", \"F\"]",
+            "DeltaVulpesVe": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "DeltaVulpesVI": "[]",
+            "DeltaVulpesVIa": "[\"H20\", \"Cu\", \"F\"]",
+            "DeltaVulpesVII": "[\"He-3\", \"Fe\", \"HnCn\"]"
+        }
+    },
+    "GammaVulpes": {
+        "planets": {
+            "GammaVulpesI": "[\"H20\", \"C\", \"Cu\", \"SiH3C\", \"Li\"]",
+            "GammaVulpesII": "[]",
+            "GammaVulpesIIa": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Ar\", \"Ir\", \"Co\"]",
+            "GammaVulpesIIb": "[\"H20\", \"Cu\", \"xF4\"]",
+            "GammaVulpesIIc": "[\"H20\", \"Cu\"]",
+            "GammaVulpesIId": "[\"H20\", \"C\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"Co\"]",
+            "GammaVulpesIII": "[]",
+            "GammaVulpesIIIa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "GammaVulpesIV": "[]",
+            "GammaVulpesIVa": "[\"H20\", \"U\", \"Pb\", \"W\", \"Ti\", \"Dy\"]",
+            "GammaVulpesIVb": "[\"He-3\", \"Fe\"]",
+            "GammaVulpesIVc": "[\"H20\", \"C\"]",
+            "GammaVulpesIVd": "[\"He-3\", \"A\", \"Nd\"]"
+        }
+    },
+    "XiOphiuchi": {
+        "planets": {
+            "XiOphiuchiI": "[\"He-3\", \"A\", \"Be\"]",
+            "XiOphiuchiII": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"V\"]",
+            "XiOphiuchiIII": "[\"U\", \"Fe\", \"Cu\", \"Ir\", \"F\", \"HnCn\", \"Yb\", \"Sb\"]",
+            "XiOphiuchiIIIa": "[\"He-3\", \"Fe\"]",
+            "XiOphiuchiIV": "[\"H20\", \"C\", \"Ni\", \"F\"]",
+            "XiOphiuchiV": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Co\", \"xF4\", \"Pt\"]",
+            "XiOphiuchiVa": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "XiOphiuchiVI": "[]",
+            "XiOphiuchiVIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "XiOphiuchiVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "XiOphiuchiVIc": "[\"H20\", \"Ni\"]",
+            "XiOphiuchiVId": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ir\", \"Co\", \"Pt\"]",
+            "XiOphiuchiVIe": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ir\", \"W\", \"V\", \"Dy\"]",
+            "XiOphiuchiVII": "[]",
+            "XiOphiuchiVIIa": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"SiH3C\", \"Ag\", \"Hg\", \"Li\"]",
+            "XiOphiuchiVIIb": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\", \"Co\", \"R-COC\", \"Pt\"]",
+            "XiOphiuchiVIII": "[]",
+            "XiOphiuchiVIIIa": "[\"H20\", \"Cu\"]",
+            "XiOphiuchiVIIIb": "[\"H20\", \"C\", \"Fe\", \"Ni\"]",
+            "XiOphiuchiVIIIc": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"A\", \"Ar\", \"V\", \"Ag\"]",
+            "XiOphiuchiVIIId": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "XiOphiuchiVIIIe": "[\"H20\", \"C\", \"SiH3C\"]",
+            "XIOphiuchiIX": "[\"He-3\", \"Fe\"]"
+        }
+    },
+    "ZetaOphiuchi": {
+        "planets": {
+            "ZetaOphiuchiI": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Ag\", \"HnCn\", \"Ta\", \"Yb\"]",
+            "ZetaOphiuchiII": "[\"He-3\", \"A\", \"Be\"]",
+            "ZetaOphiuchiIII": "[\"He-3\", \"A\", \"Be\"]",
+            "ZetaOphiuchiIIIa": "[\"He-3\", \"Fe\"]",
+            "ZetaOphiuchiIV": "[]",
+            "ZetaOphiuchiIVa": "[\"H20\", \"Ni\", \"Co\"]",
+            "ZetaOphiuchiIVb": "[\"He-3\", \"Fe\"]",
+            "ZetaOphiuchiIVc": "[\"H20\", \"Ni\"]",
+            "ZetaOphiuchiIVd": "[\"He-3\", \"A\", \"Be\"]",
+            "ZetaOphiuchiIVe": "[\"H20\", \"Pb\", \"Ag\"]",
+            "ZetaOphiuchiV": "[]",
+            "ZetaOphiuchiVa": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "ZetaOphiuchiVb": "[\"H20\", \"Cu\", \"F\"]",
+            "ZetaOphiuchiVI": "[]",
+            "ZetaOphiuchiVIa": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"Cu\", \"F\", \"Au\", \"Sb\"]",
+            "ZetaOphiuchiVIb": "[\"H20\", \"Ar\"]",
+            "ZetaOphiuchiVIc": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"Co\", \"Pt\"]",
+            "ZetaOphiuchiVId": "[\"H20\", \"C\", \"SiH3C\"]",
+            "ZetaOphiuchiVIe": "[\"H20\", \"U\", \"C\", \"Ni\", \"Cu\", \"Ir\", \"Pu\", \"Li\"]"
+        }
+    },
+    "Zosma": {
+        "planets": {
+            "ZosmaI": "[\"Pb\", \"Ni\", \"Co\"]",
+            "ZosmaIa": "[\"H20\", \"C\", \"SiH3C\", \"Xe\"]",
+            "ZosmaII": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "ZosmaIII": "[]",
+            "ZosmaIIIa": "[\"H20\", \"He-3\", \"U\", \"C\"]",
+            "ZosmaIV": "[]",
+            "ZosmaIVa": "[\"H20\", \"Ni\"]",
+            "ZosmaIVb": "[\"H20\", \"Pb\"]",
+            "ZosmaIVc": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Pd\", \"Co\", \"HnCn\"]",
+            "ZosmaV": "[]",
+            "ZosmaVa": "[\"H20\", \"U\", \"C\", \"Fe\", \"Pb\", \"SiH3C\", \"HnCn\"]",
+            "ZosmaVb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "ZosmaVc": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Bel": {
+        "planets": {
+            "BelI": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"F\", \"SiH3C\", \"R-COC\"]",
+            "BelIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BelII": "[\"H20\", \"C\", \"A\", \"Ar\", \"C6Hn\", \"Li\"]",
+            "BelIIa": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"Co\", \"HnCn\", \"Sb\"]",
+            "BelIII": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"Pd\", \"SiH3C\", \"xF4\"]",
+            "BelIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "BelIIIb": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "BelIIIc": "[\"He-3\", \"A\", \"Nd\", \"Eu\"]",
+            "BelIV": "[]",
+            "BelIVa": "[\"H20\", \"C\"]",
+            "BelIVb": "[\"H20\", \"C\"]",
+            "BelIVc": "[\"H20\", \"C\", \"Ni\", \"A\", \"Nd\"]",
+            "BelIVd": "[\"H20\", \"Fe\", \"Ni\", \"Co\", \"HnCn\", \"Pt\", \"Ta\"]",
+            "BelIVe": "[\"H20\", \"C\", \"Ni\", \"A\", \"Nd\"]",
+            "BelV": "[\"He-3\", \"Fe\"]",
+            "BelVa": "[\"H20\", \"Cu\"]",
+            "BelVI": "[]",
+            "BelVII": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Heisenberg": {
+        "planets": {
+            "HeisenbergI": "[]",
+            "HeisenbergII": "[\"H20\", \"U\", \"Pb\", \"Cu\", \"Ir\", \"F\", \"W\", \"xF4\"]",
+            "HeisenbergIII": "[\"H20\", \"Pb\", \"Ar\", \"Ag\"]",
+            "HeisenbergIV": "[\"H20\", \"Pb\", \"Cu\", \"F\", \"W\", \"xF4\"]",
+            "HeisenbergV": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Ir\", \"Co\", \"Pt\"]",
+            "HeisenbergVa": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"Be\", \"SiH3C\", \"R-COC\"]",
+            "HeisenbergVI": "[]",
+            "HeisenbergVIa": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "HeisenbergVIb": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "HeisenbergVIc": "[\"H20\", \"Cu\"]",
+            "HeisenbergVII": "[]",
+            "HeisenbergVIIa": "[\"H20\", \"C\"]",
+            "HeisenbergVIII": "[]",
+            "HeisenbergVIIIa": "[\"H20\", \"C\", \"Li\"]",
+            "HeisenbergVIIIb": "[\"H20\", \"Pb\", \"W\", \"Ti\"]",
+            "HeisenbergVIIIc": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"SiH3C\", \"HnCn\"]",
+            "HeisenbergVIIId": "[\"H20\", \"Pb\"]",
+            "HeisenbergIX": "[\"He-3\", \"A\", \"Be\"]",
+            "HeisenbergX": "[\"H20\", \"Cu\", \"F\", \"Au\"]"
+        }
+    },
+    "Leviathan": {
+        "planets": {
+            "LeviathanI": "[\"He-3\", \"Fe\"]",
+            "LeviathanII": "[\"He-3\", \"A\", \"Be\", \"Nd\", \"Eu\"]",
+            "LeviathanIII": "[\"C\", \"Pb\"]",
+            "LeviathanIV": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"A\", \"F\", \"Yb\"]",
+            "LeviathanV": "[]",
+            "LeviathanVa": "[\"H20\", \"Ar\", \"Ne\"]",
+            "LeviathanVI": "[]",
+            "LeviathanVIa": "[\"H20\", \"Cu\", \"Au\"]",
+            "LeviathanVIb": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"SiH3C\", \"Xe\"]",
+            "LeviathanVII": "[\"He-3\", \"A\"]"
+        }
+    },
+    "Newton": {
+        "planets": {
+            "NewtonI": "[\"He-3\", \"A\"]",
+            "NewtonIa": "[\"He-3\", \"A\"]",
+            "NewtonII": "[\"H20\", \"U\", \"Fe\", \"Cu\", \"A\", \"V\", \"HnCn\", \"xF4\"]",
+            "NewtonIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "NewtonIIb": "[\"He-3\", \"Fe\"]",
+            "NewtonIII": "[\"H20\", \"U\", \"C\", \"Pb\", \"Cu\", \"W\", \"Au\", \"Li\"]",
+            "NewtonIV": "[\"H20\", \"C\", \"Ni\", \"SiH3C\", \"Pt\"]",
+            "NewtonV": "[]",
+            "NewtonVa": "[\"H20\", \"Pb\"]",
+            "NewtonVb": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"W\", \"Au\", \"Ti\"]",
+            "NewtonVc": "[\"H20\", \"Pb\"]",
+            "NewtonVI": "[\"He-3\", \"Fe\"]"
+        }
+    },
+    "Nirah": {
+        "planets": {
+            "Lontrah": "[\"He-3\", \"U\", \"Ni\", \"A\", \"Be\"]",
+            "Delah": "[\"He-3\", \"U\", \"Fe\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "Kazarah": "[]",
+            "Kazaal": "[\"H20\", \"Ni\", \"Cu\"]",
+            "NirahPrime": "[]",
+            "Nraal": "[\"H20\", \"Pb\", \"W\"]",
+            "Umanah": "[\"H20\", \"Pb\"]"
+        }
+    },
+    "Serpentis": {
+        "planets": {
+            "SerpentisI": "[\"He-3\", \"U\", \"A\", \"V\"]",
+            "SerpentisII": "[\"H20\", \"C\", \"Pb\", \"A\", \"Be\", \"W\", \"SiH3C\", \"Li\"]",
+            "SerpentisIIa": "[\"He-3\", \"A\"]",
+            "SerpentisIIb": "[]",
+            "SerpentisIII": "[\"H20\", \"Pb\", \"Cu\", \"F\"]",
+            "SerpentisIV": "[]",
+            "SerpentisIVa": "[]",
+            "SerpentisV": "[]",
+            "SerpentisVa": "[]",
+            "SerpentisVb": "[]",
+            "SerpentisVc": "[]",
+            "SerpentisVd": "[]",
+            "SerpentisVI": "[]"
+        }
+    },
+    "Syrma": {
+        "planets": {
+            "SyrmaI": "[\"U\", \"Pb\", \"Ni\", \"Co\"]",
+            "SyrmaIa": "[\"He-3\", \"A\"]",
+            "SyrmaIb": "[\"He-3\", \"A\", \"Be\"]",
+            "SyrmaII": "[\"U\", \"C\", \"Fe\", \"Ni\", \"Pu\", \"SiH3C\", \"HnCn\", \"Pt\"]",
+            "SyrmaIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "SyrmaIII": "[\"H20\", \"He-3\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"Co\", \"R-COC\"]",
+            "SyrmaIV": "[\"H20\", \"A\", \"Ar\"]",
+            "SyrmaIVa": "[\"He-3\", \"A\"]",
+            "SyrmaV": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"F\", \"xF4\", \"Pt\"]",
+            "SyrmaVI": "[]",
+            "SyrmaVIa": "[\"H20\", \"Ni\"]",
+            "SyrmaVIb": "[\"H20\", \"Pb\"]",
+            "SyrmaVIc": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"Ni\", \"Pt\", \"Ta\", \"Yb\"]",
+            "SyrmaVId": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "SyrmaVII": "[]",
+            "SyrmaVIIa": "[\"H20\", \"C\", \"Ni\", \"Ar\", \"Co\", \"SiH3C\", \"Pt\", \"Li\"]",
+            "SyrmaVIIb": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "AlphaTernion": {
+        "planets": {
+            "TernionI": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "TernionII": "[\"U\", \"Pu\"]",
+            "TernionIII": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"W\", \"R-COC\", \"Ti\"]",
+            "TernionIIIa": "[\"He-3\", \"Fe\"]",
+            "TernionIV": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Hg\"]",
+            "TernionV": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"W\", \"HnCn\", \"Ta\"]",
+            "TernionVa": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Co\", \"SiH3C\", \"Xe\"]",
+            "TernionVb": "[]",
+            "TernionVI": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"F\", \"W\", \"Ti\", \"Ta\"]",
+            "TernionVIa": "[\"He-3\", \"A\", \"Be\"]",
+            "TernionVII": "[\"H20\", \"He-3\", \"C\", \"A\", \"Be\", \"SiH3C\", \"Li\"]",
+            "TernionVIII": "[\"H20\", \"C\", \"SiH3C\"]",
+            "TernionIX": "[]",
+            "TernionIXa": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "TernionIXb": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "TernionIXc": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "TernionIXd": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]"
+        }
+    },
+    "Decaran": {
+        "planets": {
+            "DecaranI": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "DecaranII": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "DecaranIII": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"Pd\", \"W\", \"Co\"]",
+            "DecaranIV": "[\"He-3\", \"A\", \"Be\"]",
+            "DecaranV": "[\"He-3\", \"A\", \"Be\"]",
+            "DecaranVa": "[\"He-3\", \"Fe\"]",
+            "DecaranVb": "[\"He-3\", \"A\", \"Be\"]",
+            "DecaranVI": "[]",
+            "DecaranVIa": "[\"H20\", \"Cu\", \"F\"]",
+            "DecaranVII": "[\"He-3\", \"A\"]",
+            "DecaranVIIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "DecaranVIIb": "[\"He-3\", \"U\", \"Ir\", \"Vy\"]",
+            "DecaranVIII": "[]",
+            "DecaranVIIIa": "[\"He-3\", \"Fe\"]",
+            "DecaranVIIIb": "[\"H20\", \"Ni\", \"Co\"]",
+            "DecaranIX": "[\"He-3\", \"A\", \"Be\"]"
+        }
+    },
+    "Kang": {
+        "planets": {
+            "KangI": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "KangII": "[\"He-3\", \"A\", \"Be\"]",
+            "KangIII": "[\"H20\", \"Fe\", \"Pb\", \"Ag\", \"HnCn\"]",
+            "KangIV": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Ir\", \"Co\", \"V\"]",
+            "KangIVa": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"Ni\", \"A\", \"Ar\"]",
+            "KangIVb": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "KangIVc": "[\"He-3\", \"A\"]",
+            "KangV": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Ar\", \"Co\", \"HnCn\", \"Ta\"]",
+            "KangVI": "[\"H20\", \"Pb\", \"Cu\", \"Ti\", \"Sb\"]",
+            "KangVIa": "[\"He-3\", \"A\", \"Be\"]",
+            "KangVII": "[]",
+            "KangVIIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "KangVIIb": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\"]",
+            "KangVIIc": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"xF4\"]",
+            "KangVIId": "[\"H20\", \"Ni\", \"Co\"]",
+            "KangVIII": "[]",
+            "KangVIIIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "KangVIIIb": "[\"H20\", \"Ni\"]",
+            "KangVIIIc": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"SiH3C\", \"HnCn\", \"Yb\"]",
+            "KangVIIId": "[\"H20\", \"Pb\", \"Ag\"]"
+        }
+    },
+    "Maal": {
+        "planets": {
+            "MaalI": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "MaalIa": "[\"He-3\", \"A\"]",
+            "MaalIb": "[\"He-3\", \"Fe\"]",
+            "MaalII": "[\"C\", \"Fe\", \"Ni\"]",
+            "MaalIIa": "[\"He-3\", \"A\"]",
+            "MaalIII": "[\"Fe\", \"Pb\", \"Cu\", \"HnCn\", \"Au\", \"Ti\"]",
+            "MaalIIIa": "[]",
+            "MaalIV": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ir\", \"Ag\", \"Hg\"]",
+            "MaalV": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Ar\", \"Co\", \"Ag\"]",
+            "MaalVa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "MaalVI": "[]",
+            "MaalVIa": "[\"H20\", \"He-3\", \"U\", \"C\", \"Pb\", \"A\", \"Be\", \"Li\"]",
+            "MaalVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "MaalVIc": "[\"H20\", \"C\"]",
+            "MaalVII": "[\"H20\", \"Ni\", \"Cu\", \"F\", \"W\", \"xF4\", \"Pt\"]",
+            "MaalVIII": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Cu\", \"Ir\", \"V\"]",
+            "MaalVIIIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "MaalIX": "[]",
+            "MaalIXa": "[\"H20\", \"Ar\"]",
+            "MaalIXb": "[\"H20\", \"U\", \"C\", \"Cu\", \"V\", \"Sb\"]",
+            "MaalIXc": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "MaalIXd": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "MaalX": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "Sparta": {
+        "planets": {
+            "SpartaI": "[\"U\", \"C\", \"Fe\", \"Ir\", \"V\", \"HnCn\", \"Ta\"]",
+            "SpartaII": "[\"U\", \"Pb\", \"W\", \"Ti\"]",
+            "SpartaIIa": "[\"He-3\", \"A\"]",
+            "SpartaIIb": "[]",
+            "SpartaIII": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Cu\", \"Ar\", \"C6Hn\", \"F\"]",
+            "SpartaIIIa": "[\"He-3\", \"A\", \"Nd\"]",
+            "SpartaV": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Co\", \"HnCn\", \"Pt\", \"Ta\"]",
+            "SpartaVa": "[\"He-3\", \"A\", \"Be\"]",
+            "SpartaVI": "[]",
+            "SpartaVIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "SpartaVIb": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Ir\", \"Pd\"]",
+            "SpartaVIc": "[\"H20\", \"Pb\", \"Ag\"]",
+            "SpartaVII": "[]",
+            "SpartaVIIa": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Co\", \"Pt\"]",
+            "SpartaVIIb": "[\"H20\", \"Ar\"]",
+            "SpartaVIIc": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "SpartaVIII": "[]",
+            "SpartaVIIIa": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "SpartaVIIIb": "[\"H20\", \"He-3\", \"Pb\", \"Cu\", \"A\", \"F\", \"Be\"]",
+            "SpartaVIIIc": "[\"H20\", \"Cu\"]",
+            "SpartaIV": "[\"H20\", \"C\", \"Cu\", \"F\", \"IL\", \"SiH3C\", \"HnCn\"]"
+        }
+    },
+    "Zelazny": {
+        "planets": {
+            "ZelaznyI": "[\"C\", \"Pb\", \"Xe\"]",
+            "ZelaznyII": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Ar\", \"W\", \"SiH3C\", \"Ti\"]",
+            "ZelaznyIIa": "[\"He-3\", \"Fe\"]",
+            "ZelaznyIII": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"W\", \"Cs\"]",
+            "ZelaznyIV": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"SiH3C\", \"xF4\", \"Li\"]",
+            "ZelaznyV": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Pt\", \"Xe\", \"Li\"]",
+            "ZelaznyVI": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"SiH3C\", \"Li\"]",
+            "ZelaznyVII": "[]",
+            "ZelaznyVIIa": "[\"H20\", \"Ni\", \"Co\"]",
+            "ZelaznyVIIb": "[\"H20\", \"Fe\", \"Pb\", \"Ni\", \"Co\", \"Pt\", \"Ti\"]",
+            "ZelaznyVIIc": "[\"H20\", \"Pb\", \"Ti\"]",
+            "ZelaznyVIId": "[\"H20\", \"U\", \"Ni\", \"Ar\", \"Ir\", \"Pd\", \"Pu\", \"V\"]",
+            "ZelaznyVIII": "[]",
+            "ZelaznyVIIIa": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "ZelaznyVIIIb": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "ZelaznyVIIIc": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Pd\", \"Co\", \"Ag\", \"Pt\"]",
+            "ZelaznyVIIId": "[\"H20\", \"C\"]",
+            "ZelazmyVIIIe": "[\"H20\", \"C\", \"SiH3C\"]"
+        }
+    },
+    "Charybdis": {
+        "planets": {
+            "CharybdisI": "[\"U\", \"Fe\", \"Pb\"]",
+            "CharybdisII": "[\"H20\", \"C\", \"A\", \"Ar\", \"Be\", \"SiH3C\", \"Nd\", \"Eu\"]",
+            "CharybdisIII": "[\"H20\", \"C\", \"Cu\", \"SiH3C\", \"Cs\"]",
+            "CharybdisIV": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"Co\", \"Au\"]",
+            "CharybdisIVa": "[\"He-3\", \"A\", \"Nd\"]",
+            "CharybdisV": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"W\", \"Au\", \"Ti\", \"Sb\"]",
+            "CharybdisVa": "[]",
+            "CharybdisVI": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"F\", \"Co\", \"Pt\"]",
+            "CharybdisVIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "CharybdisVIb": "[\"H20\", \"U\", \"C\", \"Fe\", \"HnCn\", \"Ta\"]",
+            "CharybdisVII": "[]",
+            "CharybdisVIIa": "[\"H20\", \"Cu\", \"F\"]",
+            "CharybdisVIIb": "[\"H20\", \"Cu\", \"F\", \"xF4\"]",
+            "CharybdisVIIc": "[\"H20\", \"Pb\", \"Hg\"]",
+            "CharybdisVIId": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"Co\", \"Pt\", \"Ta\"]",
+            "CharybdisVIII": "[]",
+            "CharybdisVIIIa": "[\"H20\", \"Pb\"]",
+            "CharybdisVIIIb": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\", \"R-COC\"]",
+            "CharybdisIX": "[\"H20\", \"C\"]"
+        }
+    },
+    "Enlil": {
+        "planets": {
+            "EnlilI": "[\"U\", \"Pb\", \"Ni\", \"Co\", \"Pt\"]",
+            "EnlilIa": "[\"U\", \"Pb\", \"Ni\", \"Ir\", \"Co\"]",
+            "EnlilII": "[\"H20\", \"C\", \"Fe\", \"A\", \"Be\", \"SiH3C\", \"HnCn\", \"Ta\"]",
+            "EnlilIIa": "[]",
+            "EnlilIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Ar\", \"C6Hn\", \"HnCn\", \"Ta\"]",
+            "EnlilIV": "[\"H20\", \"Pb\", \"Ar\", \"C6Hn\"]",
+            "EnlilIVa": "[\"He-3\", \"A\"]",
+            "EnlilV": "[\"H20\", \"U\", \"Cu\", \"Ir\", \"F\", \"V\"]",
+            "EnlilVI": "[]",
+            "EnlilVIa": "[\"H20\", \"Ar\", \"Ne\"]",
+            "EnlilVIb": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"W\", \"Au\"]",
+            "EnlilVIc": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "EnlilVId": "[\"H20\", \"Cu\", \"F\"]",
+            "EnlilVII": "[]",
+            "EnlilVIIa": "[\"He-3\", \"Fe\"]"
+        }
+    },
+    "Leonis": {
+        "planets": {
+            "LeonisI": "[\"He-3\", \"U\", \"C\", \"Pb\", \"A\", \"Be\", \"Nd\", \"Ag\"]",
+            "LeonisIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "LeonisIb": "[\"He-3\", \"U\", \"Pb\", \"Ni\", \"A\", \"Co\", \"Ag\"]",
+            "LeonisII": "[\"He-3\", \"U\", \"Pb\", \"A\", \"Be\", \"Ag\", \"Hg\"]",
+            "LeonisIIa": "[\"He-3\", \"Fe\"]",
+            "LeonisIII": "[\"H20\", \"U\", \"Ir\", \"Pu\"]",
+            "LeonisIV": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Co\", \"SiH3C\", \"HnCn\", \"Pt\"]",
+            "LeonisV": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"C6Hn\", \"SiH3C\", \"HnCn\", \"Li\"]",
+            "LeonisVa": "[]",
+            "LeonisVI": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"C6Hn\", \"Co\"]",
+            "LeonisVII": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Ar\", \"C6Hn\", \"Co\"]",
+            "LeonisVIII": "[]",
+            "LeonisVIIIa": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"Ag\"]",
+            "LeonisVIIIb": "[\"H20\", \"Ni\"]",
+            "LeonisVIIIc": "[\"H20\", \"C\", \"Fe\", \"Ar\", \"HnCn\", \"Yb\"]",
+            "LeonisIX": "[\"H20\", \"Ni\", \"Co\"]"
+        }
+    },
+    "ProximaTernion": {
+        "planets": {
+            "ProximaTernionI": "[]",
+            "ProximaTernionIa": "[\"He-3\", \"A\"]",
+            "ProximaTernionIb": "[\"Pb\", \"F\", \"Ag\"]",
+            "ProximaTernionIc": "[\"He-3\", \"Fe\"]",
+            "ProximaTernionII": "[\"U\"]",
+            "ProximaTernionIII": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"A\", \"F\", \"Cs\"]",
+            "ProximaTernionIV": "[\"H20\", \"U\", \"C\", \"Fe\", \"Pu\", \"HnCn\", \"Li\"]",
+            "ProximaTernionIVa": "[\"He-3\", \"A\", \"Eu\"]"
+        }
+    },
+    "Rana": {
+        "planets": {
+            "RanaI": "[\"U\", \"Fe\", \"Pb\", \"W\", \"V\", \"HnCn\", \"Ti\", \"Ta\"]",
+            "RanaIa": "[\"He-3\", \"A\"]",
+            "RanaIb": "[\"He-3\", \"Fe\"]",
+            "RanaIc": "[\"He-3\", \"A\", \"Be\"]",
+            "RanaII": "[\"U\", \"C\", \"Pb\", \"Ag\"]",
+            "RanaIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "RanaIII": "[\"H20\", \"Pb\", \"Ni\", \"A\", \"Ar\", \"C6Hn\", \"W\", \"Pt\"]",
+            "RanaIIIa": "[\"He-3\", \"Fe\", \"Yb\"]",
+            "RanaIV": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"C6Hn\", \"Ag\"]",
+            "RanaV": "[\"H20\", \"Pb\", \"Cu\", \"Ar\", \"F\", \"W\", \"Ti\"]",
+            "RanaVa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "RanaVI": "[]",
+            "RanaVIa": "[\"H20\", \"C\", \"A\", \"Be\"]",
+            "RanaVIb": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"SiH3C\", \"HnCn\", \"Li\"]",
+            "RanaVIc": "[\"H20\", \"Ni\", \"Pd\"]",
+            "RanaVId": "[\"H20\", \"U\", \"Pb\", \"Cu\", \"F\", \"Ag\"]",
+            "RanaVIe": "[\"H20\", \"Ni\"]",
+            "RanaVII": "[]",
+            "RanaVIIa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "RanaVIIb": "[\"H20\", \"Ar\", \"Ne\"]",
+            "RanaIX": "[]",
+            "RanaIXa": "[\"H20\", \"C\"]",
+            "RanaIXb": "[\"H20\", \"Cu\"]",
+            "RanaVIII": "[\"H20\", \"Cu\", \"F\", \"IL\", \"xF4\"]"
+        }
+    },
+    "Pyraas": {
+        "planets": {
+            "PyraasVIIa": "[\"H20\", \"Cu\", \"F\", \"IL\"]",
+            "PyraasI": "[\"He-3\", \"A\", \"Be\"]",
+            "PyraasII": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ar\", \"Ir\", \"SiH3C\", \"Ti\"]",
+            "PyraasIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "PyraasIII": "[\"H20\", \"U\", \"C\", \"Ni\", \"Co\", \"SiH3C\", \"V\", \"Cs\"]",
+            "PyraasIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "PyraasIIIb": "[\"He-3\", \"A\"]",
+            "PyraasIV": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"SiH3C\", \"HnCn\", \"Pt\"]",
+            "PyraasV": "[\"H20\", \"Pb\", \"Cu\"]",
+            "PyraasVI": "[]",
+            "PyraasVIa": "[\"H20\", \"U\", \"C\", \"Fe\", \"Ni\", \"Ir\", \"HnCn\", \"Li\"]",
+            "PyraasVIb": "[\"H20\", \"Ni\", \"Co\"]",
+            "PyraasVIc": "[\"H20\", \"Pb\"]",
+            "PyraasVId": "[\"H20\", \"Pb\"]",
+            "PyraasVII": "[\"H20\", \"U\", \"Fe\", \"Cu\", \"Ir\", \"F\", \"V\", \"HnCn\"]",
+            "PyraasVIIb": "[\"H20\", \"C\", \"Ar\", \"SiH3C\", \"Li\"]",
+            "PyraasVIII": "[]",
+            "PyraasVIIIa": "[\"H20\", \"He-3\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"A\", \"SiH3C\"]",
+            "PyraasVIIIb": "[\"He-3\", \"A\", \"Nd\"]",
+            "PyraasVIIIc": "[\"H20\", \"Cu\", \"Au\"]",
+            "PyraasVIIId": "[\"H20\", \"Cu\"]"
+        }
+    },
+    "Schrodinger": {
+        "planets": {
+            "SchrodingerI": "[\"He-3\", \"A\"]",
+            "SchrodingerIa": "[\"He-3\", \"A\", \"Be\"]",
+            "SchrodingerII": "[\"U\", \"C\", \"Pb\", \"Pu\", \"W\", \"SiH3C\", \"Ti\", \"Ad\"]",
+            "SchrodingerIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Ar\", \"Co\"]",
+            "SchrodingerIIIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "SchrodingerIV": "[\"H20\", \"C\", \"Cu\", \"A\", \"C6Hn\", \"F\", \"SiH3C\", \"Nd\"]",
+            "SchrodingerV": "[\"H20\", \"U\", \"Ni\", \"Ir\", \"V\"]",
+            "SchrodingerVa": "[\"He-3\", \"Fe\"]",
+            "SchrodingerVI": "[]",
+            "SchrodingerVIa": "[\"H20\", \"Pb\", \"Ag\", \"Hg\"]",
+            "SchrodingerVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "SchrodingerVIc": "[\"H20\", \"Fe\", \"Pb\", \"Ar\", \"Ne\", \"R-COC\", \"HnCn\", \"Ta\"]",
+            "SchrodingerVII": "[]",
+            "SchrodingerVIIa": "[\"He-3\", \"A\", \"Be\", \"Nd\"]",
+            "SchrodingerVIIb": "[\"H20\", \"Ar\", \"Ne\"]",
+            "SchrodingerVIIc": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "SchrodingerVIII": "[]",
+            "SchrodingerVIIIa": "[\"H20\", \"U\", \"C\", \"Fe\", \"Pb\", \"Ni\", \"Co\", \"HnCn\"]",
+            "SchrodingerVIIIb": "[\"H20\", \"Cu\", \"xF4\"]",
+            "SchrodingerVIIIc": "[\"H20\", \"C\"]",
+            "SchrodingerVIIId": "[\"H20\", \"C\", \"SiH3C\"]",
+            "SchrodingerVIIIe": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"Li\", \"Dy\"]"
+        }
+    },
+    "Algorab": {
+        "planets": {
+            "AlgorabI": "[\"U\", \"Pb\", \"Ir\"]",
+            "AlgorabII": "[\"H20\", \"C\", \"Ar\", \"R-COC\", \"Li\"]",
+            "AlgorabIII": "[]",
+            "AlgorabIIIa": "[\"H20\", \"He-3\", \"U\", \"Ar\"]",
+            "AlgorabIIIb": "[\"H20\", \"C\", \"Fe\", \"A\", \"Ar\", \"C6Hn\", \"R-COC\", \"HnCn\"]",
+            "AlgorabIIIc": "[\"H20\", \"C\"]",
+            "AlgorabIIId": "[\"H20\", \"C\"]",
+            "AlgorabIIIe": "[\"H20\", \"C\", \"Li\"]"
+        }
+    },
+    "Bardeen": {
+        "planets": {
+            "BardeenI": "[\"U\", \"C\", \"Fe\", \"Ni\", \"Co\", \"SiH3C\", \"Ta\"]",
+            "BardeenIa": "[\"He-3\", \"Fe\", \"Ta\", \"Yb\"]",
+            "BardeenII": "[\"U\", \"Fe\", \"Pb\", \"Ag\", \"HnCn\", \"Ta\"]",
+            "BardeenIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"Ar\", \"Co\", \"SiH3C\", \"R-COC\"]",
+            "BardeenIIIa": "[\"He-3\", \"A\"]",
+            "BardeenIIIb": "[\"He-3\", \"A\", \"Nd\"]",
+            "BardeenIV": "[]",
+            "BardeenIVa": "[\"H20\", \"C\", \"Cs\", \"Li\"]",
+            "BardeenV": "[]",
+            "BardeenVa": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "BardeenVb": "[\"U\", \"C\", \"Fe\", \"Pb\", \"Ir\", \"HnCn\", \"Ta\"]",
+            "BardeenVc": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"Co\", \"SiH3C\", \"Pt\", \"Xe\"]",
+            "BardeenVd": "[\"H20\", \"U\", \"C\", \"Fe\", \"Cu\", \"Ir\", \"F\", \"Ta\"]",
+            "BardeenVe": "[\"H20\", \"Pb\", \"Ti\"]",
+            "BardeenVf": "[\"H20\", \"Ni\"]",
+            "BardeenVI": "[\"H20\", \"Cu\"]",
+            "BardeenVIa": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "BardeenVIb": "[\"H20\", \"Cu\", \"F\", \"xF4\"]",
+            "BardeenVII": "[]",
+            "BardeenVIIa": "[\"H20\", \"Ar\", \"Ne\", \"R-COC\"]"
+        }
+    },
+    "Celebrai": {
+        "planets": {
+            "CelebraiI": "[\"U\", \"C\", \"Fe\", \"HnCn\", \"Ta\", \"Yb\"]",
+            "CelebraiII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"SiH3C\", \"HnCn\", \"Au\"]",
+            "CelebraiIII": "[]",
+            "CelebraiIIIa": "[\"H20\", \"Ar\", \"Ne\"]",
+            "CelebraiIIIb": "[\"H20\", \"Cu\"]",
+            "CelebraiIIIc": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "CelebraiIV": "[\"He-3\", \"A\", \"Be\"]"
+        }
+    },
+    "Marduk": {
+        "planets": {
+            "MardukI": "[\"H20\", \"C\", \"Ni\"]",
+            "MardukIa": "[\"He-3\", \"A\"]",
+            "MardukII": "[\"U\", \"Ni\", \"Cu\", \"Pd\", \"Pu\", \"Co\", \"V\", \"Pt\"]",
+            "MardukIII": "[\"U\", \"C\", \"Fe\", \"Pb\", \"SiH3C\"]",
+            "MardukIIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "MardukIV": "[\"H20\", \"Pb\", \"Ar\", \"R-COC\"]",
+            "MardukV": "[\"H20\", \"U\", \"C\", \"Pb\", \"Ni\", \"Co\", \"SiH3C\"]",
+            "MardukVa": "[\"He-3\", \"A\", \"Eu\"]",
+            "MardukVI": "[\"H20\", \"C\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Au\", \"Cs\"]",
+            "MardukVII": "[]",
+            "MardukVIIa": "[\"H20\", \"Cu\", \"F\", \"Au\"]",
+            "MardukVIIb": "[\"H20\", \"Cu\", \"F\"]",
+            "MardukVIIc": "[\"H20\", \"Ar\", \"Ne\"]",
+            "MardukVIId": "[\"H20\", \"Cu\"]",
+            "MardukVIII": "[\"H20\", \"Cu\", \"xF4\"]",
+            "MardukIX": "[\"H20\", \"Ni\", \"Co\", \"Pt\"]",
+            "MardukIXa": "[\"H20\", \"Ni\", \"Pt\"]",
+            "MardukIXb": "[\"H20\", \"Ni\", \"Co\", \"Pt\"]"
+        }
+    },
+    "Strix": {
+        "planets": {
+            "StrixI": "[\"H20\", \"He-3\", \"U\", \"Fe\", \"Cu\", \"A\", \"Be\", \"HnCn\"]",
+            "StrixIa": "[\"He-3\", \"Fe\"]",
+            "StrixII": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"Ar\", \"C6Hn\", \"F\"]",
+            "StrixIII": "[]",
+            "StrixIIIa": "[\"H20\", \"He-3\", \"U\", \"Pb\", \"Ni\", \"A\", \"Co\", \"Ag\"]",
+            "StrixIIIb": "[\"H20\", \"Pb\", \"Dy\"]",
+            "StrixIIIc": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"Pd\", \"F\", \"Co\"]",
+            "StrixIIId": "[\"H20\", \"Ar\"]",
+            "StrixIV": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Hg\", \"Au\"]",
+            "StrixIVa": "[\"He-3\", \"Fe\"]",
+            "StrixV": "[\"H20\", \"U\", \"C\", \"Ni\", \"Ir\", \"Xe\", \"Li\"]",
+            "StrixVI": "[]",
+            "StrixVIa": "[\"H20\", \"Cu\"]",
+            "StrixVIb": "[\"H20\", \"C\", \"SiH3C\"]",
+            "StrixVIc": "[\"H20\", \"Cu\"]"
+        }
+    },
+    "Verne": {
+        "planets": {
+            "VerneI": "[\"U\", \"Ar\", \"Ir\", \"C6Hn\", \"Pu\", \"Ne\", \"Vr\"]",
+            "VerneIa": "[]",
+            "VerneII": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"C6Hn\", \"W\", \"Ti\"]",
+            "VerneIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "VerneIII": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ar\", \"Ir\", \"Pd\"]",
+            "VerneIIIa": "[\"He-3\", \"Fe\"]",
+            "VerneIV": "[\"H20\", \"U\", \"Pb\", \"Ar\", \"Ir\", \"C6Hn\", \"V\", \"Ag\"]",
+            "VerneV": "[\"H20\", \"U\", \"Fe\", \"Pb\", \"V\", \"Hg\", \"Yb\"]",
+            "VerneVI": "[]",
+            "VerneVIa": "[\"H20\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Ag\", \"Pt\"]",
+            "VerneVIb": "[\"H20\", \"Cu\", \"F\"]",
+            "VerneVII": "[]",
+            "VerneVIIa": "[\"H20\", \"C\", \"SiH3C\"]",
+            "VerneVIIb": "[\"H20\", \"C\", \"Li\"]",
+            "VerneVIIc": "[\"He-3\", \"A\"]",
+            "VerneVIId": "[\"H20\", \"U\", \"Pb\", \"Ni\", \"Cu\", \"F\", \"Ag\", \"Hg\"]",
+            "VerneVIIe": "[\"H20\", \"C\", \"Li\"]"
+        }
+    },
+    "Bohr": {
+        "planets": {
+            "BohrI": "[\"C\", \"Pb\", \"Ag\", \"Hg\"]",
+            "BohrIa": "[\"He-3\", \"Fe\"]",
+            "BohrII": "[\"H20\", \"Fe\", \"Ni\", \"Cu\"]",
+            "BohrIII": "[\"H20\", \"C\", \"Fe\", \"Ni\", \"SiH3C\"]",
+            "BohrIIIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "BohrIIIb": "[\"He-3\", \"A\"]",
+            "BohrIV": "[\"U\", \"Ni\", \"Cu\", \"F\", \"Co\", \"Pt\", \"Au\", \"Sb\"]",
+            "BohrV": "[\"H20\", \"U\", \"C\", \"Fe\", \"HnCn\", \"Cs\"]",
+            "BohrVI": "[]",
+            "BohrVIa": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "BohrVIb": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "BohrVIc": "[\"He-3\", \"A\"]",
+            "BohrVId": "[\"H20\", \"Cu\", \"Au\"]",
+            "BohrVII": "[\"H20\", \"C\", \"Fe\", \"Pb\", \"W\"]",
+            "BohrVIII": "[\"H20\", \"Ar\"]"
+        }
+    },
+    "Fermi": {
+        "planets": {
+            "FermiI": "[\"U\", \"Pb\", \"V\", \"Ag\", \"Hg\"]",
+            "FermiII": "[\"Fe\", \"Pb\", \"Ag\", \"HnCn\"]",
+            "FermiIIa": "[\"He-3\", \"A\", \"Be\", \"Eu\"]",
+            "FermiIII": "[\"H20\", \"U\", \"Fe\", \"Ar\", \"Ir\", \"C6Hn\", \"V\", \"HnCn\"]",
+            "FermiIIIa": "[\"He-3\", \"A\", \"Eu\"]",
+            "FermiIIIb": "[\"He-3\", \"Fe\"]",
+            "FermiIV": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Ir\", \"F\", \"Co\", \"V\"]",
+            "FermiIVa": "[\"He-3\", \"A\", \"Be\"]",
+            "FermiIVb": "[\"He-3\", \"A\", \"Be\"]",
+            "FermiV": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Co\", \"Xe\"]",
+            "FermiVa": "[\"He-3\", \"A\"]",
+            "FermiVI": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"F\", \"SiH3C\", \"HnCn\", \"Ta\"]",
+            "FermiVIa": "[\"He-3\", \"Fe\"]",
+            "FermiVII": "[]",
+            "FermiVIIa": "[\"H20\", \"U\", \"Ni\", \"Cu\", \"Pd\", \"F\", \"Co\", \"Pt\"]",
+            "FermiVIIb": "[\"H20\", \"He-3\", \"Pb\", \"A\", \"W\", \"Eu\", \"Dy\"]",
+            "FermiVIIc": "[\"H20\", \"U\", \"Fe\", \"Ni\", \"Cu\", \"A\", \"Be\", \"Nd\"]",
+            "FermiVIII": "[]",
+            "FermiVIIIa": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "FermiVIIIb": "[\"H20\", \"Pb\"]",
+            "FermiVIIIc": "[\"H20\", \"C\", \"SiH3C\"]",
+            "FermiVIIId": "[\"H20\", \"Cu\", \"F\"]",
+            "FermiIX": "[]",
+            "FermiIXa": "[\"H20\", \"Ni\", \"Co\"]",
+            "FermiIXb": "[\"H20\", \"Ni\", \"Pd\"]",
+            "FermiIXc": "[\"H20\", \"Ar\", \"C6Hn\"]",
+            "FermiIXd": "[\"He-3\", \"A\", \"Be\"]",
+            "FermiIXe": "[\"H20\", \"Ar\", \"R-COC\"]",
+            "FermiX": "[\"He-3\", \"Fe\", \"Ta\", \"Yb\"]"
+        }
+    },
+    "Hawking": {
+        "planets": {
+            "HawkingI": "[\"H20\", \"C\", \"Pb\", \"Ar\", \"W\", \"SiH3C\"]",
+            "HawkingIa": "[\"He-3\", \"Fe\"]",
+            "HawkingII": "[\"H20\", \"C\", \"Fe\", \"Cu\", \"HnCn\"]",
+            "HawkingIII": "[\"H20\", \"U\", \"Cu\", \"Ir\", \"xF4\"]",
+            "HawkingIV": "[\"H20\", \"C\", \"Pb\", \"Ni\"]",
+            "HawkingIVa": "[\"He-3\", \"Fe\", \"HnCn\", \"Ta\", \"Yb\"]",
+            "HawkingV": "[]",
+            "HawkingVa": "[\"H20\", \"C\"]",
+            "HawkingVI": "[]",
+            "HawkingVIa": "[\"H20\", \"Ni\", \"Pd\", \"Pt\"]",
+            "HawkingVIb": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"SiH3C\", \"Ag\", \"Pt\", \"Li\"]"
+        }
+    },
+    "Huygens": {
+        "planets": {
+            "HuygensI": "[\"He-3\", \"Fe\"]",
+            "HuygensIa": "[\"He-3\", \"A\", \"Be\"]",
+            "HuygensIb": "[]",
+            "HuygensII": "[\"U\", \"C\", \"Fe\", \"Ir\", \"V\", \"Xe\"]",
+            "HuygensIIa": "[\"He-3\", \"A\", \"Be\"]",
+            "HuygensIIb": "[\"He-3\", \"A\"]",
+            "HuygensIII": "[\"H20\", \"C\", \"Pb\", \"Cu\", \"F\", \"HnCn\", \"Cs\"]",
+            "HuygensIV": "[\"H20\", \"Ni\", \"Ar\"]",
+            "HuygensV": "[]",
+            "HuygensVa": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "HuygensVb": "[\"H20\", \"Ar\", \"C6Hn\", \"Ne\"]",
+            "HuygensVI": "[\"H20\", \"C\", \"Pb\", \"Ni\", \"Co\", \"Hg\"]",
+            "HuygensVIa": "[\"U\", \"Pb\", \"Pu\", \"W\", \"V\"]",
+            "HuygensVII": "[]",
+            "HuygensVIIa": "[\"H20\", \"U\", \"C\", \"Ni\", \"Ir\", \"Co\", \"Ti\"]",
+            "HuygensVIIb": "[\"H20\", \"U\", \"Ir\"]",
+            "HuygensVIIc": "[\"He-3\", \"A\", \"Nd\"]",
+            "HuygensVIId": "[\"H20\", \"C\", \"SiH3C\", \"Li\"]",
+            "HuygensVIIe": "[\"H20\", \"Cu\"]",
+            "HuygensVIII": "[\"H20\", \"C\", \"Pb\", \"W\", \"SiH3C\"]"
+        }
+    },
+    "Katydid": {
+        "planets": {
+            "KatydidI": "[]",
+            "KatydidIa": "[\"H20\", \"He-3\", \"U\", \"C\", \"Fe\", \"SiH3C\", \"HnCn\", \"Yb\"]",
+            "KatydidIb": "[\"H20\", \"Ar\", \"C6Hn\", \"R-COC\"]",
+            "KatydidII": "[\"H20\", \"C\", \"Pb\", \"Ag\"]",
+            "KatydidIII": "[\"H20\", \"Fe\", \"Pb\", \"Cu\", \"A\", \"Be\", \"Ag\", \"Ie\"]"
+        }
+    }
+}

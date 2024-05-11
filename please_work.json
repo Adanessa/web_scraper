@@ -1,0 +1,8927 @@
+{
+    "solar_systems": {
+        "BarnardsStar.Frost.Planet": [
+            "H20",
+            "He-3",
+            "Pb"
+        ],
+        "Cheyenne.Akila.Planet": [
+            "H20",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Co"
+        ],
+        "Cheyenne.Antherum.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Cheyenne.Bindi.Moon": [
+            "He-3",
+            "U",
+            "Pb",
+            "Ni",
+            "Al",
+            "Ag"
+        ],
+        "Cheyenne.Codos.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "Be",
+            "R-COC",
+            "HnCn"
+        ],
+        "Cheyenne.Skink.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Ag",
+            "Hg"
+        ],
+        "Cheyenne.Burran.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Cheyenne.Rell.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Cheyenne.Grizzit.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Cheyenne.Washakie.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "Ne",
+            "Ag"
+        ],
+        "Cheyenne.Smet.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Cheyenne.Montara.Planet": [],
+        "Cheyenne.MontaraLuna.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Co",
+            "R-COC"
+        ],
+        "Cheyenne.Heilo.Moon": [
+            "H20",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Cheyenne.Kalira.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Cheyenne.Thren.Moon": [
+            "H20",
+            "Pb",
+            "W"
+        ],
+        "AlBattani.AlBattaniII.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "IL",
+            "HnCn",
+            "Dy"
+        ],
+        "Cheyenne.Agamon.Planet": [],
+        "Cheyenne.AgamonA.Moon": [
+            "H20",
+            "Cu",
+            "Ar"
+        ],
+        "Cheyenne.AgamonB.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Cheyenne.AgamonC.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Cheyenne.AgamonD.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Cheyenne.Stellis.Planet": [],
+        "Cheyenne.StellisA.Moon": [
+            "H20",
+            "Ni",
+            "Cu",
+            "Co",
+            "Au"
+        ],
+        "Cheyenne.StellisB.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Cheyenne.StellisC.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Cheyenne.StellisD.Moon": [
+            "H20",
+            "Ni",
+            "Pd",
+            "Co",
+            "Pt"
+        ],
+        "Cheyenne.Fenn.Planet": [],
+        "Cheyenne.Tarhnis.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Cheyenne.Cragg.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "Ag",
+            "xF4"
+        ],
+        "Cheyenne.Navaha.Planet": [],
+        "Cheyenne.Hardpoint.Moon": [],
+        "Cheyenne.Belwah.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Ir",
+            "Co",
+            "V"
+        ],
+        "Cheyenne.Laramie.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Cheyenne.Olaran.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Cheyenne.Bismark.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Maheo.MaheoI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "Co",
+            "Ag"
+        ],
+        "Maheo.MaheoII.Planet": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Cu",
+            "HnCn",
+            "xF4",
+            "Yb"
+        ],
+        "Maheo.MaheoIII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Maheo.MaheoIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Maheo.MaheoIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Maheo.MaheoIV.Planet": [],
+        "Maheo.MaheoIVa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Maheo.MaheoIVb.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Maheo.MaheoIVc.Moon": [
+            "H20",
+            "Cl",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Nd",
+            "R-COC"
+        ],
+        "Maheo.MaheoIVd.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Maheo.MaheoV.Planet": [],
+        "Maheo.MaheoVa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "Maheo.MaheoVI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Maheo.MaheoVIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Maheo.MaheoVII.Planet": [
+            "H20",
+            "Cu",
+            "F",
+            "Sb"
+        ],
+        "Maheo.MaheoVIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Narion.Anselon.Planet": [],
+        "Narion.Kreet.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Ar",
+            "Ne",
+            "Ag",
+            "HnCn"
+        ],
+        "Narion.Vectera.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Ar",
+            "Ne",
+            "Ag",
+            "HnCn"
+        ],
+        "Narion.Magreth.Planet": [
+            "He-3",
+            "Pb",
+            "Al"
+        ],
+        "Narion.Hyperia.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Narion.Sumati.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "SiH3Cl",
+            "xF4"
+        ],
+        "Narion.Andraphon.Moon": [
+            "He-3",
+            "Fe",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "AlphaTirna.TirnaII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "IL",
+            "Dy"
+        ],
+        "Narion.Danra.Planet": [
+            "He-3",
+            "U",
+            "Al",
+            "Ir"
+        ],
+        "Narion.Podius.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Narion.Gryphus.Moon": [
+            "He-3",
+            "Al",
+            "Nd",
+            "Eu"
+        ],
+        "Narion.Dalvik.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Narion.Deepala.Planet": [],
+        "Narion.Grimsey.Moon": [
+            "U",
+            "Ir",
+            "Pu",
+            "V"
+        ],
+        "Sol.Mercury.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Sol.Venus.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Co",
+            "Dy"
+        ],
+        "Sol.Earth.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "SiH3Cl",
+            "Hg"
+        ],
+        "Sol.Luna.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Sol.Mars.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "SiH3Cl"
+        ],
+        "Sol.Deimos.Moon": [],
+        "Sol.Phobos.Moon": [],
+        "Sol.Jupiter.Planet": [],
+        "Sol.Europa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Sol.Callisto.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Sol.Io.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Sol.Ganymede.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Sol.Saturn.Planet": [],
+        "Sol.Rhea.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Sol.Enceladus.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Sol.Iapetus.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Sol.Dione.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "Sol.Mimas.Moon": [
+            "H20",
+            "Ni",
+            "Pd"
+        ],
+        "Sol.Titan.Moon": [
+            "H20",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Sol.Tethys.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Sol.Uranus.Planet": [],
+        "Sol.Oberon.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Sol.Ariel.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Sol.Titania.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Sol.Miranda.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Sol.Umbriel.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Sol.Neptune.Planet": [],
+        "Sol.Triton.Moon": [],
+        "Sol.Pluto.Planet": [
+            "H20",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Sol.Charon.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "AlphaCentauri.Jemison.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "SiH3Cl"
+        ],
+        "AlphaCentauri.Kurtz.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "AlphaCentauri.Bondar.Planet": [
+            "Cl",
+            "Pb",
+            "Ni",
+            "W",
+            "Pt",
+            "Xe"
+        ],
+        "AlphaCentauri.Curbeam.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "AlphaCentauri.Grissom.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaCentauri.Olivas.Planet": [],
+        "AlphaCentauri.Lovell.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "AlphaCentauri.Voss.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "W",
+            "Co",
+            "V",
+            "Dy"
+        ],
+        "AlphaCentauri.Chawla.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "AlphaCentauri.Zamka.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "V"
+        ],
+        "AlphaCentauri.Hawley.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Co"
+        ],
+        "AlphaCentauri.Gagarin.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "SiH3Cl"
+        ],
+        "LuytensStar.LuytensRock.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "Ar",
+            "HnCn",
+            "Ta",
+            "Li"
+        ],
+        "ProcyonB.ProcyonBI.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Sirius.SiriusI.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Sirius.SiriusII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Ir",
+            "SiH3Cl",
+            "Xe",
+            "Li"
+        ],
+        "Sirius.SiriusIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Fe",
+            "Ar",
+            "C6Hn"
+        ],
+        "Sirius.SiriusIII.Planet": [],
+        "Sirius.SiriusIIIa.Moon": [
+            "H20",
+            "Cl",
+            "Cu",
+            "Al",
+            "F",
+            "Li"
+        ],
+        "Sirius.SiriusIIIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Toliman.TolimanI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Toliman.TolimanII.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "Ag"
+        ],
+        "Toliman.TolimanIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Toliman.TolimanIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Toliman.TolimanIIc.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Valo.Polvo.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V"
+        ],
+        "Valo.Miatha.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Valo.Navacci.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Valo.Cantra.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Valo.Prax.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Valo.Hillex.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Valo.Lumos.Planet": [],
+        "Valo.Golga.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Valo.Kindi.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Valo.Shorun.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Valo.Virum.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Volii.VoliiAlpha.Planet": [
+            "H20",
+            "C6Hn"
+        ],
+        "Volii.VoliiBeta.Planet": [
+            "H20",
+            "Al",
+            "Be"
+        ],
+        "Volii.VoliiDelta.Moon": [],
+        "Volii.VoliiChi.Planet": [
+            "H20",
+            "Pb"
+        ],
+        "Archimedes.ArchimedesIV.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "F",
+            "IL",
+            "Hg"
+        ],
+        "Volii.VoliiGamma.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Volii.VoliiOmega.Planet": [],
+        "Volii.VoliiUpsilon.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Volii.VoliiTau.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Volii.VoliiPsi.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Volii.VoliiPhi.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Wolf.Etherea.Planet": [],
+        "Wolf.Pontem.Moon": [
+            "H20",
+            "Pb",
+            "Ag",
+            "Hg"
+        ],
+        "Wolf.Chthonia.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bessel.BesselI.Planet": [],
+        "Bessel.BesselII.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Bessel.BesselIII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Bessel.BesselIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bessel.BesselIIIb.Moon": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Al",
+            "Ar",
+            "Co",
+            "Ne",
+            "Pt"
+        ],
+        "Carinae.CarinaeI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Carinae.CarinaeII.Planet": [
+            "H20",
+            "He-3",
+            "Al",
+            "Ar",
+            "Ne",
+            "Nd"
+        ],
+        "Carinae.CarinaeIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Carinae.CarinaeIII.Planet": [],
+        "Carinae.CarinaeIIIa.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "HnCn",
+            "Rc"
+        ],
+        "Carinae.CarinaeIIIb.Moon": [
+            "H20",
+            "Pb",
+            "Hg"
+        ],
+        "Carinae.CarinaeIIIc.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Carinae.CarinaeIIId.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Carinae.CarinaeIV.Planet": [],
+        "Carinae.CarinaeIVa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Carinae.CarinaeV.Planet": [],
+        "Carinae.CarinaeVa.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Carinae.CarinaeVb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Carinae.CarinaeVc.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Pd",
+            "W",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "EtaCassiopeia.CassiopeiaI.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "F",
+            "Co"
+        ],
+        "EtaCassiopeia.CassiopeiaII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "EtaCassiopeia.CassiopeiaIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "W",
+            "SiH3Cl"
+        ],
+        "EtaCassiopeia.CassiopeiaIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni"
+        ],
+        "EtaCassiopeia.CassiopeiaIIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "EtaCassiopeia.CassiopeiaIV.Planet": [],
+        "EtaCassiopeia.CassiopeiaIVa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "EtaCassiopeia.CassiopeiaIVb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "EtaCassiopeia.CassiopeiaIVc.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "KapteynsStar.KapteynI.Planet": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Ni",
+            "Al",
+            "V",
+            "Pt"
+        ],
+        "KapteynsStar.KapteynII.Planet": [],
+        "Olympus.Nesoi.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "R-COC",
+            "Ta"
+        ],
+        "Olympus.Ananke.Planet": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Olympus.Ourea.Planet": [
+            "H20",
+            "U",
+            "Cu",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V",
+            "R-COC"
+        ],
+        "Olympus.Thanatos.Planet": [],
+        "Olympus.Hypnos.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Olympus.Erebus.Planet": [
+            "U",
+            "Fe",
+            "HnCn"
+        ],
+        "Olympus.Pontus.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Olympus.Thalassa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Olympus.Aion.Planet": [],
+        "Olympus.Orphius.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Olympus.Dionysus.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "C6Hn",
+            "HnCn"
+        ],
+        "Olympus.Mithras.Moon": [
+            "H20",
+            "Ni",
+            "Pd",
+            "Co"
+        ],
+        "Olympus.Cybele.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Piazzi.PiazziI.Planet": [
+            "Pb"
+        ],
+        "Piazzi.PiazziII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Pd",
+            "F",
+            "Co",
+            "Pt"
+        ],
+        "Piazzi.PiazziIII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Piazzi.PiazziIIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Piazzi.PiazziIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Piazzi.PiazziIV.Planet": [],
+        "Piazzi.PiazziIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Piazzi.PiazziIVb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Piazzi.PiazziIVc.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "Piazzi.PiazziV.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Piazzi.PiazziVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Piazzi.PiazziVb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Piazzi.PiazziVc.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Piazzi.PiazziVI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Piazzi.PiazziVIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Piazzi.PiazziVIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Piazzi.PiazziVIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Piazzi.PiazziVII.Planet": [],
+        "Piazzi.PiazziVIIa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Piazzi.PiazziVIIb.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Piazzi.PiazziVIIc.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "ProcyonA.ProcyonI.Planet": [
+            "U",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ir",
+            "F",
+            "W",
+            "SiH3Cl"
+        ],
+        "ProcyonA.ProcyonIa.Moon": [],
+        "ProcyonA.ProcyonII.Planet": [
+            "Pb",
+            "Ni",
+            "Ti"
+        ],
+        "BetaMarae.BetaMaraeIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "IL"
+        ],
+        "ProcyonA.ProcyonIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "ProcyonA.ProcyonIV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Co"
+        ],
+        "ProcyonA.ProcyonIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "ProcyonA.ProcyonV.Planet": [],
+        "ProcyonA.ProcyonVa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "ProcyonA.ProcyonVb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "ProcyonA.ProcyonVc.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "ProcyonA.ProcyonVI.Planet": [],
+        "ProcyonA.ProcyonVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "ProcyonA.ProcyonVIb.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "ProcyonA.ProcyonVIc.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "HnCn"
+        ],
+        "TauCeti.TauCetiI.Planet": [
+            "He-3",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Pd",
+            "V",
+            "Pt"
+        ],
+        "TauCeti.TauCetiII.Planet": [
+            "H20",
+            "Fe",
+            "Ar",
+            "C6Hn",
+            "HnCn"
+        ],
+        "TauCeti.TauCetiIIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "TauCeti.TauCetiIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "HnCn",
+            "xF4",
+            "Li"
+        ],
+        "TauCeti.TauCetiIV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "SiH3Cl"
+        ],
+        "TauCeti.TauCetiIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "TauCeti.TauCetiIVb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "TauCeti.TauCetiV.Planet": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Pd",
+            "Co",
+            "HnCn",
+            "Pt",
+            "Yb"
+        ],
+        "TauCeti.TauCetiVI.Planet": [
+            "H20",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "TauCeti.TauCetiVIa.Moon": [
+            "H20",
+            "Fe",
+            "Ta"
+        ],
+        "TauCeti.TauCetiVII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "TauCeti.TauCetiVIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "TauCeti.TauCetiVIII.Planet": [],
+        "TauCeti.TauCetiVIIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "TauCeti.TauCetiVIIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "SiH3Cl"
+        ],
+        "TauCeti.TauCetiVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs",
+            "Li"
+        ],
+        "TauCeti.TauCetiVIIId.Moon": [
+            "H20",
+            "Ni",
+            "Pd",
+            "Pt"
+        ],
+        "TauCeti.TauCetiIX.Planet": [],
+        "ThePup.PupI.Planet": [
+            "H20",
+            "Cl",
+            "Cs"
+        ],
+        "VanMaanensStar.VanMaanenI.Planet": [
+            "H20",
+            "Cu"
+        ],
+        "Altair.AltairI.Planet": [
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Pu",
+            "Co",
+            "Ag",
+            "Pt"
+        ],
+        "Altair.AltairII.Planet": [
+            "H20",
+            "U",
+            "Ar",
+            "C6Hn"
+        ],
+        "Altair.AltairIII.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Altair.AltairIIIa.Moon": [],
+        "Altair.AltairIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Altair.AltairIIIc.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Altair.AltairIV.Planet": [],
+        "Altair.AltairIVa.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Altair.AltairIVb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Altair.AltairIVc.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "W",
+            "Co"
+        ],
+        "Altair.AltairIVd.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Altair.AltairV.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Altair.AltairVa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Andromas.AndromasI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ir",
+            "V",
+            "Xe"
+        ],
+        "Andromas.AndromasII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "F",
+            "SiH3Cl",
+            "R-COC",
+            "Li"
+        ],
+        "Andromas.AndromasIII.Planet": [
+            "H20",
+            "He-3",
+            "Al",
+            "Ar",
+            "Be",
+            "Ne",
+            "Eu"
+        ],
+        "Andromas.AndromasIV.Planet": [],
+        "Andromas.AndromasIVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Andromas.AndromasV.Planet": [],
+        "Andromas.AndromasVa.Moon": [],
+        "Andromas.AndromasVb.Moon": [],
+        "Andromas.AndromasVI.Planet": [],
+        "Andromas.AndromasVIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Andromas.AndromasVIb.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Cu",
+            "Al",
+            "F",
+            "Be",
+            "HnCn"
+        ],
+        "Aranae.AranaeI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Aranae.AranaeII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Aranae.AranaeIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Aranae.AranaeIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Aranae.AranaeIII.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Aranae.AranaeIV.Planet": [],
+        "Aranae.AranaeIVa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Aranae.AranaeIVb.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Aranae.AranaeIVc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Aranae.AranaeIVd.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Aranae.AranaeV.Planet": [
+            "H20",
+            "Pb"
+        ],
+        "Arcturus.ArcturusI.Planet": [
+            "He-3",
+            "U",
+            "Pb",
+            "Ir"
+        ],
+        "Arcturus.ArcturusII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "HnCn"
+        ],
+        "Arcturus.ArcturusIII.Planet": [],
+        "Arcturus.ArcturusIIIa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Muphrid.MuphridI.Planet": [
+            "U",
+            "Ir"
+        ],
+        "Muphrid.MuphridIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Muphrid.MuphridII.Planet": [
+            "H20",
+            "U",
+            "Cu"
+        ],
+        "Muphrid.MuphridIIa.Moon": [
+            "H20",
+            "He-3",
+            "Ni",
+            "Al",
+            "Be"
+        ],
+        "Muphrid.MuphridIII.Planet": [
+            "U",
+            "Fe",
+            "Ni",
+            "V",
+            "HnCn"
+        ],
+        "Muphrid.MuphridIIIa.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Muphrid.MuphridIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Muphrid.MuphridIIIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Muphrid.MuphridIV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "SiH3Cl",
+            "HnCn",
+            "Li"
+        ],
+        "Muphrid.MuphridV.Planet": [],
+        "Muphrid.MuphridVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Muphrid.MuphridVb.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Muphrid.MuphridVc.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Muphrid.MuphridVd.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Co"
+        ],
+        "Muphrid.MuphridVI.Planet": [],
+        "Muphrid.MuphridVIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Muphrid.MuphridVIb.Moon": [
+            "Cl",
+            "Fe",
+            "Pb",
+            "Hg"
+        ],
+        "Muphrid.MuphridVIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Muphrid.MuphridVId.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Sb"
+        ],
+        "Muphrid.MuphridVII.Planet": [],
+        "Muphrid.MuphridVIIa.Moon": [
+            "H20",
+            "Cu",
+            "Sb"
+        ],
+        "Muphrid.MuphridVIIb.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Sb"
+        ],
+        "Cheyenne.Wellish.Moon": [
+            "H20",
+            "Cu",
+            "IL"
+        ],
+        "Muphrid.MuphridVIII.Planet": [],
+        "Muphrid.MuphridVIIIa.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "V",
+            "Ag",
+            "Pt"
+        ],
+        "Muphrid.MuphridVIIIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Muphrid.MuphridVIIIc.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "W",
+            "Co"
+        ],
+        "Muphrid.MuphridVIIId.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Ni",
+            "Co"
+        ],
+        "Sagan.Sagan1.Planet": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Sakharov.Bonner.Planet": [],
+        "Sakharov.MirII.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "BetaAndraste.BetaAndrasteI.Planet": [],
+        "BetaAndraste.BetaAndrasteIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "F",
+            "V"
+        ],
+        "BetaAndraste.BetaAndrasteIb.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "BetaAndraste.BetaAndrasteIc.Moon": [
+            "H20",
+            "Cu",
+            "Au",
+            "Sb"
+        ],
+        "BetaAndraste.BetaAndrasteId.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Bradbury.BradburyI.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn",
+            "Yb"
+        ],
+        "Bradbury.BradburyIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Bradbury.BradburyIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Bradbury.BradburyII.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "HnCn"
+        ],
+        "Bradbury.BradburyIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "Ti"
+        ],
+        "Bradbury.BradburyIV.Planet": [
+            "H20",
+            "U",
+            "Ar",
+            "C6Hn"
+        ],
+        "Bradbury.BradburyIVa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Bradbury.BradburyV.Planet": [],
+        "Bradbury.BradburyVa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Eridani.EridaniI.Planet": [
+            "U",
+            "Cl"
+        ],
+        "Eridani.EridaniII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Au"
+        ],
+        "Eridani.EridaniIII.Planet": [
+            "H20",
+            "U",
+            "Ar",
+            "Ir",
+            "Pu",
+            "V"
+        ],
+        "Eridani.EridaniIIIa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Eridani.EridaniIIIb.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ir",
+            "V"
+        ],
+        "Eridani.EridaniIIIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Eridani.EridaniIV.Planet": [
+            "H20",
+            "Ar",
+            "F"
+        ],
+        "Eridani.EridaniIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Eridani.EridaniIVb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd",
+            "Eu"
+        ],
+        "Eridani.EridaniIVc.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Eridani.EridaniV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ag"
+        ],
+        "Eridani.EridaniVI.Planet": [],
+        "Eridani.EridaniVIa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Eridani.EridaniVII.Planet": [],
+        "Eridani.EridaniVIIa.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Eridani.EridaniVIIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Eridani.EridaniVIIc.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Al",
+            "W",
+            "Eu",
+            "Ti"
+        ],
+        "Eridani.EridaniVIII.Planet": [],
+        "Eridani.EridaniVIIIa.Moon": [],
+        "Eridani.EridaniVIIIb.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Ni",
+            "Al",
+            "Be",
+            "Co",
+            "Ag"
+        ],
+        "Eridani.EridaniVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs",
+            "Li"
+        ],
+        "Eridani.EridaniVIIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Co",
+            "HnCn",
+            "Li"
+        ],
+        "Eridani.EridaniIX.Planet": [
+            "H20",
+            "Ni"
+        ],
+        "Guniibuu.GuniibuuI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Guniibuu.GuniibuuIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Guniibuu.GuniibuuIb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Guniibuu.GuniibuuII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "Al",
+            "F",
+            "Be",
+            "Au"
+        ],
+        "Guniibuu.GuniibuuIII.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V",
+            "R-COC"
+        ],
+        "Guniibuu.GuniibuuIIIa.Moon": [],
+        "Guniibuu.GuniibuuIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Guniibuu.GuniibuuIIIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Guniibuu.GuniibuuIV.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Cu",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "Guniibuu.GuniibuuIVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Guniibuu.GuniibuuIVb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Guniibuu.GuniibuuV.Planet": [],
+        "Guniibuu.GuniibuuVa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Guniibuu.GuniibuuVb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Guniibuu.GuniibuuVc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Guniibuu.GuniibuuVd.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Guniibuu.GuniibuuVe.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Guniibuu.GuniibuuVI.Planet": [],
+        "Guniibuu.GuniibuuVIa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Guniibuu.GuniibuuVIb.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Pd",
+            "Co",
+            "Hg"
+        ],
+        "Guniibuu.GuniibuuVIc.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Guniibuu.GuniibuuVId.Moon": [
+            "H20",
+            "Pb",
+            "HnCn",
+            "Ti"
+        ],
+        "Guniibuu.GuniibuuVIe.Moon": [
+            "H20",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Guniibuu.GuniibuuVII.Planet": [],
+        "Guniibuu.GuniibuuVIIa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Guniibuu.GuniibuuVIIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Guniibuu.GuniibuuVIIc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Indum.IndumI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "Indum.IndumIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Indum.IndumII.Planet": [
+            "H20",
+            "U",
+            "Cu",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "F",
+            "Be"
+        ],
+        "Indum.IndumIII.Planet": [],
+        "Indum.IndumIIIa.Moon": [
+            "H20",
+            "Cu",
+            "Sb"
+        ],
+        "Indum.IndumIIIb.Moon": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "xF4",
+            "Ta",
+            "Yb"
+        ],
+        "Indum.IndumIIIc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Indum.IndumIIId.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Indum.IndumIV.Planet": [],
+        "Indum.IndumIVa.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Indum.IndumIVb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Indum.IndumIVc.Moon": [
+            "H20",
+            "Pb",
+            "Hg"
+        ],
+        "Indum.IndumIVd.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "F",
+            "Au",
+            "Ta",
+            "Sb"
+        ],
+        "Indum.IndumV.Planet": [],
+        "Indum.IndumVa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn",
+            "Yb"
+        ],
+        "Kryx.Suvorov.Planet": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Kryx.Neebas.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Pu",
+            "Co",
+            "Au"
+        ],
+        "Kryx.Max.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Kryx.Rocklock.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Kryx.Candore.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Kryx.Nox.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Kryx.Boron.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Kryx.Ice.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "McClure.McClureI.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "McClure.McClureIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "McClure.McClureII.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "McClure.McClureIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "McClure.McClureIIb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "McClure.McClureIIc.Moon": [],
+        "McClure.McClureIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "HnCn",
+            "Ta"
+        ],
+        "OborumPrime.OborumI.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "SiH3Cl",
+            "Au"
+        ],
+        "OborumPrime.OborumII.Planet": [],
+        "OborumPrime.OborumIIa.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Ag",
+            "Pt",
+            "Ta"
+        ],
+        "OborumPrime.OborumIIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "OborumPrime.OborumIII.Planet": [],
+        "OborumPrime.OborumIIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "OborumPrime.OborumIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "OborumPrime.OborumIIIc.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "OborumPrime.OborumIIId.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "OborumPrime.OborumIV.Planet": [],
+        "UrsaeMinoris.UrsaeMinorI.Planet": [
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "F",
+            "Co"
+        ],
+        "UrsaeMinoris.UrsaeMinorIa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "UrsaeMinoris.UrsaeMinorIb.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "UrsaeMinoris.UrsaeMinorII.Planet": [
+            "H20",
+            "Cu",
+            "Ar",
+            "R-COC",
+            "xF4"
+        ],
+        "UrsaeMinoris.UrsaeMinorIIa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "UrsaeMinoris.UrsaeMinorIII.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "DeltaPavonis.Curie.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "DeltaPavonis.Magnar.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Al",
+            "Ar",
+            "Be",
+            "Co",
+            "Ag"
+        ],
+        "DeltaPavonis.Arachna.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "W",
+            "SiH3Cl",
+            "Dy"
+        ],
+        "DeltaPavonis.Worthless.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "DeltaPavonis.Bitsy.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "DeltaPavonis.Itsy.Moon": [],
+        "DeltaPavonis.Nascent.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "DeltaPavonis.Rudiment.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "DeltaPavonis.Fundament.Moon": [],
+        "DeltaPavonis.Gamow.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "HnCn",
+            "Li"
+        ],
+        "DeltaPavonis.Bose.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "DeltaPavonis.Bode.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "DeltaPavonis.Herald.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "DeltaPavonis.Augur.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "DeltaPavonis.Faraday.Planet": [],
+        "DeltaPavonis.Coulomb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "DeltaPavonis.Ampere.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "Ir",
+            "V",
+            "Ag",
+            "HnCn"
+        ],
+        "DeltaPavonis.Volt.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Yb"
+        ],
+        "DeltaPavonis.Ohm.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Groombridge.GroombridgeI.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Al",
+            "Be",
+            "V"
+        ],
+        "Groombridge.GroombridgeII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "W",
+            "HnCn"
+        ],
+        "Groombridge.GroombridgeIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Groombridge.GroombridgeIIb.Moon": [
+            "H20",
+            "Pb",
+            "Cu",
+            "xF4"
+        ],
+        "Groombridge.GroombridgeIIc.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Groombridge.GroombridgeIII.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ag"
+        ],
+        "Groombridge.GroombridgeIIIa.Moon": [],
+        "Groombridge.GroombridgeIV.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Groombridge.GroombridgeIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Groombridge.GroombridgeV.Planet": [],
+        "Groombridge.GroombridgeVa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Groombridge.GroombridgeVb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Groombridge.GroombridgeVc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Groombridge.GroombridgeVd.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Groombridge.GroombridgeVe.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Groombridge.GroombridgeVI.Planet": [],
+        "Groombridge.GroombridgeVIa.Moon": [
+            "H20",
+            "He-3",
+            "Cu",
+            "Al"
+        ],
+        "Groombridge.GroombridgeVIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Groombridge.GroombridgeVII.Planet": [],
+        "Groombridge.GroombridgeVIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Groombridge.GroombridgeVIIb.Moon": [
+            "H20",
+            "Pb",
+            "Ti"
+        ],
+        "Groombridge.GroombridgeVIII.Planet": [],
+        "Groombridge.GroombridgeVIIIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Groombridge.GroombridgeVIIIb.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Groombridge.GroombridgeVIIIc.Moon": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Al",
+            "Be"
+        ],
+        "Groombridge.GroombridgeVIIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Ar",
+            "Ir",
+            "Li"
+        ],
+        "Kumasi.KumasiI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "Ne"
+        ],
+        "Kumasi.KumasiIa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Kumasi.KumasiII.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Ir",
+            "Pd",
+            "Pu",
+            "Co",
+            "Pt"
+        ],
+        "Kumasi.KumasiIIa.Moon": [],
+        "Kumasi.KumasiIII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "Co"
+        ],
+        "Kumasi.KumasiIIIa.Moon": [],
+        "Kumasi.KumasiIV.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Co",
+            "Dy"
+        ],
+        "Kumasi.KumasiIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Kumasi.KumasiV.Planet": [],
+        "Kumasi.KumasiVa.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Kumasi.KumasiVb.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Kumasi.KumasiVc.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Kumasi.KumasiVd.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Kumasi.KumasiVe.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Kumasi.KumasiVI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "HnCn",
+            "Cs"
+        ],
+        "Kumasi.KumasiVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Kumasi.KumasiVII.Planet": [],
+        "Kumasi.KumasiVIIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd",
+            "Eu"
+        ],
+        "Feynman.FeynmanV.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "W",
+            "IL",
+            "Co"
+        ],
+        "Kumasi.KumasiVIIc.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Kumasi.KumasiVIId.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Kumasi.KumasiVIII.Planet": [],
+        "Kumasi.KumasiVIIIa.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "Kumasi.KumasiVIIIb.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Foucault.FoucaultVIIIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "IL"
+        ],
+        "Kumasi.KumasiVIIId.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "SiH3Cl"
+        ],
+        "Kumasi.KumasiIX.Planet": [
+            "H20",
+            "Cl"
+        ],
+        "Kumasi.KumasiIXa.Moon": [
+            "H20",
+            "Cl",
+            "Xe"
+        ],
+        "Lunara.Vesta.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "F",
+            "Hg"
+        ],
+        "Lunara.VestaLunaris.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Lunara.Numitor.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Lunara.Remus.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Lunara.Romulus.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Lunara.Petria.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "Lunara.Earrach.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Lunara.Gaea.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Lunara.Crius.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Lunara.Coeus.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Lunara.Cassini.Planet": [],
+        "Lunara.Lillius.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Lunara.Abetti.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "Lunara.Gasparis.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au",
+            "Sb"
+        ],
+        "Lunara.Okoro.Planet": [],
+        "Lunara.OkoroAlpha.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Lunara.OkoroBeta.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Lunara.OkoroDelta.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Lunara.OkoroEpsilon.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Lunara.OkoroGamma.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Lunara.Cthol.Planet": [],
+        "Lunara.Nyarloth.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Lunara.Uvhan.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Lunara.AzValok.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Lunara.RevasWorld.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "OborumProxima.OborumProximaI.Planet": [
+            "H20",
+            "Cl",
+            "Pb"
+        ],
+        "Vega.VegaI.Planet": [],
+        "Vega.VegaIa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Vega.VegaIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Vega.VegaIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Vega.VegaII.Planet": [],
+        "Vega.VegaIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Vega.VegaIIb.Moon": [
+            "H20",
+            "Pb",
+            "Ti",
+            "Dy"
+        ],
+        "Vega.VegaIIc.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar"
+        ],
+        "Vega.VegaIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Pd",
+            "HnCn"
+        ],
+        "Vega.VegaIIe.Moon": [
+            "H20",
+            "Ni",
+            "Pd",
+            "Co"
+        ],
+        "AlphaAndraste.AlphaAndrasteI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "AlphaAndraste.AlphaAndrasteIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaAndraste.AlphaAndrasteII.Planet": [
+            "He-3",
+            "Cl",
+            "Fe",
+            "Al",
+            "Be",
+            "Ta"
+        ],
+        "AlphaAndraste.AlphaAndrasteIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "AlphaAndraste.AlphaAndrasteIV.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Pd",
+            "HnCn",
+            "Ti"
+        ],
+        "AlphaAndraste.AlphaAndrasteV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Ir",
+            "SiH3Cl"
+        ],
+        "AlphaAndraste.AlphaAndrasteVI.Planet": [
+            "H20",
+            "Pb",
+            "Ni"
+        ],
+        "Copernicus.CopernicusI.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "W"
+        ],
+        "Copernicus.CopernicusII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Cu",
+            "C6Hn",
+            "F",
+            "Ti"
+        ],
+        "Copernicus.CopernicusIII.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "C6Hn"
+        ],
+        "Copernicus.CopernicusIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Copernicus.CopernicusIV.Planet": [
+            "H20",
+            "Ni",
+            "Al",
+            "Ar",
+            "Be"
+        ],
+        "Copernicus.CopernicusV.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "Li"
+        ],
+        "Copernicus.CopernicusVI.Planet": [
+            "He-3",
+            "Al",
+            "Nd",
+            "Eu"
+        ],
+        "Copernicus.CopernicusVII.Planet": [],
+        "Copernicus.CopernicusVIIa.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "F"
+        ],
+        "Copernicus.CopernicusVIIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Copernicus.CopernicusVIII.Planet": [],
+        "Copernicus.CopernicusVIIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Copernicus.CopernicusVIIIb.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Copernicus.CopernicusVIIIc.Moon": [
+            "H20",
+            "Pb",
+            "Ti"
+        ],
+        "Copernicus.CopernicusVIIId.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "CopernicusMinor.CopernicusMinorI.Planet": [],
+        "CopernicusMinor.CopernicusMinorIa.Moon": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "CopernicusMinor.CopernicusMinorIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "SiH3Cl",
+            "HnCn",
+            "Li"
+        ],
+        "Denebola.DenebolaI.Planet": [],
+        "Denebola.DenebolaIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Denebola.DenebolaIb.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Fe",
+            "Pb",
+            "Cu",
+            "Ir",
+            "Ag"
+        ],
+        "Denebola.DenebolaII.Planet": [],
+        "Denebola.DenebolaIII.Planet": [],
+        "Denebola.DenebolaIIIa.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "SiH3Cl",
+            "HnCn",
+            "Ta",
+            "Yb"
+        ],
+        "Denebola.DenebolaIIIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Lantana.LantanaI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Lantana.LantanaII.Planet": [
+            "U",
+            "Pb",
+            "Ni",
+            "W"
+        ],
+        "Lantana.LantanaIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "Lantana.LantanaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Lantana.LantanaIV.Planet": [
+            "H20",
+            "Ni",
+            "Cu",
+            "F",
+            "Co"
+        ],
+        "Lantana.LantanaV.Planet": [],
+        "Lantana.LantanaVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Lantana.LantanaVb.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Lantana.LantanaVI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Co",
+            "V",
+            "HnCn"
+        ],
+        "Lantana.LantanaVII.Planet": [
+            "He-3",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ag",
+            "Au"
+        ],
+        "Lantana.LantanaVIII.Planet": [],
+        "Lantana.LantanaVIIIa.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Lantana.LantanaVIIIb.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Pu",
+            "Co",
+            "Pt"
+        ],
+        "Lantana.LantanaVIIIc.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "SiH3Cl"
+        ],
+        "Lantana.LantanaVIIId.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Ni",
+            "Pd",
+            "Co",
+            "Pt"
+        ],
+        "Lantana.LantanaIX.Planet": [],
+        "Lantana.LantanaIXa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Lantana.LantanaIXb.Moon": [
+            "H20",
+            "Pb",
+            "Ag",
+            "Hg"
+        ],
+        "Lantana.LantanaIXc.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Lantana.LantanaIXd.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Lantana.LantanaIXe.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Cu",
+            "HnCn",
+            "Ta"
+        ],
+        "Porrima.PorrimaI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Porrima.PorrimaIa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Porrima.PorrimaIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Porrima.PorrimaII.Planet": [
+            "H20",
+            "Cl",
+            "Cs",
+            "Li"
+        ],
+        "Porrima.PorrimaIIa.Moon": [],
+        "Porrima.PorrimaIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Porrima.PorrimaIIc.Moon": [
+            "H20",
+            "Cl",
+            "Pb"
+        ],
+        "Porrima.PorrimaIII.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Al",
+            "Li"
+        ],
+        "Porrima.PorrimaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Porrima.PorrimaIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Porrima.PorrimaIV.Planet": [],
+        "Porrima.PorrimaIVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Porrima.PorrimaIVb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Porrima.PorrimaIVc.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "Ne",
+            "SiH3Cl",
+            "R-COC",
+            "HnCn"
+        ],
+        "Porrima.PorrimaIVd.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Pu",
+            "Ne",
+            "R-COC"
+        ],
+        "Porrima.PorrimaV.Planet": [],
+        "Porrima.PorrimaVa.Moon": [
+            "H20",
+            "Cl",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "F",
+            "Cs",
+            "Li"
+        ],
+        "Porrima.PorrimaVb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Porrima.PorrimaVc.Moon": [
+            "H20",
+            "Cu",
+            "Au",
+            "Sb"
+        ],
+        "Porrima.PorrimaVI.Planet": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "Porrima.PorrimaVIa.Planet": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "UrsaeMajoris.UrsaeMajorI.Planet": [
+            "U",
+            "Cu",
+            "F"
+        ],
+        "UrsaeMajoris.UrsaeMajorIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "UrsaeMajoris.UrsaeMajorIb.Moon": [
+            "U",
+            "Cu",
+            "F"
+        ],
+        "UrsaeMajoris.UrsaeMajorIc.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "UrsaeMajoris.UrsaeMajorII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "C6Hn",
+            "SiH3Cl"
+        ],
+        "UrsaeMajoris.UrsaeMajorIII.Planet": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "AlBattani.AlBattaniI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "AlBattani.AlBattaniIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlBattani.AlBattaniIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlBattani.AlBattaniIc.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Hyla.HylaVIIIa.Moon": [
+            "H20",
+            "Cu",
+            "IL",
+            "xF4"
+        ],
+        "AlBattani.AlBattaniIII.Planet": [
+            "Pb",
+            "Ni",
+            "Cu",
+            "Pd",
+            "F"
+        ],
+        "AlBattani.AlBattaniIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlBattani.AlBattaniIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlBattani.AlBattaniIV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "SiH3Cl",
+            "HnCn"
+        ],
+        "AlBattani.AlBattaniIVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlBattani.AlBattaniIVb.Moon": [],
+        "AlBattani.AlBattaniV.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "AlBattani.AlBattaniVa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "AlBattani.AlBattaniVI.Planet": [],
+        "AlBattani.AlBattaniVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "AlBattani.AlBattaniVIb.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "AlBattani.AlBattaniVII.Planet": [],
+        "AlBattani.AlBattaniVIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlBattani.AlBattaniVIII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlBattani.AlBattaniVIIIa.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "AlphaTirna.TirnaI.Planet": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Ixyll.IxyllVIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "IL"
+        ],
+        "AlphaTirna.TirnaIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaTirna.TirnaIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar",
+            "F",
+            "Co",
+            "Ag"
+        ],
+        "AlphaTirna.TirnaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlphaTirna.TirnaIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlphaTirna.TirnaIIIc.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaTirna.TirnaIV.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Co",
+            "V"
+        ],
+        "AlphaTirna.TirnaIVa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "AlphaTirna.TirnaV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "V"
+        ],
+        "AlphaTirna.TirnaVI.Planet": [],
+        "AlphaTirna.TirnaVIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "AlphaTirna.TirnaVIb.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Cu",
+            "Al",
+            "F",
+            "Eu",
+            "Au"
+        ],
+        "AlphaTirna.TirnaVIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "AlphaTirna.TirnaVId.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "AlphaTirna.TirnaVIe.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "AlphaTirna.TirnaVII.Planet": [],
+        "AlphaTirna.TirnaVIIa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "AlphaTirna.TirnaVIIb.Moon": [
+            "H20",
+            "Pb",
+            "W"
+        ],
+        "AlphaTirna.TirnaVIIc.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "AlphaTirna.TirnaVIII.Planet": [],
+        "AlphaTirna.TirnaVIIIa.Moon": [],
+        "AlphaTirna.TirnaVIIIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "AlphaTirna.TirnaVIIIc.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "W",
+            "HnCn",
+            "Ti",
+            "Ta",
+            "Dy"
+        ],
+        "AlphaTirna.TirnaVIIId.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "R-COC",
+            "HnCn"
+        ],
+        "AlphaTirna.TirnaVIIIe.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Al",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "Ne"
+        ],
+        "AlphaTirna.TirnaIX.Planet": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "AlphaTirna.TirnaX.Planet": [],
+        "AlphaTirna.TirnaXa.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "W",
+            "Au",
+            "Ti"
+        ],
+        "AlphaTirna.TirnaXb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "AlphaTirna.TirnaXc.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "BetaTirna.TirnaB.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Bolivar.BolivarI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Cu",
+            "W"
+        ],
+        "Jaffa.JaffaI.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "W",
+            "HnCn",
+            "Ti",
+            "Dy"
+        ],
+        "Jaffa.JaffaIa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Jaffa.JaffaII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "Hg",
+            "Au",
+            "Li"
+        ],
+        "Jaffa.JaffaIIa.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Ir",
+            "Pd",
+            "Pu",
+            "Co"
+        ],
+        "Jaffa.JaffaIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "Jaffa.JaffaIV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Cu",
+            "Ar",
+            "V",
+            "R-COC"
+        ],
+        "Jaffa.JaffaIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Jaffa.JaffaV.Planet": [],
+        "Jaffa.JaffaVa.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Jaffa.JaffaVI.Planet": [],
+        "Jaffa.JaffaVIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "C6Hn",
+            "Ag"
+        ],
+        "Jaffa.JaffaVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Jaffa.JaffaVIc.Moon": [
+            "He-3",
+            "Al",
+            "Nd",
+            "Eu"
+        ],
+        "Jaffa.JaffaVII.Planet": [],
+        "Jaffa.JaffaVIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Jaffa.JaffaVIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "W",
+            "SiH3Cl",
+            "Ti",
+            "Dy"
+        ],
+        "Jaffa.JaffaVIIc.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Jaffa.JaffaVIId.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Jaffa.JaffaVIIe.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Jaffa.JaffaVIII.Planet": [
+            "H20",
+            "Ar"
+        ],
+        "Nemeria.NemeriaI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Ag",
+            "R-COC"
+        ],
+        "Nemeria.NemeriaII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "W",
+            "Ne"
+        ],
+        "Nemeria.NemeriaIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Nemeria.NemeriaIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "HnCn"
+        ],
+        "Nemeria.NemeriaIII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Nemeria.NemeriaIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Nemeria.NemeriaIV.Planet": [],
+        "Nemeria.NemeriaIVa.Moon": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "F",
+            "Sb"
+        ],
+        "Nemeria.NemeriaIVb.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Pd",
+            "Co",
+            "V",
+            "Dy"
+        ],
+        "Nemeria.NemeriaV.Planet": [],
+        "Nemeria.NemeriaVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Nemeria.NemeriaVb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Nemeria.NemeriaVc.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Fe",
+            "Cu",
+            "V",
+            "HnCn",
+            "xF4"
+        ],
+        "Nemeria.NemeriaVI.Planet": [],
+        "Nemeria.NemeriaVIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Nemeria.NemeriaVIb.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "HnCn",
+            "Yb"
+        ],
+        "Nemeria.NemeriaVIc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Nemeria.NemeriaVId.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au",
+            "Sb"
+        ],
+        "Nemeria.NemeriaVII.Planet": [
+            "H20",
+            "Cl"
+        ],
+        "Rivera.RiveraI.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "Co",
+            "Pt"
+        ],
+        "Rivera.RiveraIa.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Al",
+            "Be",
+            "SiH3Cl",
+            "Nd"
+        ],
+        "Rivera.RiveraII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ag",
+            "Hg"
+        ],
+        "Rivera.RiveraIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Rivera.RiveraIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Rivera.RiveraIIc.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Rivera.RiveraIII.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Rivera.RiveraIV.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Rivera.RiveraIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Rivera.RiveraV.Planet": [],
+        "Rivera.RiveraVa.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Shoza.ShozaI.Planet": [
+            "H20",
+            "U",
+            "Cu",
+            "Ir"
+        ],
+        "Shoza.ShozaIa.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Shoza.ShozaII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Co",
+            "Ag"
+        ],
+        "Shoza.ShozaIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Ni",
+            "Al",
+            "Co",
+            "SiH3Cl"
+        ],
+        "Shoza.ShozaIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Al",
+            "F",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Shoza.ShozaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Shoza.ShozaIV.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "Co",
+            "R-COC",
+            "Pt"
+        ],
+        "Shoza.ShozaV.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ar",
+            "F",
+            "W",
+            "R-COC"
+        ],
+        "Shoza.ShozaVI.Planet": [],
+        "Shoza.ShozaVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Shoza.ShozaVII.Planet": [],
+        "Shoza.ShozaVIIa.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Cu",
+            "Al",
+            "F",
+            "W"
+        ],
+        "Shoza.ShozaVIIb.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Ni",
+            "Al"
+        ],
+        "Shoza.ShozaVIIc.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Al",
+            "Pd",
+            "Be",
+            "Co",
+            "Eu"
+        ],
+        "Shoza.ShozaVIII.Planet": [],
+        "Shoza.ShozaVIIIa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Shoza.ShozaVIIIb.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Cu",
+            "Al",
+            "F",
+            "Be",
+            "Au"
+        ],
+        "Shoza.ShozaVIIIc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Shoza.ShozaVIIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Pd",
+            "Co"
+        ],
+        "Shoza.ShozaIX.Planet": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "BetaTernion.BetaTernionI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "SiH3Cl",
+            "Li"
+        ],
+        "BetaTernion.BetaTernionIa.Moon": [],
+        "BetaTernion.BetaTernionII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Pd",
+            "Co",
+            "Pt"
+        ],
+        "BetaTernion.BetaTernionIII.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ar",
+            "C6Hn"
+        ],
+        "BetaTernion.BetaTernionIIIa.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Ni",
+            "Al",
+            "SiH3Cl"
+        ],
+        "Freya.FreyaI.Planet": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Freya.FreyaII.Planet": [
+            "U",
+            "Cl",
+            "Pb",
+            "V"
+        ],
+        "Freya.FreyaIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "Ag",
+            "Hg"
+        ],
+        "Freya.FreyaIV.Planet": [
+            "H20",
+            "He-3",
+            "U",
+            "Ni",
+            "Al",
+            "Ir",
+            "Co",
+            "Eu"
+        ],
+        "Freya.FreyaIVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Freya.FreyaIVb.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Freya.FreyaIVc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Freya.FreyaV.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Co",
+            "SiH3Cl"
+        ],
+        "Freya.FreyaVI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Freya.FreyaVII.Planet": [],
+        "Freya.FreyaVIIa.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "W",
+            "xF4",
+            "Ti"
+        ],
+        "Freya.FreyaVIII.Planet": [],
+        "Freya.FreyaVIIIa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Freya.FreyaIX.Planet": [],
+        "Freya.FreyaIXa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Freya.FreyaIXb.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Co",
+            "Pt"
+        ],
+        "Freya.FreyaIXc.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Hyla.HylaI.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "Ir",
+            "HnCn",
+            "Hg"
+        ],
+        "Hyla.HylaIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Hyla.HylaII.Planet": [
+            "H20",
+            "Pb",
+            "Al",
+            "Ar",
+            "F",
+            "Be",
+            "Ag",
+            "R-COC"
+        ],
+        "Hyla.HylaIIa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Hyla.HylaIIb.Moon": [],
+        "Hyla.HylaIII.Planet": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Al",
+            "Be",
+            "Nd",
+            "Hg"
+        ],
+        "Hyla.HylaIV.Planet": [],
+        "Hyla.HylaIVa.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Hyla.HylaIVb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Hyla.HylaV.Planet": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Al",
+            "Nd",
+            "Ag",
+            "Hg"
+        ],
+        "Hyla.HylaVa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ar",
+            "Ne",
+            "V",
+            "Ta"
+        ],
+        "Hyla.HylaVI.Planet": [],
+        "Hyla.HylaVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Hyla.HylaVIb.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Hyla.HylaVII.Planet": [],
+        "Hyla.HylaVIIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "W",
+            "Ti",
+            "Li"
+        ],
+        "Hyla.HylaVIII.Planet": [],
+        "Khayyam.KhayyamVIe.Moon": [
+            "H20",
+            "Cu",
+            "IL",
+            "xF4"
+        ],
+        "Hyla.HylaVIIIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Hyla.HylaVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Hyla.HylaVIIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Ir",
+            "Pu",
+            "F"
+        ],
+        "Hyla.HylaVIIIe.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Ixyll.IxyllI.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co",
+            "HnCn"
+        ],
+        "Ixyll.IxyllII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "SiH3Cl",
+            "HnCn",
+            "Au",
+            "Sb"
+        ],
+        "Ixyll.IxyllIIa.Moon": [],
+        "Ixyll.IxyllIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "SiH3Cl"
+        ],
+        "Ixyll.IxyllIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Ixyll.IxyllIIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Be",
+            "SiH3Cl"
+        ],
+        "Ixyll.IxyllIV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Ar",
+            "Ne",
+            "R-COC"
+        ],
+        "Ixyll.IxyllV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "Ag",
+            "Li"
+        ],
+        "Ixyll.IxyllVI.Planet": [],
+        "Kumasi.KumasiVIIb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "IL",
+            "xF4"
+        ],
+        "Ixyll.IxyllVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Ixyll.IxyllVIc.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Al",
+            "HnCn",
+            "Eu"
+        ],
+        "Ixyll.IxyllVId.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Ixyll.IxyllVIe.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Co",
+            "SiH3Cl"
+        ],
+        "Ixyll.IxyllVII.Planet": [],
+        "Ixyll.IxyllVIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cu",
+            "Al",
+            "F",
+            "Be",
+            "Sb"
+        ],
+        "Ixyll.IxyllVIIb.Moon": [
+            "H20",
+            "Pb",
+            "Cu",
+            "W",
+            "Au"
+        ],
+        "Ixyll.IxyllVIIc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Ixyll.IxyllVIII.Planet": [],
+        "Ixyll.IxyllVIIIa.Moon": [
+            "He-3",
+            "U",
+            "Al",
+            "Ir",
+            "Pu",
+            "Be"
+        ],
+        "Ixyll.IxyllVIIIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Ixyll.IxyllIX.Planet": [],
+        "Ixyll.IxyllIXa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Ixyll.IxyllIXb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Ixyll.IxyllIXc.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Ixyll.IxyllIXd.Moon": [
+            "H20",
+            "U",
+            "Cu",
+            "F",
+            "V"
+        ],
+        "Khayyam.KhayyamI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Khayyam.KhayyamIa.Moon": [],
+        "Khayyam.KhayyamII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ar",
+            "Ir",
+            "Pu",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Khayyam.KhayyamIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Khayyam.KhayyamIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Cu",
+            "SiH3Cl",
+            "HnCn",
+            "Au"
+        ],
+        "Khayyam.KhayyamIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Khayyam.KhayyamIIIb.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn",
+            "Yb"
+        ],
+        "Khayyam.KhayyamIIIc.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Khayyam.KhayyamIV.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "W",
+            "HnCn",
+            "Ti",
+            "Ta"
+        ],
+        "Khayyam.KhayyamIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Khayyam.KhayyamV.Planet": [],
+        "Khayyam.KhayyamVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Khayyam.KhayyamVI.Planet": [],
+        "Khayyam.KhayyamVIa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Khayyam.KhayyamVIb.Moon": [
+            "H20",
+            "Pb",
+            "W"
+        ],
+        "Khayyam.KhayyamVIc.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Khayyam.KhayyamVId.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Kumasi.KumasiVIIIc.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "IL"
+        ],
+        "Moloch.MolochI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "V",
+            "Hg"
+        ],
+        "Moloch.MolochIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Moloch.MolochII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "R-COC",
+            "Li"
+        ],
+        "Moloch.MolochIII.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ar",
+            "F",
+            "R-COC",
+            "Sb"
+        ],
+        "Moloch.MolochIV.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Moloch.MolochV.Planet": [],
+        "Moloch.MolochVa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Moloch.MolochVb.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Moloch.MolochVc.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "Ag"
+        ],
+        "Moloch.MolochVd.Moon": [
+            "H20",
+            "He-3",
+            "Cu",
+            "Al",
+            "Nd"
+        ],
+        "Moloch.MolochVI.Planet": [],
+        "Moloch.MolochVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Moloch.MolochVIb.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Ni",
+            "Al",
+            "Ir",
+            "Co",
+            "Nd"
+        ],
+        "Moloch.MolochVII.Planet": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Nikola.NikolaI.Planet": [
+            "H20",
+            "Fe",
+            "Al",
+            "Ar",
+            "Be",
+            "R-COC",
+            "HnCn",
+            "Ta"
+        ],
+        "Nikola.NikolaII.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Pu",
+            "W"
+        ],
+        "Nikola.NikolaIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Nikola.NikolaIII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "HnCn",
+            "Ta"
+        ],
+        "Nikola.NikolaIIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Nikola.NikolaIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Nikola.NikolaIV.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Nikola.NikolaIVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Nikola.NikolaV.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Nikola.NikolaVI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Nikola.NikolaVIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Nikola.NikolaVIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Nikola.NikolaVII.Planet": [],
+        "Nikola.NikolaVIIa.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Ar",
+            "Ir",
+            "F",
+            "Co",
+            "Pt"
+        ],
+        "Nikola.NikolaVIII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Nikola.NikolaVIIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Nikola.NikolaIX.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Nikola.NikolaX.Planet": [],
+        "Nikola.NikolaXa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Nirvana.Nirvana.Planet": [
+            "U",
+            "Pb",
+            "Ir",
+            "V",
+            "Ag"
+        ],
+        "Masada.MasadaVIIb.Moon": [
+            "H20",
+            "Cu",
+            "IL"
+        ],
+        "Nirvana.NirvanaIIa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Nirvana.NirvanaIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Ir",
+            "SiH3Cl",
+            "V"
+        ],
+        "Nirvana.NirvanaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Nirvana.NirvanaIV.Planet": [],
+        "Nirvana.NirvanaIVa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Rasalhague.RasalhagueI.Planet": [
+            "U",
+            "Fe",
+            "HnCn",
+            "Yb"
+        ],
+        "Rasalhague.RasalhagueIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Rasalhague.RasalhagueII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "Cs"
+        ],
+        "Rasalhague.RasalhagueIII.Planet": [],
+        "Rasalhague.RasalhagueIIIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Rasalhague.RasalhagueIIIb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Rasalhague.RasalhagueIV.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaMarae.AlphaMaraeI.Planet": [
+            "U",
+            "Pb",
+            "Ni",
+            "Co",
+            "V",
+            "Ag"
+        ],
+        "AlphaMarae.AlphaMaraeII.Planet": [],
+        "AlphaMarae.AlphaMaraeIIa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "AlphaMarae.AlphaMaraeIII.Planet": [],
+        "AlphaMarae.AlphaMaraeIIIa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "AlphaMarae.AlphaMaraeIIIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "AlphaMarae.AlphaMaraeIIIc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "AlphaMarae.AlphaMaraeIIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "Li"
+        ],
+        "AlphaMarae.AlphaMaraeIV.Planet": [],
+        "AlphaMarae.AlphaMaraeIVa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "AlphaMarae.AlphaMaraeIVb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Al",
+            "Be",
+            "Co",
+            "HnCn"
+        ],
+        "AlphaMarae.AlphaMaraeV.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Bara.BaraI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Bara.BaraII.Planet": [
+            "U",
+            "Fe",
+            "Ir"
+        ],
+        "Bara.BaraIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bara.BaraIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "SiH3Cl",
+            "R-COC",
+            "HnCn"
+        ],
+        "Bara.BaraIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bara.BaraIV.Planet": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Bara.BaraV.Planet": [],
+        "Bara.BaraVa.Moon": [
+            "H20",
+            "Pb",
+            "Ti"
+        ],
+        "Bara.BaraVI.Planet": [],
+        "Bara.BaraVIa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Bara.BaraVIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Bara.BaraVIc.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Bara.BaraVII.Planet": [],
+        "Bara.BaraVIIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Bara.BaraVIIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Bara.BaraVIIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Bara.BaraVIId.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Cu",
+            "Al",
+            "Li"
+        ],
+        "BetaMarae.BetaMaraeI.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ar"
+        ],
+        "BetaMarae.BetaMaraeIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "BetaMarae.BetaMaraeII.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Pd",
+            "F",
+            "W",
+            "Co"
+        ],
+        "BetaMarae.BetaMaraeIIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "BetaMarae.BetaMaraeIIb.Moon": [],
+        "Muphrid.MuphridVIIc.Moon": [
+            "H20",
+            "Cu",
+            "IL"
+        ],
+        "BetaMarae.BetaMaraeIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "BetaMarae.BetaMaraeIV.Planet": [],
+        "BetaMarae.BetaMaraeIVa.Moon": [
+            "H20",
+            "Ni",
+            "Pd"
+        ],
+        "BetaMarae.BetaMaraeIVb.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Ir",
+            "Co",
+            "V"
+        ],
+        "BetaMarae.BetaMaraeIVc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "BetaMarae.BetaMaraeIVd.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "BetaMarae.BetaMaraeV.Planet": [],
+        "BetaMarae.BetaMaraeVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "BetaMarae.BetaMaraeVb.Moon": [
+            "H20",
+            "Cu",
+            "Sb"
+        ],
+        "BetaMarae.BetaMaraeVc.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Pu",
+            "V",
+            "HnCn"
+        ],
+        "BetaMarae.BetaMaraeVd.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "BetaMarae.BetaMaraeVI.Planet": [],
+        "BetaMarae.BetaMaraeVIa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "BetaMarae.BetaMaraeVIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "BetaMarae.BetaMaraeVIc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Linnaeus.LinnaeusI.Planet": [
+            "U",
+            "Ir"
+        ],
+        "Linnaeus.LinnaeusII.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "Ag"
+        ],
+        "Linnaeus.LinnaeusIIa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Linnaeus.LinnaeusIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Cu",
+            "F",
+            "SiH3Cl",
+            "xF4"
+        ],
+        "Linnaeus.LinnaeusIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Linnaeus.LinnaeusIV.Planet": [],
+        "Linnaeus.LinnaeusIVa.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co",
+            "Pt"
+        ],
+        "Linnaeus.LinnaeusIVb.Moon": [
+            "H20",
+            "He-3",
+            "Fe",
+            "Pb",
+            "Al",
+            "Be",
+            "HnCn",
+            "Yb"
+        ],
+        "Linnaeus.LinnaeusIVc.Moon": [
+            "H20",
+            "Pb",
+            "Ni"
+        ],
+        "Linnaeus.LinnaeusV.Planet": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Linnaeus.LinnaeusVI.Planet": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Linnaeus.LinnaeusVII.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Ophion.OphionI.Planet": [],
+        "Ophion.OphionIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Rutherford.RutherfordI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Rutherford.RutherfordIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Rutherford.RutherfordIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Rutherford.RutherfordII.Planet": [
+            "Cl",
+            "Pb",
+            "Ni",
+            "Pt"
+        ],
+        "Rutherford.RutherfordIIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Rutherford.RutherfordIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Rutherford.RutherfordIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Rutherford.RutherfordIV.Planet": [],
+        "Rutherford.RutherfordIVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Rutherford.RutherfordIVb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Rutherford.RutherfordIVc.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Rutherford.RutherfordIVd.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Al",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V"
+        ],
+        "Rutherford.RutherfordIVe.Moon": [
+            "H20",
+            "Ar",
+            "Ne",
+            "R-COC"
+        ],
+        "Rutherford.RutherfordV.Planet": [],
+        "Rutherford.RutherfordVa.Moon": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ti"
+        ],
+        "Rutherford.RutherfordVb.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "SiH3Cl",
+            "Hg"
+        ],
+        "Rutherford.RutherfordVI.Planet": [],
+        "Rutherford.RutherfordVIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Al",
+            "Be",
+            "Nd",
+            "Cs"
+        ],
+        "Rutherford.RutherfordVIb.Moon": [
+            "H20",
+            "Cu",
+            "Sb"
+        ],
+        "Rutherford.RutherfordVIc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Rutherford.RutherfordVId.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Tidacha.TidachaI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "R-COC",
+            "HnCn"
+        ],
+        "Tidacha.TidachaIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Tidacha.TidachaIb.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "Tidacha.TidachaIc.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Alchiba.AlchibaI.Planet": [
+            "Pb",
+            "Ni",
+            "Pd",
+            "Co"
+        ],
+        "Alchiba.AlchibaII.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "Ir",
+            "Ag",
+            "HnCn"
+        ],
+        "Alchiba.AlchibaIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Alchiba.AlchibaIII.Planet": [],
+        "Alchiba.AlchibaIIIa.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Al",
+            "W"
+        ],
+        "Alchiba.AlchibaIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Alchiba.AlchibaIIIc.Moon": [
+            "H20",
+            "He-3",
+            "Ni",
+            "Al",
+            "Be",
+            "Co",
+            "Nd",
+            "Pt"
+        ],
+        "Alchiba.AlchibaIV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Cu",
+            "Ir",
+            "V",
+            "xF4"
+        ],
+        "Alchiba.AlchibaIVa.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Ar",
+            "F",
+            "Co"
+        ],
+        "Alchiba.AlchibaV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ar",
+            "Ir"
+        ],
+        "Alchiba.AlchibaVa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn",
+            "Yb"
+        ],
+        "Alchiba.AlchibaVI.Planet": [],
+        "Alchiba.AlchibaVIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Alchiba.AlchibaVIb.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Alchiba.AlchibaVIc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Alchiba.AlchibaVII.Planet": [],
+        "Alchiba.AlchibaVIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Alchiba.AlchibaVIIb.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Co",
+            "xF4"
+        ],
+        "Alchiba.AlchibaVIIc.Moon": [
+            "H20",
+            "Pb",
+            "Hg"
+        ],
+        "Alchiba.AlchibaVIId.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Alchiba.AlchibaVIII.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Alchiba.AlchibaVIIIa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Alchiba.AlchibaVIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Alchiba.AlchibaIX.Planet": [],
+        "Alchiba.AlchibaIXa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Alchiba.AlchibaX.Planet": [],
+        "Alchiba.AlchibaXa.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Alchiba.AlchibaXb.Moon": [
+            "H20",
+            "Pb",
+            "Ar",
+            "C6Hn"
+        ],
+        "Bannoc.BannocIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bannoc.BannocIV.Planet": [],
+        "Bannoc.BannocIVa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Bannoc.BannocIVb.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "BannocSecondus.BannocSecondusI.Planet": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "DeltaVulpes.DeltaVulpesI.Planet": [],
+        "DeltaVulpes.DeltaVulpesII.Planet": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Co"
+        ],
+        "DeltaVulpes.DeltaVulpesIII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "DeltaVulpes.DeltaVulpesIIIa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta"
+        ],
+        "DeltaVulpes.DeltaVulpesIV.Planet": [],
+        "DeltaVulpes.DeltaVulpesIVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "DeltaVulpes.DeltaVulpesV.Planet": [],
+        "DeltaVulpes.DeltaVulpesVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "DeltaVulpes.DeltaVulpesVb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "DeltaVulpes.DeltaVulpesVc.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Fe",
+            "Cu",
+            "Al",
+            "xF4"
+        ],
+        "DeltaVulpes.DeltaVulpesVd.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "DeltaVulpes.DeltaVulpesVe.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "DeltaVulpes.DeltaVulpesVI.Planet": [],
+        "DeltaVulpes.DeltaVulpesVIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "DeltaVulpes.DeltaVulpesVII.Planet": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "GammaVulpes.GammaVulpesI.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "SiH3Cl",
+            "Li"
+        ],
+        "GammaVulpes.GammaVulpesII.Planet": [],
+        "GammaVulpes.GammaVulpesIIa.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Ar",
+            "Ir",
+            "Co"
+        ],
+        "GammaVulpes.GammaVulpesIIb.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "GammaVulpes.GammaVulpesIIc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "GammaVulpes.GammaVulpesIId.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Co"
+        ],
+        "GammaVulpes.GammaVulpesIII.Planet": [],
+        "GammaVulpes.GammaVulpesIIIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "GammaVulpes.GammaVulpesIV.Planet": [],
+        "GammaVulpes.GammaVulpesIVa.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "W",
+            "Ti",
+            "Dy"
+        ],
+        "GammaVulpes.GammaVulpesIVb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "GammaVulpes.GammaVulpesIVc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "GammaVulpes.GammaVulpesIVd.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "XiOphiuchi.XiOphiuchiI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "XiOphiuchi.XiOphiuchiII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "V"
+        ],
+        "XiOphiuchi.XiOphiuchiIII.Planet": [
+            "U",
+            "Fe",
+            "Cu",
+            "Ir",
+            "F",
+            "HnCn",
+            "Yb",
+            "Sb"
+        ],
+        "XiOphiuchi.XiOphiuchiIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "XiOphiuchi.XiOphiuchiIV.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "F"
+        ],
+        "XiOphiuchi.XiOphiuchiV.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "xF4",
+            "Pt"
+        ],
+        "XiOphiuchi.XiOphiuchiVa.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "XiOphiuchi.XiOphiuchiVI.Planet": [],
+        "XiOphiuchi.XiOphiuchiVIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "XiOphiuchi.XiOphiuchiVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "XiOphiuchi.XiOphiuchiVIc.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "XiOphiuchi.XiOphiuchiVId.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co",
+            "Pt"
+        ],
+        "XiOphiuchi.XiOphiuchiVIe.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ir",
+            "W",
+            "V",
+            "Dy"
+        ],
+        "XiOphiuchi.XiOphiuchiVII.Planet": [],
+        "XiOphiuchi.XiOphiuchiVIIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "SiH3Cl",
+            "Ag",
+            "Hg",
+            "Li"
+        ],
+        "XiOphiuchi.XiOphiuchiVIIb.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Co",
+            "R-COC",
+            "Pt"
+        ],
+        "XiOphiuchi.XiOphiuchiVIII.Planet": [],
+        "XiOphiuchi.XiOphiuchiVIIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "XiOphiuchi.XiOphiuchiVIIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni"
+        ],
+        "XiOphiuchi.XiOphiuchiVIIIc.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Al",
+            "Ar",
+            "V",
+            "Ag"
+        ],
+        "XiOphiuchi.XiOphiuchiVIIId.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "XiOphiuchi.XiOphiuchiVIIIe.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "XiOphiuchi.XIOphiuchiIX.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ag",
+            "HnCn",
+            "Ta",
+            "Yb"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIV.Planet": [],
+        "ZetaOphiuchi.ZetaOphiuchiIVa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIVb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIVc.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIVd.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiIVe.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiV.Planet": [],
+        "ZetaOphiuchi.ZetaOphiuchiVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVI.Planet": [],
+        "ZetaOphiuchi.ZetaOphiuchiVIa.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "Cu",
+            "F",
+            "Au",
+            "Sb"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVIc.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Co",
+            "Pt"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVId.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "ZetaOphiuchi.ZetaOphiuchiVIe.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Ir",
+            "Pu",
+            "Li"
+        ],
+        "Zosma.ZosmaI.Planet": [
+            "Pb",
+            "Ni",
+            "Co"
+        ],
+        "Zosma.ZosmaIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Zosma.ZosmaII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "Zosma.ZosmaIII.Planet": [],
+        "Zosma.ZosmaIIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl"
+        ],
+        "Zosma.ZosmaIV.Planet": [],
+        "Zosma.ZosmaIVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Zosma.ZosmaIVb.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Zosma.ZosmaIVc.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Pd",
+            "Co",
+            "HnCn"
+        ],
+        "Zosma.ZosmaV.Planet": [],
+        "Zosma.ZosmaVa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "SiH3Cl",
+            "HnCn"
+        ],
+        "Zosma.ZosmaVb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Zosma.ZosmaVc.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Bel.BelI.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "F",
+            "SiH3Cl",
+            "R-COC"
+        ],
+        "Bel.BelIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bel.BelII.Planet": [
+            "H20",
+            "Cl",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Li"
+        ],
+        "Bel.BelIIa.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "HnCn",
+            "Sb"
+        ],
+        "Bel.BelIII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Pd",
+            "SiH3Cl",
+            "xF4"
+        ],
+        "Bel.BelIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Bel.BelIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Bel.BelIIIc.Moon": [
+            "He-3",
+            "Al",
+            "Nd",
+            "Eu"
+        ],
+        "Bel.BelIV.Planet": [],
+        "Bel.BelIVa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Bel.BelIVb.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Bel.BelIVc.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Al",
+            "Nd"
+        ],
+        "Bel.BelIVd.Moon": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Co",
+            "HnCn",
+            "Pt",
+            "Ta"
+        ],
+        "Bel.BelIVe.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Al",
+            "Nd"
+        ],
+        "Bel.BelV.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Bel.BelVa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Bel.BelVI.Planet": [],
+        "Bel.BelVII.Planet": [
+            "H20",
+            "Ar"
+        ],
+        "Feynman.FeynmanI.Planet": [
+            "U",
+            "Cl",
+            "Cu",
+            "Ir",
+            "F",
+            "SiH3Cl",
+            "xF4",
+            "Li"
+        ],
+        "Feynman.FeynmanII.Planet": [
+            "U",
+            "Pb",
+            "Ir",
+            "V",
+            "Ag"
+        ],
+        "Feynman.FeynmanIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "V",
+            "HnCn",
+            "Ta"
+        ],
+        "Feynman.FeynmanIV.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "SiH3Cl"
+        ],
+        "Narion.Niira.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "F",
+            "IL"
+        ],
+        "Feynman.FeynmanVa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Feynman.FeynmanVb.Moon": [],
+        "Feynman.FeynmanVI.Planet": [],
+        "Feynman.FeynmanVIa.Moon": [
+            "H20",
+            "Pd",
+            "W"
+        ],
+        "Feynman.FeynmanVIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Feynman.FeynmanVIc.Moon": [
+            "H20",
+            "Pb",
+            "W"
+        ],
+        "Feynman.FeynmanVII.Planet": [],
+        "Feynman.FeynmanVIIa.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Feynman.FeynmanVIIb.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Al",
+            "Ar",
+            "Pu",
+            "Nd"
+        ],
+        "Feynman.FeynmanVIIc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Feynman.FeynmanVIII.Planet": [],
+        "Feynman.FeynmanVIIIa.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Feynman.FeynmanVIIIb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au",
+            "Sb"
+        ],
+        "Feynman.FeynmanVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "SiH3Cl"
+        ],
+        "Feynman.FeynmanVIIId.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "Hg",
+            "Au"
+        ],
+        "Feynman.FeynmanVIIIe.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Feynman.FeynmanIX.Planet": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Feynman.FeynmanIXa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Heisenberg.HeisenbergI.Planet": [],
+        "Heisenberg.HeisenbergII.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Cu",
+            "Ir",
+            "F",
+            "W",
+            "xF4"
+        ],
+        "Heisenberg.HeisenbergIII.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "Ag"
+        ],
+        "Heisenberg.HeisenbergIV.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "xF4"
+        ],
+        "Heisenberg.HeisenbergV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co",
+            "Pt"
+        ],
+        "Heisenberg.HeisenbergVa.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "Be",
+            "SiH3Cl",
+            "R-COC"
+        ],
+        "Heisenberg.HeisenbergVI.Planet": [],
+        "Heisenberg.HeisenbergVIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Heisenberg.HeisenbergVIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Heisenberg.HeisenbergVIc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Heisenberg.HeisenbergVII.Planet": [],
+        "Heisenberg.HeisenbergVIIa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Heisenberg.HeisenbergVIII.Planet": [],
+        "Heisenberg.HeisenbergVIIIa.Moon": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "Heisenberg.HeisenbergVIIIb.Moon": [
+            "H20",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Heisenberg.HeisenbergVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "SiH3Cl",
+            "HnCn"
+        ],
+        "Heisenberg.HeisenbergVIIId.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Heisenberg.HeisenbergIX.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Heisenberg.HeisenbergX.Planet": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Leviathan.LeviathanI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Leviathan.LeviathanII.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd",
+            "Eu"
+        ],
+        "Leviathan.LeviathanIII.Planet": [
+            "Cl",
+            "Pb"
+        ],
+        "Leviathan.LeviathanIV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "Al",
+            "F",
+            "Yb"
+        ],
+        "Leviathan.LeviathanV.Planet": [],
+        "Leviathan.LeviathanVa.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Leviathan.LeviathanVI.Planet": [],
+        "Leviathan.LeviathanVIa.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Leviathan.LeviathanVIb.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "Leviathan.LeviathanVII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Newton.NewtonI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Newton.NewtonIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Newton.NewtonII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Cu",
+            "Al",
+            "V",
+            "HnCn",
+            "xF4"
+        ],
+        "Newton.NewtonIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Newton.NewtonIIb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Newton.NewtonIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Cu",
+            "W",
+            "Au",
+            "Li"
+        ],
+        "Newton.NewtonIV.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "SiH3Cl",
+            "Pt"
+        ],
+        "Newton.NewtonV.Planet": [],
+        "Newton.NewtonVa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Newton.NewtonVb.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "Au",
+            "Ti"
+        ],
+        "Newton.NewtonVc.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Newton.NewtonVI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Nirah.Lontrah.Planet": [
+            "He-3",
+            "U",
+            "Ni",
+            "Al",
+            "Be"
+        ],
+        "Nirah.Delah.Planet": [
+            "He-3",
+            "U",
+            "Fe",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "Nirah.Kazarah.Planet": [],
+        "Nirah.Kazaal.Moon": [
+            "H20",
+            "Ni",
+            "Cu"
+        ],
+        "Nirah.NirahPrime.Planet": [],
+        "Nirah.Nraal.Moon": [
+            "H20",
+            "Pb",
+            "W"
+        ],
+        "Nirah.Umanah.Planet": [
+            "H20",
+            "Pb"
+        ],
+        "Serpentis.SerpentisI.Planet": [
+            "He-3",
+            "U",
+            "Al",
+            "V"
+        ],
+        "Serpentis.SerpentisII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Al",
+            "Be",
+            "W",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Serpentis.SerpentisIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Serpentis.SerpentisIIb.Moon": [],
+        "Serpentis.SerpentisIII.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "F"
+        ],
+        "Serpentis.SerpentisIV.Planet": [],
+        "Serpentis.SerpentisIVa.Moon": [],
+        "Serpentis.SerpentisV.Planet": [],
+        "Serpentis.SerpentisVa.Moon": [],
+        "Serpentis.SerpentisVb.Moon": [],
+        "Serpentis.SerpentisVc.Moon": [],
+        "Serpentis.SerpentisVd.Moon": [],
+        "Serpentis.SerpentisVI.Planet": [],
+        "Syrma.SyrmaI.Planet": [
+            "U",
+            "Pb",
+            "Ni",
+            "Co"
+        ],
+        "Syrma.SyrmaIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Syrma.SyrmaIb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Syrma.SyrmaII.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Pu",
+            "SiH3Cl",
+            "HnCn",
+            "Pt"
+        ],
+        "Syrma.SyrmaIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Syrma.SyrmaIII.Planet": [
+            "H20",
+            "He-3",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "Co",
+            "R-COC"
+        ],
+        "Syrma.SyrmaIV.Planet": [
+            "H20",
+            "Al",
+            "Ar"
+        ],
+        "Syrma.SyrmaIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Syrma.SyrmaV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "F",
+            "xF4",
+            "Pt"
+        ],
+        "Syrma.SyrmaVI.Planet": [],
+        "Syrma.SyrmaVIa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Syrma.SyrmaVIb.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Syrma.SyrmaVIc.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Pt",
+            "Ta",
+            "Yb"
+        ],
+        "Syrma.SyrmaVId.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Syrma.SyrmaVII.Planet": [],
+        "Syrma.SyrmaVIIa.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "Co",
+            "SiH3Cl",
+            "Pt",
+            "Li"
+        ],
+        "Syrma.SyrmaVIIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "AlphaTernion.TernionI.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "AlphaTernion.TernionII.Planet": [
+            "U",
+            "Pu"
+        ],
+        "AlphaTernion.TernionIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "W",
+            "R-COC",
+            "Ti"
+        ],
+        "AlphaTernion.TernionIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "AlphaTernion.TernionIV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Hg"
+        ],
+        "AlphaTernion.TernionV.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "W",
+            "HnCn",
+            "Ta"
+        ],
+        "AlphaTernion.TernionVa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "Xe"
+        ],
+        "AlphaTernion.TernionVb.Moon": [],
+        "AlphaTernion.TernionVI.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "F",
+            "W",
+            "Ti",
+            "Ta"
+        ],
+        "AlphaTernion.TernionVIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "AlphaTernion.TernionVII.Planet": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Al",
+            "Be",
+            "SiH3Cl",
+            "Li"
+        ],
+        "AlphaTernion.TernionVIII.Planet": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "AlphaTernion.TernionIX.Planet": [],
+        "AlphaTernion.TernionIXa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "AlphaTernion.TernionIXb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "AlphaTernion.TernionIXc.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "AlphaTernion.TernionIXd.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Decaran.DecaranI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Decaran.DecaranII.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Decaran.DecaranIII.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Pd",
+            "W",
+            "Co"
+        ],
+        "Decaran.DecaranIV.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Decaran.DecaranV.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Decaran.DecaranVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Decaran.DecaranVb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Decaran.DecaranVI.Planet": [],
+        "Decaran.DecaranVIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Decaran.DecaranVII.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Decaran.DecaranVIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Decaran.DecaranVIIb.Moon": [
+            "He-3",
+            "U",
+            "Ir",
+            "Vy"
+        ],
+        "Decaran.DecaranVIII.Planet": [],
+        "Decaran.DecaranVIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Decaran.DecaranVIIIb.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Decaran.DecaranIX.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Foucault.FoucaultI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Foucault.FoucaultIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Foucault.FoucaultIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Foucault.FoucaultII.Planet": [
+            "U",
+            "Cl",
+            "Ir",
+            "Pu"
+        ],
+        "Foucault.FoucaultIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Foucault.FoucaultIIb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Foucault.FoucaultIII.Planet": [
+            "H20",
+            "Pb",
+            "Ni"
+        ],
+        "Foucault.FoucaultIIIa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn"
+        ],
+        "Foucault.FoucaultIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Foucault.FoucaultIV.Planet": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Foucault.FoucaultV.Planet": [],
+        "Foucault.FoucaultVa.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Foucault.FoucaultVb.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Cu",
+            "HnCn",
+            "Hg"
+        ],
+        "Foucault.FoucaultVc.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Foucault.FoucaultVd.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "W",
+            "Co"
+        ],
+        "Foucault.FoucaultVI.Planet": [],
+        "Foucault.FoucaultVIa.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Foucault.FoucaultVIb.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Foucault.FoucaultVIc.Moon": [
+            "H20",
+            "He-3",
+            "Cu",
+            "Al",
+            "xF4"
+        ],
+        "Foucault.FoucaultVId.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Foucault.FoucaultVIe.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au",
+            "Sb"
+        ],
+        "Foucault.FoucaultVII.Planet": [],
+        "Foucault.FoucaultVIIa.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "W",
+            "V",
+            "Ti"
+        ],
+        "Foucault.FoucaultVIIb.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Foucault.FoucaultVIIc.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Foucault.FoucaultVIId.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Ar",
+            "C6Hn"
+        ],
+        "Foucault.FoucaultVIIe.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Al",
+            "Ar",
+            "Nd",
+            "R-COC"
+        ],
+        "Foucault.FoucaultVIII.Planet": [
+            "H20",
+            "Ar"
+        ],
+        "Nirvana.NirvanaII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Cu",
+            "F",
+            "IL",
+            "V",
+            "xF4"
+        ],
+        "Kang.KangI.Planet": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Kang.KangII.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Kang.KangIII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ag",
+            "HnCn"
+        ],
+        "Kang.KangIV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co",
+            "V"
+        ],
+        "Kang.KangIVa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Ni",
+            "Al",
+            "Ar"
+        ],
+        "Kang.KangIVb.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Kang.KangIVc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Kang.KangV.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Co",
+            "HnCn",
+            "Ta"
+        ],
+        "Kang.KangVI.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ti",
+            "Sb"
+        ],
+        "Kang.KangVIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Kang.KangVII.Planet": [],
+        "Kang.KangVIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Kang.KangVIIb.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir"
+        ],
+        "Kang.KangVIIc.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "Kang.KangVIId.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Kang.KangVIII.Planet": [],
+        "Kang.KangVIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Kang.KangVIIIb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Kang.KangVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "SiH3Cl",
+            "HnCn",
+            "Yb"
+        ],
+        "Kang.KangVIIId.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "Maal.MaalI.Planet": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Maal.MaalIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Maal.MaalIb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Maal.MaalII.Planet": [
+            "Cl",
+            "Fe",
+            "Ni"
+        ],
+        "Maal.MaalIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Maal.MaalIII.Planet": [
+            "Fe",
+            "Pb",
+            "Cu",
+            "HnCn",
+            "Au",
+            "Ti"
+        ],
+        "Maal.MaalIIIa.Moon": [],
+        "Maal.MaalIV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ir",
+            "Ag",
+            "Hg"
+        ],
+        "Maal.MaalV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Ar",
+            "Co",
+            "Ag"
+        ],
+        "Maal.MaalVa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Maal.MaalVI.Planet": [],
+        "Maal.MaalVIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Pb",
+            "Al",
+            "Be",
+            "Li"
+        ],
+        "Maal.MaalVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Maal.MaalVIc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Maal.MaalVII.Planet": [
+            "H20",
+            "Ni",
+            "Cu",
+            "F",
+            "W",
+            "xF4",
+            "Pt"
+        ],
+        "Maal.MaalVIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Ir",
+            "V"
+        ],
+        "Maal.MaalVIIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Maal.MaalIX.Planet": [],
+        "Maal.MaalIXa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Maal.MaalIXb.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Cu",
+            "V",
+            "Sb"
+        ],
+        "Maal.MaalIXc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Maal.MaalIXd.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Maal.MaalX.Planet": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Sparta.SpartaI.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "V",
+            "HnCn",
+            "Ta"
+        ],
+        "Sparta.SpartaII.Planet": [
+            "U",
+            "Pb",
+            "W",
+            "Ti"
+        ],
+        "Sparta.SpartaIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Sparta.SpartaIIb.Moon": [],
+        "Sparta.SpartaIII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "F"
+        ],
+        "Sparta.SpartaIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "ProcyonA.ProcyonIII.Planet": [
+            "H20",
+            "Cu",
+            "Ar",
+            "F",
+            "IL",
+            "Ne",
+            "xF4"
+        ],
+        "Sparta.SpartaV.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Co",
+            "HnCn",
+            "Pt",
+            "Ta"
+        ],
+        "Sparta.SpartaVa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Sparta.SpartaVI.Planet": [],
+        "Sparta.SpartaVIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Sparta.SpartaVIb.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Pd"
+        ],
+        "Sparta.SpartaVIc.Moon": [
+            "H20",
+            "Pb",
+            "Ag"
+        ],
+        "Sparta.SpartaVII.Planet": [],
+        "Sparta.SpartaVIIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "Sparta.SpartaVIIb.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Sparta.SpartaVIIc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Sparta.SpartaVIII.Planet": [],
+        "Sparta.SpartaVIIIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Sparta.SpartaVIIIb.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Cu",
+            "Al",
+            "F",
+            "Be"
+        ],
+        "Sparta.SpartaVIIIc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Zelazny.ZelaznyI.Planet": [
+            "Cl",
+            "Pb",
+            "Xe"
+        ],
+        "Zelazny.ZelaznyII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ar",
+            "W",
+            "SiH3Cl",
+            "Ti"
+        ],
+        "Zelazny.ZelaznyIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Zelazny.ZelaznyIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "W",
+            "Cs"
+        ],
+        "Zelazny.ZelaznyIV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "SiH3Cl",
+            "xF4",
+            "Li"
+        ],
+        "Zelazny.ZelaznyV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Pt",
+            "Xe",
+            "Li"
+        ],
+        "Zelazny.ZelaznyVI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Zelazny.ZelaznyVII.Moon": [],
+        "Zelazny.ZelaznyVIIa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Zelazny.ZelaznyVIIb.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Co",
+            "Pt",
+            "Ti"
+        ],
+        "Zelazny.ZelaznyVIIc.Moon": [
+            "H20",
+            "Pb",
+            "Ti"
+        ],
+        "Zelazny.ZelaznyVIId.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Ar",
+            "Ir",
+            "Pd",
+            "Pu",
+            "V"
+        ],
+        "Zelazny.ZelaznyVIII.Planet": [],
+        "Zelazny.ZelaznyVIIIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "Zelazny.ZelaznyVIIIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Zelazny.ZelaznyVIIIc.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Pd",
+            "Co",
+            "Ag",
+            "Pt"
+        ],
+        "Zelazny.ZelaznyVIIId.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Zelazny.ZelazmyVIIIe.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Charybdis.CharybdisI.Planet": [
+            "U",
+            "Fe",
+            "Pb"
+        ],
+        "Charybdis.CharybdisII.Planet": [
+            "H20",
+            "Cl",
+            "Al",
+            "Ar",
+            "Be",
+            "SiH3Cl",
+            "Nd",
+            "Eu"
+        ],
+        "Charybdis.CharybdisIII.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "SiH3Cl",
+            "Cs"
+        ],
+        "Charybdis.CharybdisIV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "Co",
+            "Au"
+        ],
+        "Charybdis.CharybdisIVa.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Charybdis.CharybdisV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "W",
+            "Au",
+            "Ti",
+            "Sb"
+        ],
+        "Charybdis.CharybdisVa.Moon": [],
+        "Charybdis.CharybdisVI.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "F",
+            "Co",
+            "Pt"
+        ],
+        "Charybdis.CharybdisVIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Charybdis.CharybdisVIb.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "HnCn",
+            "Ta"
+        ],
+        "Charybdis.CharybdisVII.Planet": [],
+        "Charybdis.CharybdisVIIa.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Charybdis.CharybdisVIIb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "Charybdis.CharybdisVIIc.Moon": [
+            "H20",
+            "Pb",
+            "Hg"
+        ],
+        "Charybdis.CharybdisVIId.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Co",
+            "Pt",
+            "Ta"
+        ],
+        "Charybdis.CharybdisVIII.Planet": [],
+        "Charybdis.CharybdisVIIIa.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Charybdis.CharybdisVIIIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne",
+            "R-COC"
+        ],
+        "Charybdis.CharybdisIX.Planet": [
+            "H20",
+            "Cl"
+        ],
+        "Enlil.EnlilI.Planet": [
+            "U",
+            "Pb",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "Enlil.EnlilIa.Moon": [
+            "U",
+            "Pb",
+            "Ni",
+            "Ir",
+            "Co"
+        ],
+        "Enlil.EnlilII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Be",
+            "SiH3Cl",
+            "HnCn",
+            "Ta"
+        ],
+        "Enlil.EnlilIIa.Moon": [],
+        "Enlil.EnlilIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "HnCn",
+            "Ta"
+        ],
+        "Enlil.EnlilIV.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "C6Hn"
+        ],
+        "Enlil.EnlilIVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Enlil.EnlilV.Planet": [
+            "H20",
+            "U",
+            "Cu",
+            "Ir",
+            "F",
+            "V"
+        ],
+        "Enlil.EnlilVI.Planet": [],
+        "Enlil.EnlilVIa.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Enlil.EnlilVIb.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "W",
+            "Au"
+        ],
+        "Enlil.EnlilVIc.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Enlil.EnlilVId.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Enlil.EnlilVII.Planet": [],
+        "Enlil.EnlilVIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Leonis.LeonisI.Planet": [
+            "He-3",
+            "U",
+            "Cl",
+            "Pb",
+            "Al",
+            "Be",
+            "Nd",
+            "Ag"
+        ],
+        "Leonis.LeonisIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Leonis.LeonisIb.Moon": [
+            "He-3",
+            "U",
+            "Pb",
+            "Ni",
+            "Al",
+            "Co",
+            "Ag"
+        ],
+        "Leonis.LeonisII.Planet": [
+            "He-3",
+            "U",
+            "Pb",
+            "Al",
+            "Be",
+            "Ag",
+            "Hg"
+        ],
+        "Leonis.LeonisIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Leonis.LeonisIII.Planet": [
+            "H20",
+            "U",
+            "Ir",
+            "Pu"
+        ],
+        "Leonis.LeonisIV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "HnCn",
+            "Pt"
+        ],
+        "Leonis.LeonisV.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "C6Hn",
+            "SiH3Cl",
+            "HnCn",
+            "Li"
+        ],
+        "Leonis.LeonisVa.Moon": [],
+        "Leonis.LeonisVI.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "Co"
+        ],
+        "Leonis.LeonisVII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "Co"
+        ],
+        "Leonis.LeonisVIII.Planet": [],
+        "Leonis.LeonisVIIIa.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Ag"
+        ],
+        "Leonis.LeonisVIIIb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Leonis.LeonisVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ar",
+            "HnCn",
+            "Yb"
+        ],
+        "Leonis.LeonisIX.Planet": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "ProximaTernion.ProximaTernionI.Planet": [],
+        "ProximaTernion.ProximaTernionIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "ProximaTernion.ProximaTernionIb.Moon": [
+            "Pb",
+            "F",
+            "Ag"
+        ],
+        "ProximaTernion.ProximaTernionIc.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "ProximaTernion.ProximaTernionII.Planet": [
+            "U"
+        ],
+        "ProximaTernion.ProximaTernionIII.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Al",
+            "F",
+            "Cs"
+        ],
+        "ProximaTernion.ProximaTernionIV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Pu",
+            "HnCn",
+            "Li"
+        ],
+        "ProximaTernion.ProximaTernionIVa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Rana.RanaI.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "W",
+            "V",
+            "HnCn",
+            "Ti",
+            "Ta"
+        ],
+        "Rana.RanaIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Rana.RanaIb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Rana.RanaIc.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Rana.RanaII.Planet": [
+            "U",
+            "Cl",
+            "Pb",
+            "Ag"
+        ],
+        "Rana.RanaIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Rana.RanaIII.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "W",
+            "Pt"
+        ],
+        "Rana.RanaIIIa.Moon": [
+            "He-3",
+            "Fe",
+            "Yb"
+        ],
+        "Rana.RanaIV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "Ag"
+        ],
+        "Rana.RanaV.Planet": [
+            "H20",
+            "Pb",
+            "Cu",
+            "Ar",
+            "F",
+            "W",
+            "Ti"
+        ],
+        "Rana.RanaVa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Rana.RanaVI.Planet": [],
+        "Rana.RanaVIa.Moon": [
+            "H20",
+            "Cl",
+            "Al",
+            "Be"
+        ],
+        "Rana.RanaVIb.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "SiH3Cl",
+            "HnCn",
+            "Li"
+        ],
+        "Rana.RanaVIc.Moon": [
+            "H20",
+            "Ni",
+            "Pd"
+        ],
+        "Rana.RanaVId.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Cu",
+            "F",
+            "Ag"
+        ],
+        "Rana.RanaVIe.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Rana.RanaVII.Planet": [],
+        "Rana.RanaVIIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Rana.RanaVIIb.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Pyraas.PyraasVIIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "IL"
+        ],
+        "Rana.RanaIX.Planet": [],
+        "Rana.RanaIXa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Rana.RanaIXb.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Schrodinger.SchrodingerI.Planet": [
+            "He-3",
+            "Al"
+        ],
+        "Schrodinger.SchrodingerIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Schrodinger.SchrodingerII.Planet": [
+            "U",
+            "Cl",
+            "Pb",
+            "Pu",
+            "W",
+            "SiH3Cl",
+            "Ti",
+            "Ad"
+        ],
+        "Schrodinger.SchrodingerIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Co"
+        ],
+        "Schrodinger.SchrodingerIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Schrodinger.SchrodingerIV.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "Al",
+            "C6Hn",
+            "F",
+            "SiH3Cl",
+            "Nd"
+        ],
+        "Schrodinger.SchrodingerV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Ir",
+            "V"
+        ],
+        "Schrodinger.SchrodingerVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Schrodinger.SchrodingerVI.Planet": [],
+        "Schrodinger.SchrodingerVIa.Moon": [
+            "H20",
+            "Pb",
+            "Ag",
+            "Hg"
+        ],
+        "Schrodinger.SchrodingerVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Schrodinger.SchrodingerVIc.Moon": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Ar",
+            "Ne",
+            "R-COC",
+            "HnCn",
+            "Ta"
+        ],
+        "Schrodinger.SchrodingerVII.Planet": [],
+        "Schrodinger.SchrodingerVIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Schrodinger.SchrodingerVIIb.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Schrodinger.SchrodingerVIIc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Schrodinger.SchrodingerVIII.Planet": [],
+        "Schrodinger.SchrodingerVIIIa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Co",
+            "HnCn"
+        ],
+        "Schrodinger.SchrodingerVIIIb.Moon": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Schrodinger.SchrodingerVIIIc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Schrodinger.SchrodingerVIIId.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Schrodinger.SchrodingerVIIIe.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Li",
+            "Dy"
+        ],
+        "Algorab.AlgorabI.Planet": [
+            "U",
+            "Pb",
+            "Ir"
+        ],
+        "Algorab.AlgorabII.Planet": [
+            "H20",
+            "Cl",
+            "Ar",
+            "R-COC",
+            "Li"
+        ],
+        "Algorab.AlgorabIII.Planet": [],
+        "Algorab.AlgorabIIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Ar"
+        ],
+        "Algorab.AlgorabIIIb.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Al",
+            "Ar",
+            "C6Hn",
+            "R-COC",
+            "HnCn"
+        ],
+        "Algorab.AlgorabIIIc.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Algorab.AlgorabIIId.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Algorab.AlgorabIIIe.Moon": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "Bardeen.BardeenI.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "Ta"
+        ],
+        "Bardeen.BardeenIa.Moon": [
+            "He-3",
+            "Fe",
+            "Ta",
+            "Yb"
+        ],
+        "Bardeen.BardeenII.Planet": [
+            "U",
+            "Fe",
+            "Pb",
+            "Ag",
+            "HnCn",
+            "Ta"
+        ],
+        "Bardeen.BardeenIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Co",
+            "SiH3Cl",
+            "R-COC"
+        ],
+        "Bardeen.BardeenIIIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Bardeen.BardeenIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Bardeen.BardeenIV.Planet": [],
+        "Bardeen.BardeenIVa.Moon": [
+            "H20",
+            "Cl",
+            "Cs",
+            "Li"
+        ],
+        "Bardeen.BardeenV.Planet": [],
+        "Bardeen.BardeenVa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Bardeen.BardeenVb.Moon": [
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ir",
+            "HnCn",
+            "Ta"
+        ],
+        "Bardeen.BardeenVc.Moon": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "Co",
+            "SiH3Cl",
+            "Pt",
+            "Xe"
+        ],
+        "Bardeen.BardeenVd.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Cu",
+            "Ir",
+            "F",
+            "Ta"
+        ],
+        "Bardeen.BardeenVe.Moon": [
+            "H20",
+            "Pb",
+            "Ti"
+        ],
+        "Bardeen.BardeenVf.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Bardeen.BardeenVI.Planet": [
+            "H20",
+            "Cu"
+        ],
+        "Bardeen.BardeenVIa.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Bardeen.BardeenVIb.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "xF4"
+        ],
+        "Bardeen.BardeenVII.Planet": [],
+        "Bardeen.BardeenVIIa.Moon": [
+            "H20",
+            "Ar",
+            "Ne",
+            "R-COC"
+        ],
+        "Celebrai.CelebraiI.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "HnCn",
+            "Ta",
+            "Yb"
+        ],
+        "Celebrai.CelebraiII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "SiH3Cl",
+            "HnCn",
+            "Au"
+        ],
+        "Celebrai.CelebraiIII.Planet": [],
+        "Celebrai.CelebraiIIIa.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Celebrai.CelebraiIIIb.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Celebrai.CelebraiIIIc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "Celebrai.CelebraiIV.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Marduk.MardukI.Planet": [
+            "H20",
+            "Cl",
+            "Ni"
+        ],
+        "Marduk.MardukIa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Marduk.MardukII.Planet": [
+            "U",
+            "Ni",
+            "Cu",
+            "Pd",
+            "Pu",
+            "Co",
+            "V",
+            "Pt"
+        ],
+        "Marduk.MardukIII.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "Pb",
+            "SiH3Cl"
+        ],
+        "Marduk.MardukIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Marduk.MardukIV.Planet": [
+            "H20",
+            "Pb",
+            "Ar",
+            "R-COC"
+        ],
+        "Marduk.MardukV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "SiH3Cl"
+        ],
+        "Marduk.MardukVa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Marduk.MardukVI.Planet": [
+            "H20",
+            "Cl",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Au",
+            "Cs"
+        ],
+        "Marduk.MardukVII.Planet": [],
+        "Marduk.MardukVIIa.Moon": [
+            "H20",
+            "Cu",
+            "F",
+            "Au"
+        ],
+        "Marduk.MardukVIIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Marduk.MardukVIIc.Moon": [
+            "H20",
+            "Ar",
+            "Ne"
+        ],
+        "Marduk.MardukVIId.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Marduk.MardukVIII.Planet": [
+            "H20",
+            "Cu",
+            "xF4"
+        ],
+        "Marduk.MardukIX.Planet": [
+            "H20",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "Marduk.MardukIXa.Moon": [
+            "H20",
+            "Ni",
+            "Pt"
+        ],
+        "Marduk.MardukIXb.Moon": [
+            "H20",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "Pyraas.PyraasI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Pyraas.PyraasII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Pb",
+            "Ar",
+            "Ir",
+            "SiH3Cl",
+            "Ti"
+        ],
+        "Pyraas.PyraasIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Pyraas.PyraasIII.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Co",
+            "SiH3Cl",
+            "V",
+            "Cs"
+        ],
+        "Pyraas.PyraasIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Pyraas.PyraasIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Pyraas.PyraasIV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "SiH3Cl",
+            "HnCn",
+            "Pt"
+        ],
+        "Pyraas.PyraasV.Planet": [
+            "H20",
+            "Pb",
+            "Cu"
+        ],
+        "Pyraas.PyraasVI.Planet": [],
+        "Pyraas.PyraasVIa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Ir",
+            "HnCn",
+            "Li"
+        ],
+        "Pyraas.PyraasVIb.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Pyraas.PyraasVIc.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Pyraas.PyraasVId.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Pyraas.PyraasVII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Cu",
+            "Ir",
+            "F",
+            "V",
+            "HnCn"
+        ],
+        "Rana.RanaVIII.Planet": [
+            "H20",
+            "Cu",
+            "F",
+            "IL",
+            "xF4"
+        ],
+        "Pyraas.PyraasVIIb.Moon": [
+            "H20",
+            "Cl",
+            "Ar",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Pyraas.PyraasVIII.Planet": [],
+        "Pyraas.PyraasVIIIa.Moon": [
+            "H20",
+            "He-3",
+            "Cl",
+            "Fe",
+            "Pb",
+            "Ni",
+            "Al",
+            "SiH3Cl"
+        ],
+        "Pyraas.PyraasVIIIb.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Pyraas.PyraasVIIIc.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Pyraas.PyraasVIIId.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Strix.StrixI.Planet": [
+            "H20",
+            "He-3",
+            "U",
+            "Fe",
+            "Cu",
+            "Al",
+            "Be",
+            "HnCn"
+        ],
+        "Strix.StrixIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Strix.StrixII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "Ar",
+            "C6Hn",
+            "F"
+        ],
+        "Strix.StrixIII.Planet": [],
+        "Strix.StrixIIIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Pb",
+            "Ni",
+            "Al",
+            "Co",
+            "Ag"
+        ],
+        "Strix.StrixIIIb.Moon": [
+            "H20",
+            "Pb",
+            "Dy"
+        ],
+        "Strix.StrixIIIc.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "Pd",
+            "F",
+            "Co"
+        ],
+        "Strix.StrixIIId.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Strix.StrixIV.Planet": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Hg",
+            "Au"
+        ],
+        "Strix.StrixIVa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Strix.StrixV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Ir",
+            "Xe",
+            "Li"
+        ],
+        "Strix.StrixVI.Planet": [],
+        "Strix.StrixVIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Strix.StrixVIb.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Strix.StrixVIc.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Verne.VerneI.Planet": [
+            "U",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "Pu",
+            "Ne",
+            "Vr"
+        ],
+        "Verne.VerneIa.Moon": [],
+        "Verne.VerneII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "C6Hn",
+            "W",
+            "Ti"
+        ],
+        "Verne.VerneIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Verne.VerneIII.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ar",
+            "Ir",
+            "Pd"
+        ],
+        "Verne.VerneIIIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Verne.VerneIV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V",
+            "Ag"
+        ],
+        "Verne.VerneV.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Pb",
+            "V",
+            "Hg",
+            "Yb"
+        ],
+        "Verne.VerneVI.Planet": [],
+        "Verne.VerneVIa.Moon": [
+            "H20",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Ag",
+            "Pt"
+        ],
+        "Verne.VerneVIb.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Verne.VerneVII.Planet": [],
+        "Verne.VerneVIIa.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Verne.VerneVIIb.Moon": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "Verne.VerneVIIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Verne.VerneVIId.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Cu",
+            "F",
+            "Ag",
+            "Hg"
+        ],
+        "Verne.VerneVIIe.Moon": [
+            "H20",
+            "Cl",
+            "Li"
+        ],
+        "Archimedes.ArchimedesI.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Co",
+            "HnCn",
+            "Pt"
+        ],
+        "Archimedes.ArchimedesIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Archimedes.ArchimedesII.Planet": [
+            "H20",
+            "U",
+            "Ar"
+        ],
+        "Archimedes.ArchimedesIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "Al",
+            "Be",
+            "W",
+            "Nd"
+        ],
+        "Sparta.SpartaIV.Planet": [
+            "H20",
+            "Cl",
+            "Cu",
+            "F",
+            "IL",
+            "SiH3Cl",
+            "HnCn"
+        ],
+        "Archimedes.ArchimedesIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Archimedes.ArchimedesV.Planet": [],
+        "Archimedes.ArchimedesVa.Moon": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Pd",
+            "Ta",
+            "Yb"
+        ],
+        "Archimedes.ArchimedesVb.Moon": [
+            "H20",
+            "Ni",
+            "Co",
+            "Pt"
+        ],
+        "Archimedes.ArchimedesVI.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Co",
+            "Pt"
+        ],
+        "Archimedes.ArchimedesVIa.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ar",
+            "Ir",
+            "Ag",
+            "R-COC"
+        ],
+        "Archimedes.ArchimedesVIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Bohr.BohrI.Planet": [
+            "Cl",
+            "Pb",
+            "Ag",
+            "Hg"
+        ],
+        "Bohr.BohrIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Bohr.BohrII.Planet": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Cu"
+        ],
+        "Bohr.BohrIII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Ni",
+            "SiH3Cl"
+        ],
+        "Bohr.BohrIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Bohr.BohrIIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Bohr.BohrIV.Planet": [
+            "U",
+            "Ni",
+            "Cu",
+            "F",
+            "Co",
+            "Pt",
+            "Au",
+            "Sb"
+        ],
+        "Bohr.BohrV.Planet": [
+            "H20",
+            "U",
+            "Cl",
+            "Fe",
+            "HnCn",
+            "Cs"
+        ],
+        "Bohr.BohrVI.Planet": [],
+        "Bohr.BohrVIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Bohr.BohrVIb.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Bohr.BohrVIc.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Bohr.BohrVId.Moon": [
+            "H20",
+            "Cu",
+            "Au"
+        ],
+        "Bohr.BohrVII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Pb",
+            "W"
+        ],
+        "Bohr.BohrVIII.Planet": [
+            "H20",
+            "Ar"
+        ],
+        "Fermi.FermiI.Planet": [
+            "U",
+            "Pb",
+            "V",
+            "Ag",
+            "Hg"
+        ],
+        "Fermi.FermiII.Planet": [
+            "Fe",
+            "Pb",
+            "Ag",
+            "HnCn"
+        ],
+        "Fermi.FermiIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be",
+            "Eu"
+        ],
+        "Fermi.FermiIII.Planet": [
+            "H20",
+            "U",
+            "Fe",
+            "Ar",
+            "Ir",
+            "C6Hn",
+            "V",
+            "HnCn"
+        ],
+        "Fermi.FermiIIIa.Moon": [
+            "He-3",
+            "Al",
+            "Eu"
+        ],
+        "Fermi.FermiIIIb.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Fermi.FermiIV.Planet": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Ir",
+            "F",
+            "Co",
+            "V"
+        ],
+        "Fermi.FermiIVa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Fermi.FermiIVb.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Fermi.FermiV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "Xe"
+        ],
+        "Fermi.FermiVa.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Fermi.FermiVI.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "F",
+            "SiH3Cl",
+            "HnCn",
+            "Ta"
+        ],
+        "Fermi.FermiVIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Fermi.FermiVII.Planet": [],
+        "Fermi.FermiVIIa.Moon": [
+            "H20",
+            "U",
+            "Ni",
+            "Cu",
+            "Pd",
+            "F",
+            "Co",
+            "Pt"
+        ],
+        "Fermi.FermiVIIb.Moon": [
+            "H20",
+            "He-3",
+            "Pb",
+            "Al",
+            "W",
+            "Eu",
+            "Dy"
+        ],
+        "Fermi.FermiVIIc.Moon": [
+            "H20",
+            "U",
+            "Fe",
+            "Ni",
+            "Cu",
+            "Al",
+            "Be",
+            "Nd"
+        ],
+        "Fermi.FermiVIII.Planet": [],
+        "Fermi.FermiVIIIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Fermi.FermiVIIIb.Moon": [
+            "H20",
+            "Pb"
+        ],
+        "Fermi.FermiVIIIc.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl"
+        ],
+        "Fermi.FermiVIIId.Moon": [
+            "H20",
+            "Cu",
+            "F"
+        ],
+        "Fermi.FermiIX.Planet": [],
+        "Fermi.FermiIXa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Fermi.FermiIXb.Moon": [
+            "H20",
+            "Ni",
+            "Pd"
+        ],
+        "Fermi.FermiIXc.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Fermi.FermiIXd.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Fermi.FermiIXe.Moon": [
+            "H20",
+            "Ar",
+            "R-COC"
+        ],
+        "Fermi.FermiX.Planet": [
+            "He-3",
+            "Fe",
+            "Ta",
+            "Yb"
+        ],
+        "Hawking.HawkingI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ar",
+            "W",
+            "SiH3Cl"
+        ],
+        "Hawking.HawkingIa.Moon": [
+            "He-3",
+            "Fe"
+        ],
+        "Hawking.HawkingII.Planet": [
+            "H20",
+            "Cl",
+            "Fe",
+            "Cu",
+            "HnCn"
+        ],
+        "Hawking.HawkingIII.Planet": [
+            "H20",
+            "U",
+            "Cu",
+            "Ir",
+            "xF4"
+        ],
+        "Hawking.HawkingIV.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni"
+        ],
+        "Hawking.HawkingIVa.Moon": [
+            "He-3",
+            "Fe",
+            "HnCn",
+            "Ta",
+            "Yb"
+        ],
+        "Hawking.HawkingV.Planet": [],
+        "Hawking.HawkingVa.Moon": [
+            "H20",
+            "Cl"
+        ],
+        "Hawking.HawkingVI.Planet": [],
+        "Hawking.HawkingVIa.Moon": [
+            "H20",
+            "Ni",
+            "Pd",
+            "Pt"
+        ],
+        "Hawking.HawkingVIb.Moon": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "SiH3Cl",
+            "Ag",
+            "Pt",
+            "Li"
+        ],
+        "Huygens.HuygensI.Planet": [
+            "He-3",
+            "Fe"
+        ],
+        "Huygens.HuygensIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Huygens.HuygensIb.Moon": [],
+        "Huygens.HuygensII.Planet": [
+            "U",
+            "Cl",
+            "Fe",
+            "Ir",
+            "V",
+            "Xe"
+        ],
+        "Huygens.HuygensIIa.Moon": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Huygens.HuygensIIb.Moon": [
+            "He-3",
+            "Al"
+        ],
+        "Huygens.HuygensIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "HnCn",
+            "Cs"
+        ],
+        "Huygens.HuygensIV.Planet": [
+            "H20",
+            "Ni",
+            "Ar"
+        ],
+        "Huygens.HuygensV.Planet": [],
+        "Huygens.HuygensVa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Huygens.HuygensVb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "Ne"
+        ],
+        "Huygens.HuygensVI.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ni",
+            "Co",
+            "Hg"
+        ],
+        "Huygens.HuygensVIa.Moon": [
+            "U",
+            "Pb",
+            "Pu",
+            "W",
+            "V"
+        ],
+        "Huygens.HuygensVII.Planet": [],
+        "Huygens.HuygensVIIa.Moon": [
+            "H20",
+            "U",
+            "Cl",
+            "Ni",
+            "Ir",
+            "Co",
+            "Ti"
+        ],
+        "Huygens.HuygensVIIb.Moon": [
+            "H20",
+            "U",
+            "Ir"
+        ],
+        "Huygens.HuygensVIIc.Moon": [
+            "He-3",
+            "Al",
+            "Nd"
+        ],
+        "Huygens.HuygensVIId.Moon": [
+            "H20",
+            "Cl",
+            "SiH3Cl",
+            "Li"
+        ],
+        "Huygens.HuygensVIIe.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Huygens.HuygensVIII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "W",
+            "SiH3Cl"
+        ],
+        "Katydid.KatydidI.Planet": [],
+        "Katydid.KatydidIa.Moon": [
+            "H20",
+            "He-3",
+            "U",
+            "Cl",
+            "Fe",
+            "SiH3Cl",
+            "HnCn",
+            "Yb"
+        ],
+        "Katydid.KatydidIb.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn",
+            "R-COC"
+        ],
+        "Katydid.KatydidII.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Ag"
+        ],
+        "Katydid.KatydidIII.Planet": [
+            "H20",
+            "Fe",
+            "Pb",
+            "Cu",
+            "Al",
+            "Be",
+            "Ag",
+            "Ie"
+        ],
+        "Masada.MasadaI.Planet": [
+            "He-3",
+            "Al",
+            "Be"
+        ],
+        "Masada.MasadaII.Planet": [
+            "U",
+            "Pb",
+            "Ir",
+            "Ag"
+        ],
+        "Masada.MasadaIII.Planet": [
+            "H20",
+            "Fe",
+            "Ni",
+            "Ar",
+            "Co",
+            "HnCn",
+            "Pt",
+            "Yb"
+        ],
+        "Masada.MasadaIV.Planet": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "F",
+            "W",
+            "Co",
+            "V"
+        ],
+        "Masada.MasadaIVa.Moon": [],
+        "Masada.MasadaV.Planet": [],
+        "Masada.MasadaVa.Moon": [
+            "H20",
+            "Ni",
+            "Co"
+        ],
+        "Masada.MasadaVb.Moon": [
+            "H20",
+            "Ni"
+        ],
+        "Masada.MasadaVc.Moon": [
+            "H20",
+            "U",
+            "Pb",
+            "Ni",
+            "Ar",
+            "C6Hn",
+            "W"
+        ],
+        "Masada.MasadaVI.Planet": [],
+        "Masada.MasadaVIa.Moon": [
+            "H20",
+            "Ar",
+            "C6Hn"
+        ],
+        "Masada.MasadaVII.Planet": [],
+        "Masada.MasadaVIIa.Moon": [
+            "H20",
+            "Ar"
+        ],
+        "Volii.VoliiEpsilon.Planet": [
+            "H20",
+            "Cl",
+            "Pb",
+            "Cu",
+            "F",
+            "IL",
+            "SiH3Cl"
+        ],
+        "Masada.MasadaVIII.Planet": [
+            "H20",
+            "Cl"
+        ],
+        "Masada.MasadaVIIIa.Moon": [
+            "H20",
+            "Cu"
+        ],
+        "Masada.MasadaIX.Planet": []
+    }
+}

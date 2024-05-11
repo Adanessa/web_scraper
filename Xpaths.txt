@@ -1,0 +1,146 @@
+Alpha Andraste System
+((By.XPATH, "/html/body/div[3]/div[2]/div[1]"))
+
+Alpha Andraste I
+((By.XPATH, "/html/body/div[3]/div[2]/div[3]/div/ul/li[1]/div"))
+
+
+
+
+
+
+solar_system = {
+    "Al-Battani": {
+        "planets": {}
+    },
+    "Alchiba": {
+        "planets": {}
+    },
+    "Algorab": {
+        "planets": {}
+    }
+}
+
+solar_system = {
+        "Al-Battani": {
+            "planets": {}
+        },
+        "Alchiba": {
+            "planets": {}
+        },
+        "Algorab": {
+            "planets": {}
+        },
+        "Alpha Andraste": {
+            "planets": {}
+        },
+        "Alpha Centauri": {
+            "planets": {}
+        },
+        "Alpha Marae": {
+            "planets": {}
+        },
+        "Alpha Ternion": {
+            "planets": {}
+        },
+        "Alpha Tirna": {
+            "planets": {}
+        },
+        "Altair": {
+            "planets": {}
+        },
+        "Andromas": {
+            "planets": {}
+        },
+        "Apollo": {
+            "planets": {}
+    },
+    "Aranae": {
+        "planets": {}
+    },
+    "Archimedes": {
+        "planets": {}
+    },
+    "Arcturus": {
+        "planets": {}
+    },
+    "Artemis": {
+        "planets": {}
+    },
+    "Athena": {
+        "planets": {}
+    },
+    "Ax-Valok": {
+        "planets": {}
+    }
+}
+
+
+
+
+{
+    "Al-Battani": {
+        "planets": {}
+    },
+    "Alchiba": {
+        "planets": {}
+    },
+    "Algorab": {
+        "planets": {}
+    },
+    "Alpha Andraste": {
+        "planets": {}
+    },
+    "Alpha Centauri": {
+        "planets": {}
+    },
+    "Alpha Marae": {
+        "planets": {}
+    },
+    "Alpha Ternion": {
+        "planets": {}
+    },
+    "Alpha Tirna": {
+        "planets": {}
+    },
+    "Altair": {
+        "planets": {}
+    },
+    "Andromas": {
+        "planets": {}
+    },
+    "Apollo": {
+        "planets": {}
+    },
+    "Aranae": {
+        "planets": {}
+    },
+    "Archimedes": {
+        "planets": {}
+    },
+    "Arcturus": {
+        "planets": {}
+    },
+    "Artemis": {
+        "planets": {}
+    },
+    "Athena": {
+        "planets": {}
+    },
+    "Ax-Valok": {
+        "planets": {}
+    }
+}
+
+
+
+
+
+
+
+
+
+<a class="a-link" href="https://game8.co/games/Starfield/archives/423927">Aluminum</a>
+
+
+

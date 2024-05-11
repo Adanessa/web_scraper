@@ -1,104 +1,71 @@
 import json
+import re
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
 
-# Function to wait for the presence of element
-def wait_for_element(driver, xpath, timeout=10):
-    try:
-        element_present = EC.presence_of_element_located((By.XPATH, xpath))
-        WebDriverWait(driver, timeout).until(element_present)
-        return True
-    except TimeoutException:
-        return False
-
-# Path to the ChromeDriver executable
 chromedriver_path = 'chromedriver.exe'
 
 # Create a new Chrome session
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-# URL of the webpage to scrape
-url = "https://game8.co/games/Starfield/archives/421780"
-
-# Navigate to the webpage
+url = 'https://inara.cz/starfield/starsystems/'
 driver.get(url)
 
-# Wait for the table element to be present
-xpath = "/html/body/div[3]/div[2]/div[1]/div[1]/div[4]/table[1]/tbody"
-if not wait_for_element(driver, xpath):
-    print("Timeout waiting for element")
-    driver.quit()
-    exit()
+map_container = driver.find_element(By.CLASS_NAME, 'mapcontainer')
 
-# Get the table element
-table_element = driver.find_element(By.XPATH, xpath)
+# Find all system links within the map container
+system_links = map_container.find_elements(By.CSS_SELECTOR, 'span.mappoint a')
 
-# Find all rows in the table
-rows = table_element.find_elements(By.TAG_NAME, "tr")
+# Extract the system names and URLs from the system links
+system_data = [(link.text.strip(), link.get_attribute('href')) for link in system_links]
 
-# Extract system names and links from the first column of the table
-system_links = []
-for row in rows:
-    columns = row.find_elements(By.TAG_NAME, "td")
-    if columns:  # Check if columns exist
-        system_link = columns[0].find_element(By.TAG_NAME, "a")
-        system_links.append(system_link)
+# Create an empty dictionary to store planet data
+planet_data = {}
 
-# Create the desired structure
-solar_system = {}
-for system_link in system_links:
-    system_name = system_link.text.strip()
-    solar_system[system_name] = {"planets": {}}
-
-# Wrap the solar_system dictionary with another dictionary
-solar_system_final = {"solar_system": solar_system}
-
-# Loop through each system link and handle pop-ups before clicking
-for system_link in system_links:
-    try:
-        # Wait for the system link to be clickable
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//a[@class='a-link']")))
-        
-        # Click on the system link
-        system_link.click()
-        
-        # Wait for the planet table element to be present
-        planet_table_xpath = "/html/body/div[3]/div[2]/div[1]/div[1]/div[4]/table[1]/tbody"
-        if not wait_for_element(driver, planet_table_xpath):
-            print("Timeout waiting for planet table element")
-            driver.quit()
-            exit()
-        
-        # Find the table containing planet names
-        planet_table = driver.find_element(By.XPATH, planet_table_xpath)
-        
-        # Find all planet names in the table
-        planet_links = planet_table.find_elements(By.XPATH, "./tr/td[1]/a")
-        
-        # Collect planet names
-        planet_names = [planet_link.text.strip() for planet_link in planet_links]
-        
-        # Add planet names to the solar system data
-        solar_system_final["solar_system"][system_link.text.strip()]["planets"] = planet_names
-        
-        # Go back to the previous page to continue with the next system
-        driver.back()
+# Iterate over each system
+for system_name, system_url in system_data:
+    driver.get(system_url)
     
-    except ElementClickInterceptedException:
-        print("Element click intercepted, handling pop-up")
-        # Add code here to handle the pop-up or overlay
+    # Wait until all planet names are visible
+    planet_names = WebDriverWait(driver, 10).until(
+        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, 'h3.bodyname'))
+    )
+    
+    # Extract cleaned planet names
+    cleaned_planet_names = [re.sub(r'^[^\w\s]+', '', planet_name.text.strip()) for planet_name in planet_names]
+    
+    # Remove unwanted characters from the system name
+    cleaned_system_name = re.sub(r'^[^\w\s]+', '', system_name)
+    
+    # Create a dictionary to store planet resources for this system
+    system_planet_resources = {}
+    
+    # Find all mainblocks
+    mainblocks = driver.find_elements(By.CLASS_NAME, 'mainblock')
+    
+    # Iterate over each planet name and corresponding mainblock, skipping the first planet
+    for i in range(1, len(cleaned_planet_names)):  # Start from index 1 to skip the first planet
+        planet_name = cleaned_planet_names[i]
+        mainblock = mainblocks[i]
+        # Extract the text content of the mainblock
+        mainblock_text = mainblock.text
+        
+        # Store the entire mainblock text for the planet
+        system_planet_resources[planet_name] = mainblock_text
 
-# Save the structured data into a JSON file
-output_file = "structured_data.json"
-with open(output_file, "w") as file:
-    json.dump(solar_system_final, file, indent=4)
+    # Store the planet resources for this system in the main planet data dictionary
+    planet_data[cleaned_system_name] = system_planet_resources
 
-print("Structured data saved to:", output_file)
-
-# Quit the WebDriver
+# Close the browser session
 driver.quit()
+
+# Save the planet data to a JSON file
+with open('planet_data.json', 'w') as json_file:
+    json.dump(planet_data, json_file, indent=4)
+
+print("Scraped data has been saved to planet_data.json")
