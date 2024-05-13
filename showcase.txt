@@ -1,0 +1,66 @@
+Starsystem = {
+	"Bardeen": {
+		"planets": {
+			"Bardeen I": {
+				"planet type": ["Rock"]
+				"gravity": ["0.91 g"] 
+				"temperature": ["inferno"]
+				"atmosphere" : ["Extr CO2"]
+				"Magnetosphere": ["none"]
+				"water": ["none"]
+				"day length": ["91 days"]
+				"planetary habitation": ["Rank 2 required]
+				"Rocky desert": ["50%"]
+				"sandy desert": ["20%"]
+				"mountains": ["15%"]
+				"volcanic": ["10%"]
+				"hills": ["5%"]
+				"gravitational anomaly": ["possible"]
+				"fauna": ["0"]
+				"flora": ["0"]
+				"resources": ["Cl", "Fe","Ni", "U", "SiH3cL"]
+			
+			"Bardeen I-a": {
+				"planet type": ["barren"]
+				"gravity": ["0.18 g"] 
+				"temperature": ["inferno"]
+				"atmosphere" : ["none"]
+				"Magnetosphere": ["none"]
+				"water": ["none"]
+				"day length": ["28 hours"]
+				"planetary habitation": ["Rank 1 required]
+				"craters": ["100%]
+				"boiled seas"
+
+				"fauna": ["0"]
+				"flora": ["0"]
+				"resources": ["Fe", "He-3", "Ta", "Yb",]
+			
+			"Bardeen II"
+				
+
+
+					}
+
+
+
+				}
+	
+
+
+
+
+
+			  }
+			
+
+
+
+
+
+
+
+
+	}
+		
+}

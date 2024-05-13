@@ -55,7 +55,7 @@ for system_name in planet_data:
     parsed_system_data[system_name] = parsed_data
 
 # Save the parsed data to a new JSON file
-with open('parsed_planet_data.json', 'w') as json_file:
+with open('best_i_can_do.json', 'w') as json_file:
     json.dump(parsed_system_data, json_file, indent=4)
 
 print("Parsed data has been saved to parsed_planet_data.json")

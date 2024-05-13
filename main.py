@@ -1,16 +1,11 @@
 import json
 import re
 import time
-import pygame
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-pygame.mixer.init()
-pygame.mixer.music.load('epic_hacker_song.mp3')
-pygame.mixer.music.play()
 
 chromedriver_path = 'chromedriver.exe'
 
@@ -53,8 +48,10 @@ for system_name, system_url in system_data:
     # Find all mainblocks
     mainblocks = driver.find_elements(By.CLASS_NAME, 'mainblock')
     
-    # Iterate over each planet name and corresponding mainblock
-    for planet_name, mainblock in zip(cleaned_planet_names, mainblocks):
+    # Iterate over each planet name and corresponding mainblock, skipping the first planet
+    for i in range(1, len(cleaned_planet_names)):  # Start from index 1 to skip the first planet
+        planet_name = cleaned_planet_names[i]
+        mainblock = mainblocks[i]
         # Extract the text content of the mainblock
         mainblock_text = mainblock.text
         
@@ -66,8 +63,6 @@ for system_name, system_url in system_data:
 
 # Close the browser session
 driver.quit()
-
-pygame.mixer.music.stop()
 
 # Save the planet data to a JSON file
 with open('planet_data.json', 'w') as json_file:
