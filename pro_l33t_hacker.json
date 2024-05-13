@@ -1,0 +1,5333 @@
+{
+    "Al-Battani": {
+        "Al-Battani I": [
+            "35"
+        ],
+        "Al-Battani I-a": [
+            "35"
+        ],
+        "Al-Battani I-b": [
+            "35"
+        ],
+        "Al-Battani I-c": [
+            "35"
+        ],
+        "Al-Battani II": [
+            "35"
+        ],
+        "Al-Battani III": [
+            "35"
+        ],
+        "Al-Battani III-a": [
+            "35"
+        ],
+        "Al-Battani III-b": [
+            "35"
+        ],
+        "Al-Battani IV": [
+            "35"
+        ],
+        "Al-Battani IV-a": [
+            "35"
+        ],
+        "Al-Battani IV-b": [
+            "35"
+        ],
+        "Al-Battani V": [
+            "35"
+        ],
+        "Al-Battani V-a": [
+            "35"
+        ],
+        "Al-Battani VI": [
+            "35"
+        ],
+        "Al-Battani VI-a": [
+            "35"
+        ],
+        "Al-Battani VI-b": [
+            "35"
+        ],
+        "Al-Battani VII": [
+            "35"
+        ],
+        "Al-Battani VII-a": [
+            "35"
+        ],
+        "Al-Battani VIII": [
+            "35"
+        ],
+        "Al-Battani VIII-a": [
+            "35"
+        ]
+    },
+    "Alchiba": {
+        "Alchiba I": [
+            "50"
+        ],
+        "Alchiba II": [
+            "50"
+        ],
+        "Alchiba II-a": [
+            "50"
+        ],
+        "Alchiba III": [
+            "50"
+        ],
+        "Alchiba III-a": [
+            "50"
+        ],
+        "Alchiba III-b": [
+            "50"
+        ],
+        "Alchiba III-c": [
+            "50"
+        ],
+        "Alchiba IV": [
+            "50"
+        ],
+        "Alchiba IV-a": [
+            "50"
+        ],
+        "Alchiba IX": [
+            "50"
+        ],
+        "Alchiba IX-a": [
+            "50"
+        ],
+        "Alchiba V": [
+            "50"
+        ],
+        "Alchiba V-a": [
+            "50"
+        ],
+        "Alchiba VI": [
+            "50"
+        ],
+        "Alchiba VI-a": [
+            "50"
+        ],
+        "Alchiba VI-b": [
+            "50"
+        ],
+        "Alchiba VI-c": [
+            "50"
+        ],
+        "Alchiba VII": [
+            "50"
+        ],
+        "Alchiba VII-a": [
+            "50"
+        ],
+        "Alchiba VII-b": [
+            "50"
+        ],
+        "Alchiba VII-c": [
+            "50"
+        ],
+        "Alchiba VII-d": [
+            "50"
+        ],
+        "Alchiba VIII": [
+            "50"
+        ],
+        "Alchiba VIII-a": [
+            "50"
+        ],
+        "Alchiba VIII-b": [
+            "50"
+        ],
+        "Alchiba X": [
+            "50"
+        ],
+        "Alchiba X-a": [
+            "50"
+        ],
+        "Alchiba X-b": [
+            "50"
+        ]
+    },
+    "Algorab": {
+        "Algorab I": [
+            "70"
+        ],
+        "Algorab II": [
+            "70"
+        ],
+        "Algorab III": [
+            "70"
+        ],
+        "Algorab III-a": [
+            "70"
+        ],
+        "Algorab III-b": [
+            "70"
+        ],
+        "Algorab III-c": [
+            "70"
+        ],
+        "Algorab III-d": [
+            "70"
+        ],
+        "Algorab III-e": [
+            "70"
+        ]
+    },
+    "Alpha Andraste": {
+        "Alpha Andraste I": [
+            "30"
+        ],
+        "Alpha Andraste I-a": [
+            "30"
+        ],
+        "Alpha Andraste II": [
+            "30"
+        ],
+        "Alpha Andraste III": [
+            "30"
+        ],
+        "Alpha Andraste IV": [
+            "30"
+        ],
+        "Alpha Andraste V": [
+            "30"
+        ],
+        "Alpha Andraste VI": [
+            "30"
+        ]
+    },
+    "Alpha Centauri": {
+        "Bondar": [
+            "1"
+        ],
+        "Chawla": [
+            "1"
+        ],
+        "Curbeam": [
+            "1"
+        ],
+        "Gagarin": [
+            "1"
+        ],
+        "Grissom": [
+            "1"
+        ],
+        "Hawley": [
+            "1"
+        ],
+        "Jemison": [
+            "1"
+        ],
+        "Kurtz": [
+            "1"
+        ],
+        "Lovell": [
+            "1"
+        ],
+        "Olivas": [
+            "1"
+        ],
+        "Voss": [
+            "1"
+        ],
+        "Zamka": [
+            "1"
+        ]
+    },
+    "Alpha Marae": {
+        "Alpha Marae I": [
+            "45"
+        ],
+        "Alpha Marae II": [
+            "45"
+        ],
+        "Alpha Marae II-a": [
+            "45"
+        ],
+        "Alpha Marae III": [
+            "45"
+        ],
+        "Alpha Marae III-a": [
+            "45"
+        ],
+        "Alpha Marae III-b": [
+            "45"
+        ],
+        "Alpha Marae III-c": [
+            "45"
+        ],
+        "Alpha Marae III-d": [
+            "45"
+        ],
+        "Alpha Marae IV": [
+            "45"
+        ],
+        "Alpha Marae IV-a": [
+            "45"
+        ],
+        "Alpha Marae IV-b": [
+            "45"
+        ],
+        "Alpha Marae V": [
+            "45"
+        ]
+    },
+    "Alpha Ternion": {
+        "Ternion I": [
+            "60"
+        ],
+        "Ternion II": [
+            "60"
+        ],
+        "Ternion III": [
+            "60"
+        ],
+        "Ternion III-a": [
+            "60"
+        ],
+        "Ternion IV": [
+            "60"
+        ],
+        "Ternion IX": [
+            "60"
+        ],
+        "Ternion IX-a": [
+            "60"
+        ],
+        "Ternion IX-b": [
+            "60"
+        ],
+        "Ternion IX-c": [
+            "60"
+        ],
+        "Ternion IX-d": [
+            "60"
+        ],
+        "Ternion V": [
+            "60"
+        ],
+        "Ternion V-a": [
+            "60"
+        ],
+        "Ternion V-b": [
+            "60"
+        ],
+        "Ternion VI": [
+            "60"
+        ],
+        "Ternion VI-a": [
+            "60"
+        ],
+        "Ternion VII": [
+            "60"
+        ],
+        "Ternion VIII": [
+            "60"
+        ]
+    },
+    "Alpha Tirna": {
+        "Tirna I": [
+            "35"
+        ],
+        "Tirna II": [
+            "35"
+        ],
+        "Tirna II-a": [
+            "35"
+        ],
+        "Tirna III": [
+            "35"
+        ],
+        "Tirna III-a": [
+            "35"
+        ],
+        "Tirna III-b": [
+            "35"
+        ],
+        "Tirna III-c": [
+            "35"
+        ],
+        "Tirna IV": [
+            "35"
+        ],
+        "Tirna IV-a": [
+            "35"
+        ],
+        "Tirna IX": [
+            "35"
+        ],
+        "Tirna V": [
+            "35"
+        ],
+        "Tirna VI": [
+            "35"
+        ],
+        "Tirna VI-a": [
+            "35"
+        ],
+        "Tirna VI-b": [
+            "35"
+        ],
+        "Tirna VI-c": [
+            "35"
+        ],
+        "Tirna VI-d": [
+            "35"
+        ],
+        "Tirna VI-e": [
+            "35"
+        ],
+        "Tirna VII": [
+            "35"
+        ],
+        "Tirna VII-a": [
+            "35"
+        ],
+        "Tirna VII-b": [
+            "35"
+        ],
+        "Tirna VII-c": [
+            "35"
+        ],
+        "Tirna VIII": [
+            "35"
+        ],
+        "Tirna VIII-a": [
+            "35"
+        ],
+        "Tirna VIII-b": [
+            "35"
+        ],
+        "Tirna VIII-c": [
+            "35"
+        ],
+        "Tirna VIII-d": [
+            "35"
+        ],
+        "Tirna VIII-e": [
+            "35"
+        ],
+        "Tirna X": [
+            "35"
+        ],
+        "Tirna X-a": [
+            "35"
+        ],
+        "Tirna X-b": [
+            "35"
+        ],
+        "Tirna X-c": [
+            "35"
+        ]
+    },
+    "Altair": {
+        "Altair I": [
+            "15"
+        ],
+        "Altair II": [
+            "15"
+        ],
+        "Altair III": [
+            "15"
+        ],
+        "Altair III-a": [
+            "15"
+        ],
+        "Altair III-b": [
+            "15"
+        ],
+        "Altair III-c": [
+            "15"
+        ],
+        "Altair IV": [
+            "15"
+        ],
+        "Altair IV-a": [
+            "15"
+        ],
+        "Altair IV-b": [
+            "15"
+        ],
+        "Altair IV-c": [
+            "15"
+        ],
+        "Altair IV-d": [
+            "15"
+        ],
+        "Altair V": [
+            "15"
+        ],
+        "Altair V-a": [
+            "15"
+        ]
+    },
+    "Andromas": {
+        "Andromas I": [
+            "15"
+        ],
+        "Andromas II": [
+            "15"
+        ],
+        "Andromas III": [
+            "15"
+        ],
+        "Andromas IV": [
+            "15"
+        ],
+        "Andromas IV-a": [
+            "15"
+        ],
+        "Andromas V": [
+            "15"
+        ],
+        "Andromas V-a": [
+            "15"
+        ],
+        "Andromas V-b": [
+            "15"
+        ],
+        "Andromas VI": [
+            "15"
+        ],
+        "Andromas VI-a": [
+            "15"
+        ],
+        "Andromas VI-b": [
+            "15"
+        ]
+    },
+    "Aranae": {
+        "Aranae I": [
+            "15"
+        ],
+        "Aranae II": [
+            "15"
+        ],
+        "Aranae II-a": [
+            "15"
+        ],
+        "Aranae II-b": [
+            "15"
+        ],
+        "Aranae III": [
+            "15"
+        ],
+        "Aranae IV": [
+            "15"
+        ],
+        "Aranae IV-a": [
+            "15"
+        ],
+        "Aranae IV-b": [
+            "15"
+        ],
+        "Aranae IV-c": [
+            "15"
+        ],
+        "Aranae IV-d": [
+            "15"
+        ],
+        "Aranae V": [
+            "15"
+        ]
+    },
+    "Archimedes": {
+        "Archimedes I": [
+            "75"
+        ],
+        "Archimedes I-a": [
+            "75"
+        ],
+        "Archimedes II": [
+            "75"
+        ],
+        "Archimedes III": [
+            "75"
+        ],
+        "Archimedes IV": [
+            "75"
+        ],
+        "Archimedes IV-a": [
+            "75"
+        ],
+        "Archimedes V": [
+            "75"
+        ],
+        "Archimedes V-a": [
+            "75"
+        ],
+        "Archimedes V-b": [
+            "75"
+        ],
+        "Archimedes VI": [
+            "75"
+        ],
+        "Archimedes VI-a": [
+            "75"
+        ],
+        "Archimedes VI-b": [
+            "75"
+        ]
+    },
+    "Arcturus": {
+        "Arcturus I": [
+            "15"
+        ],
+        "Arcturus II": [
+            "15"
+        ],
+        "Arcturus III": [
+            "15"
+        ],
+        "Arcturus III-a": [
+            "15"
+        ]
+    },
+    "Bannoc": {
+        "Bannoc I": [
+            "50"
+        ],
+        "Bannoc II": [
+            "50"
+        ],
+        "Bannoc III": [
+            "50"
+        ],
+        "Bannoc III-a": [
+            "50"
+        ],
+        "Bannoc IV": [
+            "50"
+        ],
+        "Bannoc IV-a": [
+            "50"
+        ],
+        "Bannoc IV-b": [
+            "50"
+        ],
+        "Bannoc Secondus I": [
+            "50"
+        ]
+    },
+    "Bannoc Secondus": {
+        "Bannoc Secondus I": [
+            "50"
+        ]
+    },
+    "Bara": {
+        "Bara I": [
+            "45"
+        ],
+        "Bara II": [
+            "45"
+        ],
+        "Bara II-a": [
+            "45"
+        ],
+        "Bara III": [
+            "45"
+        ],
+        "Bara III-a": [
+            "45"
+        ],
+        "Bara IV": [
+            "45"
+        ],
+        "Bara V": [
+            "45"
+        ],
+        "Bara V-a": [
+            "45"
+        ],
+        "Bara VI": [
+            "45"
+        ],
+        "Bara VI-a": [
+            "45"
+        ],
+        "Bara VI-b": [
+            "45"
+        ],
+        "Bara VI-c": [
+            "45"
+        ],
+        "Bara VII": [
+            "45"
+        ],
+        "Bara VII-a": [
+            "45"
+        ],
+        "Bara VII-b": [
+            "45"
+        ],
+        "Bara VII-c": [
+            "45"
+        ],
+        "Bara VII-d": [
+            "45"
+        ]
+    },
+    "Bardeen": {
+        "Bardeen I": [
+            "70"
+        ],
+        "Bardeen I-a": [
+            "70"
+        ],
+        "Bardeen II": [
+            "70"
+        ],
+        "Bardeen III": [
+            "70"
+        ],
+        "Bardeen III-a": [
+            "70"
+        ],
+        "Bardeen III-b": [
+            "70"
+        ],
+        "Bardeen IV": [
+            "70"
+        ],
+        "Bardeen IV-a": [
+            "70"
+        ],
+        "Bardeen V": [
+            "70"
+        ],
+        "Bardeen V-a": [
+            "70"
+        ],
+        "Bardeen V-b": [
+            "70"
+        ],
+        "Bardeen V-c": [
+            "70"
+        ],
+        "Bardeen V-d": [
+            "70"
+        ],
+        "Bardeen V-e": [
+            "70"
+        ],
+        "Bardeen V-f": [
+            "70"
+        ],
+        "Bardeen VI": [
+            "70"
+        ],
+        "Bardeen VI-a": [
+            "70"
+        ],
+        "Bardeen VI-b": [
+            "70"
+        ],
+        "Bardeen VII": [
+            "70"
+        ],
+        "Bardeen VII-a": [
+            "70"
+        ]
+    },
+    "Barnard's Star": {
+        "Frost": [
+            "1"
+        ]
+    },
+    "Bel": {
+        "Belwah": [
+            "1"
+        ],
+        "Bel I": [
+            "55"
+        ],
+        "Bel I-a": [
+            "55"
+        ],
+        "Bel II": [
+            "55"
+        ],
+        "Bel II-a": [
+            "55"
+        ],
+        "Bel III": [
+            "55"
+        ],
+        "Bel III-a": [
+            "55"
+        ],
+        "Bel III-b": [
+            "55"
+        ],
+        "Bel III-c": [
+            "55"
+        ],
+        "Bel IV": [
+            "55"
+        ],
+        "Bel IV-a": [
+            "55"
+        ],
+        "Bel IV-b": [
+            "55"
+        ],
+        "Bel IV-c": [
+            "55"
+        ],
+        "Bel IV-d": [
+            "55"
+        ],
+        "Bel IV-e": [
+            "55"
+        ],
+        "Bel V": [
+            "55"
+        ],
+        "Bel V-a": [
+            "55"
+        ],
+        "Bel VI": [
+            "55"
+        ],
+        "Bel VII": [
+            "55"
+        ]
+    },
+    "Bessel": {
+        "Bessel I": [
+            "10"
+        ],
+        "Bessel II": [
+            "10"
+        ],
+        "Bessel III": [
+            "10"
+        ],
+        "Bessel III-a": [
+            "10"
+        ],
+        "Bessel III-b": [
+            "10"
+        ]
+    },
+    "Beta Andraste": {
+        "Beta Andraste I": [
+            "20"
+        ],
+        "Beta Andraste I-a": [
+            "20"
+        ],
+        "Beta Andraste I-b": [
+            "20"
+        ],
+        "Beta Andraste I-c": [
+            "20"
+        ],
+        "Beta Andraste I-d": [
+            "20"
+        ]
+    },
+    "Beta Marae": {
+        "Beta Marae I": [
+            "45"
+        ],
+        "Beta Marae I-a": [
+            "45"
+        ],
+        "Beta Marae II": [
+            "45"
+        ],
+        "Beta Marae II-a": [
+            "45"
+        ],
+        "Beta Marae II-b": [
+            "45"
+        ],
+        "Beta Marae III": [
+            "45"
+        ],
+        "Beta Marae III-a": [
+            "45"
+        ],
+        "Beta Marae IV": [
+            "45"
+        ],
+        "Beta Marae IV-a": [
+            "45"
+        ],
+        "Beta Marae IV-b": [
+            "45"
+        ],
+        "Beta Marae IV-c": [
+            "45"
+        ],
+        "Beta Marae IV-d": [
+            "45"
+        ],
+        "Beta Marae V": [
+            "45"
+        ],
+        "Beta Marae V-a": [
+            "45"
+        ],
+        "Beta Marae V-b": [
+            "45"
+        ],
+        "Beta Marae V-c": [
+            "45"
+        ],
+        "Beta Marae V-d": [
+            "45"
+        ],
+        "Beta Marae VI": [
+            "45"
+        ],
+        "Beta Marae VI-a": [
+            "45"
+        ],
+        "Beta Marae VI-b": [
+            "45"
+        ],
+        "Beta Marae VI-c": [
+            "45"
+        ]
+    },
+    "Beta Ternion": {
+        "Beta Ternion I": [
+            "40"
+        ],
+        "Beta Ternion I-a": [
+            "40"
+        ],
+        "Beta Ternion II": [
+            "40"
+        ],
+        "Beta Ternion III": [
+            "40"
+        ],
+        "Beta Ternion III-a": [
+            "40"
+        ]
+    },
+    "Beta Tirna": {
+        "Tirna B": [
+            "35"
+        ]
+    },
+    "Bohr": {
+        "Bohr I": [
+            "75"
+        ],
+        "Bohr I-a": [
+            "75"
+        ],
+        "Bohr II": [
+            "75"
+        ],
+        "Bohr III": [
+            "75"
+        ],
+        "Bohr III-a": [
+            "75"
+        ],
+        "Bohr III-b": [
+            "75"
+        ],
+        "Bohr IV": [
+            "75"
+        ],
+        "Bohr V": [
+            "75"
+        ],
+        "Bohr VI": [
+            "75"
+        ],
+        "Bohr VI-a": [
+            "75"
+        ],
+        "Bohr VI-b": [
+            "75"
+        ],
+        "Bohr VI-c": [
+            "75"
+        ],
+        "Bohr VI-d": [
+            "75"
+        ],
+        "Bohr VII": [
+            "75"
+        ],
+        "Bohr VIII": [
+            "75"
+        ]
+    },
+    "Bolivar": {
+        "Bolivar I": [
+            "35"
+        ]
+    },
+    "Bradbury": {
+        "Bradbury I": [
+            "20"
+        ],
+        "Bradbury I-a": [
+            "20"
+        ],
+        "Bradbury I-b": [
+            "20"
+        ],
+        "Bradbury II": [
+            "20"
+        ],
+        "Bradbury III": [
+            "20"
+        ],
+        "Bradbury IV": [
+            "20"
+        ],
+        "Bradbury IV-a": [
+            "20"
+        ],
+        "Bradbury V": [
+            "20"
+        ],
+        "Bradbury V-a": [
+            "20"
+        ]
+    },
+    "Carinae": {
+        "Carinae I": [
+            "20"
+        ],
+        "Carinae II": [
+            "20"
+        ],
+        "Carinae II-a": [
+            "20"
+        ],
+        "Carinae III": [
+            "20"
+        ],
+        "Carinae III-a": [
+            "20"
+        ],
+        "Carinae III-b": [
+            "20"
+        ],
+        "Carinae III-c": [
+            "20"
+        ],
+        "Carinae III-d": [
+            "20"
+        ],
+        "Carinae IV": [
+            "20"
+        ],
+        "Carinae IV-a": [
+            "20"
+        ],
+        "Carinae V": [
+            "20"
+        ],
+        "Carinae V-a": [
+            "20"
+        ],
+        "Carinae V-b": [
+            "20"
+        ],
+        "Carinae V-c": [
+            "20"
+        ]
+    },
+    "Celebrai": {
+        "Celebrai I": [
+            "70"
+        ],
+        "Celebrai II": [
+            "70"
+        ],
+        "Celebrai III": [
+            "70"
+        ],
+        "Celebrai III-a": [
+            "70"
+        ],
+        "Celebrai III-b": [
+            "70"
+        ],
+        "Celebrai III-c": [
+            "70"
+        ],
+        "Celebrai IV": [
+            "70"
+        ]
+    },
+    "Charybdis": {
+        "Charybdis I": [
+            "65"
+        ],
+        "Charybdis II": [
+            "65"
+        ],
+        "Charybdis III": [
+            "65"
+        ],
+        "Charybdis IV": [
+            "65"
+        ],
+        "Charybdis IV-a": [
+            "65"
+        ],
+        "Charybdis IX": [
+            "65"
+        ],
+        "Charybdis V": [
+            "65"
+        ],
+        "Charybdis V-a": [
+            "65"
+        ],
+        "Charybdis VI": [
+            "65"
+        ],
+        "Charybdis VI-a": [
+            "65"
+        ],
+        "Charybdis VI-b": [
+            "65"
+        ],
+        "Charybdis VII": [
+            "65"
+        ],
+        "Charybdis VII-a": [
+            "65"
+        ],
+        "Charybdis VII-b": [
+            "65"
+        ],
+        "Charybdis VII-c": [
+            "65"
+        ],
+        "Charybdis VII-d": [
+            "65"
+        ],
+        "Charybdis VIII": [
+            "65"
+        ],
+        "Charybdis VIII-a": [
+            "65"
+        ],
+        "Charybdis VIII-b": [
+            "65"
+        ]
+    },
+    "Cheyenne": {
+        "Agamon": [
+            "1"
+        ],
+        "Agamon A": [
+            "1"
+        ],
+        "Agamon B": [
+            "1"
+        ],
+        "Agamon C": [
+            "1"
+        ],
+        "Agamon D": [
+            "1"
+        ],
+        "Akila": [
+            "1"
+        ],
+        "Antharum": [
+            "1"
+        ],
+        "Belwah": [
+            "1"
+        ],
+        "Bindi": [
+            "1"
+        ],
+        "Bismark": [
+            "1"
+        ],
+        "Burran": [
+            "1"
+        ],
+        "Codos": [
+            "1"
+        ],
+        "Cragg": [
+            "1"
+        ],
+        "Fenn": [
+            "1"
+        ],
+        "Grizzit": [
+            "1"
+        ],
+        "Hardpoint": [
+            "1"
+        ],
+        "Heilo": [
+            "1"
+        ],
+        "Kalira": [
+            "1"
+        ],
+        "Laramie": [
+            "1"
+        ],
+        "Montara": [
+            "1"
+        ],
+        "Montara Luna": [
+            "1"
+        ],
+        "Navaha": [
+            "1"
+        ],
+        "Olaran": [
+            "1"
+        ],
+        "Rell": [
+            "1"
+        ],
+        "Skink": [
+            "1"
+        ],
+        "Smet": [
+            "1"
+        ],
+        "Stellis": [
+            "1"
+        ],
+        "Stellis A": [
+            "1"
+        ],
+        "Stellis B": [
+            "1"
+        ],
+        "Stellis C": [
+            "1"
+        ],
+        "Stellis D": [
+            "1"
+        ],
+        "Tahrnis": [
+            "1"
+        ],
+        "Thren": [
+            "1"
+        ],
+        "Washakie": [
+            "1"
+        ],
+        "Wellish": [
+            "1"
+        ]
+    },
+    "Copernicus": {
+        "Copernicus I": [
+            "30"
+        ],
+        "Copernicus II": [
+            "30"
+        ],
+        "Copernicus III": [
+            "30"
+        ],
+        "Copernicus III-a": [
+            "30"
+        ],
+        "Copernicus IV": [
+            "30"
+        ],
+        "Copernicus Minor I": [
+            "30"
+        ],
+        "Copernicus Minor I-a": [
+            "30"
+        ],
+        "Copernicus Minor I-b": [
+            "30"
+        ],
+        "Copernicus V": [
+            "30"
+        ],
+        "Copernicus VI": [
+            "30"
+        ],
+        "Copernicus VII": [
+            "30"
+        ],
+        "Copernicus VII-a": [
+            "30"
+        ],
+        "Copernicus VII-b": [
+            "30"
+        ],
+        "Copernicus VIII": [
+            "30"
+        ],
+        "Copernicus VIII-a": [
+            "30"
+        ],
+        "Copernicus VIII-b": [
+            "30"
+        ],
+        "Copernicus VIII-c": [
+            "30"
+        ],
+        "Copernicus VIII-d": [
+            "30"
+        ]
+    },
+    "Copernicus Minor": {
+        "Copernicus Minor I": [
+            "30"
+        ],
+        "Copernicus Minor I-a": [
+            "30"
+        ],
+        "Copernicus Minor I-b": [
+            "30"
+        ]
+    },
+    "Decaran": {
+        "Decaran I": [
+            "60"
+        ],
+        "Decaran II": [
+            "60"
+        ],
+        "Decaran III": [
+            "60"
+        ],
+        "Decaran IV": [
+            "60"
+        ],
+        "Decaran IX": [
+            "60"
+        ],
+        "Decaran V": [
+            "60"
+        ],
+        "Decaran V-a": [
+            "60"
+        ],
+        "Decaran V-b": [
+            "60"
+        ],
+        "Decaran VI": [
+            "60"
+        ],
+        "Decaran VI-a": [
+            "60"
+        ],
+        "Decaran VII": [
+            "60"
+        ],
+        "Decaran VII-a": [
+            "60"
+        ],
+        "Decaran VII-b": [
+            "60"
+        ],
+        "Decaran VIII": [
+            "60"
+        ],
+        "Decaran VIII-a": [
+            "60"
+        ],
+        "Decaran VIII-b": [
+            "60"
+        ]
+    },
+    "Delta Pavonis": {
+        "Ampere": [
+            "25"
+        ],
+        "Arachna": [
+            "25"
+        ],
+        "Augur": [
+            "25"
+        ],
+        "Bitsy": [
+            "25"
+        ],
+        "Bode": [
+            "25"
+        ],
+        "Bose": [
+            "25"
+        ],
+        "Coulomb": [
+            "25"
+        ],
+        "Curie": [
+            "25"
+        ],
+        "Faraday": [
+            "25"
+        ],
+        "Fundament": [
+            "25"
+        ],
+        "Gamow": [
+            "25"
+        ],
+        "Herald": [
+            "25"
+        ],
+        "Itsy": [
+            "25"
+        ],
+        "Magnar": [
+            "25"
+        ],
+        "Nascent": [
+            "25"
+        ],
+        "Ohm": [
+            "25"
+        ],
+        "Rudiment": [
+            "25"
+        ],
+        "Volt": [
+            "25"
+        ],
+        "Worthless": [
+            "25"
+        ]
+    },
+    "Delta Vulpes": {
+        "Delta Vulpes I": [
+            "50"
+        ],
+        "Delta Vulpes II": [
+            "50"
+        ],
+        "Delta Vulpes III": [
+            "50"
+        ],
+        "Delta Vulpes III-a": [
+            "50"
+        ],
+        "Delta Vulpes IV": [
+            "50"
+        ],
+        "Delta Vulpes IV-a": [
+            "50"
+        ],
+        "Delta Vulpes V": [
+            "50"
+        ],
+        "Delta Vulpes V-a": [
+            "50"
+        ],
+        "Delta Vulpes V-b": [
+            "50"
+        ],
+        "Delta Vulpes V-c": [
+            "50"
+        ],
+        "Delta Vulpes V-d": [
+            "50"
+        ],
+        "Delta Vulpes V-e": [
+            "50"
+        ],
+        "Delta Vulpes VI": [
+            "50"
+        ],
+        "Delta Vulpes VI-a": [
+            "50"
+        ],
+        "Delta Vulpes VII": [
+            "50"
+        ]
+    },
+    "Denebola": {
+        "Denebola I": [
+            "30"
+        ],
+        "Denebola I-a": [
+            "30"
+        ],
+        "Denebola I-b": [
+            "30"
+        ],
+        "Denebola II": [
+            "30"
+        ],
+        "Denebola II-a": [
+            "30"
+        ],
+        "Denebola III": [
+            "30"
+        ],
+        "Denebola III-a": [
+            "30"
+        ],
+        "Denebola III-b": [
+            "30"
+        ]
+    },
+    "Enlil": {
+        "Enlil I": [
+            "65"
+        ],
+        "Enlil I-a": [
+            "65"
+        ],
+        "Enlil II": [
+            "65"
+        ],
+        "Enlil II-a": [
+            "65"
+        ],
+        "Enlil III": [
+            "65"
+        ],
+        "Enlil IV": [
+            "65"
+        ],
+        "Enlil IV-a": [
+            "65"
+        ],
+        "Enlil V": [
+            "65"
+        ],
+        "Enlil VI": [
+            "65"
+        ],
+        "Enlil VI-a": [
+            "65"
+        ],
+        "Enlil VI-b": [
+            "65"
+        ],
+        "Enlil VI-c": [
+            "65"
+        ],
+        "Enlil VI-d": [
+            "65"
+        ],
+        "Enlil VII": [
+            "65"
+        ],
+        "Enlil VII-a": [
+            "65"
+        ]
+    },
+    "Eridani": {
+        "Eridani I": [
+            "20"
+        ],
+        "Eridani II": [
+            "20"
+        ],
+        "Eridani III": [
+            "20"
+        ],
+        "Eridani III-a": [
+            "20"
+        ],
+        "Eridani III-b": [
+            "20"
+        ],
+        "Eridani III-c": [
+            "20"
+        ],
+        "Eridani IV": [
+            "20"
+        ],
+        "Eridani IV-a": [
+            "20"
+        ],
+        "Eridani IV-b": [
+            "20"
+        ],
+        "Eridani IV-c": [
+            "20"
+        ],
+        "Eridani IX": [
+            "20"
+        ],
+        "Eridani V": [
+            "20"
+        ],
+        "Eridani VI": [
+            "20"
+        ],
+        "Eridani VI-a": [
+            "20"
+        ],
+        "Eridani VII": [
+            "20"
+        ],
+        "Eridani VII-a": [
+            "20"
+        ],
+        "Eridani VII-b": [
+            "20"
+        ],
+        "Eridani VII-c": [
+            "20"
+        ],
+        "Eridani VIII": [
+            "20"
+        ],
+        "Eridani VIII-a": [
+            "20"
+        ],
+        "Eridani VIII-b": [
+            "20"
+        ],
+        "Eridani VIII-c": [
+            "20"
+        ],
+        "Eridani VIII-d": [
+            "20"
+        ]
+    },
+    "Eta Cassiopeia": {
+        "Cassiopeia I": [
+            "20"
+        ],
+        "Cassiopeia II": [
+            "20"
+        ],
+        "Cassiopeia II-a": [
+            "20"
+        ],
+        "Cassiopeia III": [
+            "20"
+        ],
+        "Cassiopeia III-a": [
+            "20"
+        ],
+        "Cassiopeia IV": [
+            "20"
+        ],
+        "Cassiopeia IV-a": [
+            "20"
+        ],
+        "Cassiopeia IV-b": [
+            "20"
+        ],
+        "Cassiopeia IV-c": [
+            "20"
+        ]
+    },
+    "Fermi": {
+        "Fermi I": [
+            "75"
+        ],
+        "Fermi II": [
+            "75"
+        ],
+        "Fermi II-a": [
+            "75"
+        ],
+        "Fermi III": [
+            "75"
+        ],
+        "Fermi III-a": [
+            "75"
+        ],
+        "Fermi III-b": [
+            "75"
+        ],
+        "Fermi IV": [
+            "75"
+        ],
+        "Fermi IV-a": [
+            "75"
+        ],
+        "Fermi IV-b": [
+            "75"
+        ],
+        "Fermi IX": [
+            "75"
+        ],
+        "Fermi IX-a": [
+            "75"
+        ],
+        "Fermi IX-b": [
+            "75"
+        ],
+        "Fermi IX-c": [
+            "75"
+        ],
+        "Fermi IX-d": [
+            "75"
+        ],
+        "Fermi IX-e": [
+            "75"
+        ],
+        "Fermi V": [
+            "75"
+        ],
+        "Fermi V-a": [
+            "75"
+        ],
+        "Fermi VI": [
+            "75"
+        ],
+        "Fermi VI-a": [
+            "75"
+        ],
+        "Fermi VII": [
+            "75"
+        ],
+        "Fermi VII-a": [
+            "75"
+        ],
+        "Fermi VII-b": [
+            "75"
+        ],
+        "Fermi VII-c": [
+            "75"
+        ],
+        "Fermi VIII": [
+            "75"
+        ],
+        "Fermi VIII-a": [
+            "75"
+        ],
+        "Fermi VIII-b": [
+            "75"
+        ],
+        "Fermi VIII-c": [
+            "75"
+        ],
+        "Fermi VIII-d": [
+            "75"
+        ],
+        "Fermi X": [
+            "75"
+        ]
+    },
+    "Feynman": {
+        "Feynman I": [
+            "55"
+        ],
+        "Feynman II": [
+            "55"
+        ],
+        "Feynman III": [
+            "55"
+        ],
+        "Feynman IV": [
+            "55"
+        ],
+        "Feynman IX": [
+            "55"
+        ],
+        "Feynman IX-a": [
+            "55"
+        ],
+        "Feynman V": [
+            "55"
+        ],
+        "Feynman V-a": [
+            "55"
+        ],
+        "Feynman V-b": [
+            "55"
+        ],
+        "Feynman VI": [
+            "55"
+        ],
+        "Feynman VI-a": [
+            "55"
+        ],
+        "Feynman VI-b": [
+            "55"
+        ],
+        "Feynman VI-c": [
+            "55"
+        ],
+        "Feynman VII": [
+            "55"
+        ],
+        "Feynman VII-a": [
+            "55"
+        ],
+        "Feynman VII-b": [
+            "55"
+        ],
+        "Feynman VII-c": [
+            "55"
+        ],
+        "Feynman VIII": [
+            "55"
+        ],
+        "Feynman VIII-a": [
+            "55"
+        ],
+        "Feynman VIII-b": [
+            "55"
+        ],
+        "Feynman VIII-c": [
+            "55"
+        ],
+        "Feynman VIII-d": [
+            "55"
+        ],
+        "Feynman VIII-e": [
+            "55"
+        ]
+    },
+    "Foucault": {
+        "Foucault I": [
+            "60"
+        ],
+        "Foucault I-a": [
+            "60"
+        ],
+        "Foucault I-b": [
+            "60"
+        ],
+        "Foucault II": [
+            "60"
+        ],
+        "Foucault II-a": [
+            "60"
+        ],
+        "Foucault II-b": [
+            "60"
+        ],
+        "Foucault III": [
+            "60"
+        ],
+        "Foucault III-a": [
+            "60"
+        ],
+        "Foucault III-b": [
+            "60"
+        ],
+        "Foucault IV": [
+            "60"
+        ],
+        "Foucault V": [
+            "60"
+        ],
+        "Foucault V-a": [
+            "60"
+        ],
+        "Foucault V-b": [
+            "60"
+        ],
+        "Foucault V-c": [
+            "60"
+        ],
+        "Foucault V-d": [
+            "60"
+        ],
+        "Foucault VI": [
+            "60"
+        ],
+        "Foucault VI-a": [
+            "60"
+        ],
+        "Foucault VI-b": [
+            "60"
+        ],
+        "Foucault VI-c": [
+            "60"
+        ],
+        "Foucault VI-d": [
+            "60"
+        ],
+        "Foucault VI-e": [
+            "60"
+        ],
+        "Foucault VII": [
+            "60"
+        ],
+        "Foucault VII-a": [
+            "60"
+        ],
+        "Foucault VII-b": [
+            "60"
+        ],
+        "Foucault VII-c": [
+            "60"
+        ],
+        "Foucault VII-d": [
+            "60"
+        ],
+        "Foucault VII-e": [
+            "60"
+        ],
+        "Foucault VIII": [
+            "60"
+        ],
+        "Foucault VIII-a": [
+            "60"
+        ]
+    },
+    "Freya": {
+        "Freya I": [
+            "40"
+        ],
+        "Freya II": [
+            "40"
+        ],
+        "Freya III": [
+            "40"
+        ],
+        "Freya IV": [
+            "40"
+        ],
+        "Freya IV-a": [
+            "40"
+        ],
+        "Freya IV-b": [
+            "40"
+        ],
+        "Freya IV-c": [
+            "40"
+        ],
+        "Freya IX": [
+            "40"
+        ],
+        "Freya IX-a": [
+            "40"
+        ],
+        "Freya IX-b": [
+            "40"
+        ],
+        "Freya IX-c": [
+            "40"
+        ],
+        "Freya V": [
+            "40"
+        ],
+        "Freya VI": [
+            "40"
+        ],
+        "Freya VII": [
+            "40"
+        ],
+        "Freya VII-a": [
+            "40"
+        ],
+        "Freya VIII": [
+            "40"
+        ],
+        "Freya VIII-a": [
+            "40"
+        ]
+    },
+    "Gamma Vulpes": {
+        "Gamma Vulpes I": [
+            "50"
+        ],
+        "Gamma Vulpes II": [
+            "50"
+        ],
+        "Gamma Vulpes II-a": [
+            "50"
+        ],
+        "Gamma Vulpes II-b": [
+            "50"
+        ],
+        "Gamma Vulpes II-c": [
+            "50"
+        ],
+        "Gamma Vulpes II-d": [
+            "50"
+        ],
+        "Gamma Vulpes III": [
+            "50"
+        ],
+        "Gamma Vulpes III-a": [
+            "50"
+        ],
+        "Gamma Vulpes IV": [
+            "50"
+        ],
+        "Gamma Vulpes IV-a": [
+            "50"
+        ],
+        "Gamma Vulpes IV-b": [
+            "50"
+        ],
+        "Gamma Vulpes IV-c": [
+            "50"
+        ],
+        "Gamma Vulpes IV-d": [
+            "50"
+        ]
+    },
+    "Groombridge": {
+        "Groombridge I": [
+            "25"
+        ],
+        "Groombridge II": [
+            "25"
+        ],
+        "Groombridge II-a": [
+            "25"
+        ],
+        "Groombridge II-b": [
+            "25"
+        ],
+        "Groombridge II-c": [
+            "25"
+        ],
+        "Groombridge III": [
+            "25"
+        ],
+        "Groombridge III-a": [
+            "25"
+        ],
+        "Groombridge IV": [
+            "25"
+        ],
+        "Groombridge IV-a": [
+            "25"
+        ],
+        "Groombridge V": [
+            "25"
+        ],
+        "Groombridge V-a": [
+            "25"
+        ],
+        "Groombridge V-b": [
+            "25"
+        ],
+        "Groombridge V-c": [
+            "25"
+        ],
+        "Groombridge V-d": [
+            "25"
+        ],
+        "Groombridge V-e": [
+            "25"
+        ],
+        "Groombridge VI": [
+            "25"
+        ],
+        "Groombridge VI-a": [
+            "25"
+        ],
+        "Groombridge VI-b": [
+            "25"
+        ],
+        "Groombridge VII": [
+            "25"
+        ],
+        "Groombridge VII-a": [
+            "25"
+        ],
+        "Groombridge VII-b": [
+            "25"
+        ],
+        "Groombridge VIII": [
+            "25"
+        ],
+        "Groombridge VIII-a": [
+            "25"
+        ],
+        "Groombridge VIII-b": [
+            "25"
+        ],
+        "Groombridge VIII-c": [
+            "25"
+        ],
+        "Groombridge VIII-d": [
+            "25"
+        ]
+    },
+    "Guniibuu": {
+        "Guniibuu I": [
+            "20"
+        ],
+        "Guniibuu I-a": [
+            "20"
+        ],
+        "Guniibuu I-b": [
+            "20"
+        ],
+        "Guniibuu II": [
+            "20"
+        ],
+        "Guniibuu III": [
+            "20"
+        ],
+        "Guniibuu III-a": [
+            "20"
+        ],
+        "Guniibuu III-b": [
+            "20"
+        ],
+        "Guniibuu III-c": [
+            "20"
+        ],
+        "Guniibuu IV": [
+            "20"
+        ],
+        "Guniibuu IV-a": [
+            "20"
+        ],
+        "Guniibuu IV-b": [
+            "20"
+        ],
+        "Guniibuu V": [
+            "20"
+        ],
+        "Guniibuu V-a": [
+            "20"
+        ],
+        "Guniibuu V-b": [
+            "20"
+        ],
+        "Guniibuu V-c": [
+            "20"
+        ],
+        "Guniibuu V-d": [
+            "20"
+        ],
+        "Guniibuu V-e": [
+            "20"
+        ],
+        "Guniibuu VI": [
+            "20"
+        ],
+        "Guniibuu VI-a": [
+            "20"
+        ],
+        "Guniibuu VI-b": [
+            "20"
+        ],
+        "Guniibuu VI-c": [
+            "20"
+        ],
+        "Guniibuu VI-d": [
+            "20"
+        ],
+        "Guniibuu VI-e": [
+            "20"
+        ],
+        "Guniibuu VII": [
+            "20"
+        ],
+        "Guniibuu VII-a": [
+            "20"
+        ],
+        "Guniibuu VII-b": [
+            "20"
+        ],
+        "Guniibuu VII-c": [
+            "20"
+        ]
+    },
+    "Hawking": {
+        "Hawking I": [
+            "75"
+        ],
+        "Hawking I-a": [
+            "75"
+        ],
+        "Hawking II": [
+            "75"
+        ],
+        "Hawking III": [
+            "75"
+        ],
+        "Hawking IV": [
+            "75"
+        ],
+        "Hawking IV-a": [
+            "75"
+        ],
+        "Hawking V": [
+            "75"
+        ],
+        "Hawking V-a": [
+            "75"
+        ],
+        "Hawking VI": [
+            "75"
+        ],
+        "Hawking VI-a": [
+            "75"
+        ],
+        "Hawking VI-b": [
+            "75"
+        ]
+    },
+    "Heinlein": {
+        "Heinlein I": [
+            "45"
+        ],
+        "Heinlein II": [
+            "45"
+        ],
+        "Heinlein II-a": [
+            "45"
+        ],
+        "Heinlein II-b": [
+            "45"
+        ],
+        "Heinlein III": [
+            "45"
+        ],
+        "Heinlein III-a": [
+            "45"
+        ],
+        "Heinlein IV": [
+            "45"
+        ],
+        "Heinlein IV-a": [
+            "45"
+        ],
+        "Heinlein IV-b": [
+            "45"
+        ],
+        "Heinlein IV-c": [
+            "45"
+        ],
+        "Heinlein IV-d": [
+            "45"
+        ],
+        "Heinlein IV-e": [
+            "45"
+        ],
+        "Heinlein V": [
+            "45"
+        ],
+        "Heinlein V-a": [
+            "45"
+        ],
+        "Heinlein V-b": [
+            "45"
+        ],
+        "Heinlein V-c": [
+            "45"
+        ],
+        "Heinlein VI": [
+            "45"
+        ],
+        "Heinlein VI-a": [
+            "45"
+        ],
+        "Heinlein VI-b": [
+            "45"
+        ],
+        "Heinlein VI-c": [
+            "45"
+        ],
+        "Heinlein VI-d": [
+            "45"
+        ],
+        "Heinlein VI-e": [
+            "45"
+        ],
+        "Heinlein VII": [
+            "45"
+        ]
+    },
+    "Heisenberg": {
+        "Heisenberg I": [
+            "55"
+        ],
+        "Heisenberg II": [
+            "55"
+        ],
+        "Heisenberg III": [
+            "55"
+        ],
+        "Heisenberg IV": [
+            "55"
+        ],
+        "Heisenberg IX": [
+            "55"
+        ],
+        "Heisenberg V": [
+            "55"
+        ],
+        "Heisenberg V-a": [
+            "55"
+        ],
+        "Heisenberg VI": [
+            "55"
+        ],
+        "Heisenberg VI-a": [
+            "55"
+        ],
+        "Heisenberg VI-b": [
+            "55"
+        ],
+        "Heisenberg VI-c": [
+            "55"
+        ],
+        "Heisenberg VII": [
+            "55"
+        ],
+        "Heisenberg VII-a": [
+            "55"
+        ],
+        "Heisenberg VIII": [
+            "55"
+        ],
+        "Heisenberg VIII-a": [
+            "55"
+        ],
+        "Heisenberg VIII-b": [
+            "55"
+        ],
+        "Heisenberg VIII-c": [
+            "55"
+        ],
+        "Heisenberg VIII-d": [
+            "55"
+        ],
+        "Heisenberg X": [
+            "55"
+        ]
+    },
+    "Huygens": {
+        "Huygens I": [
+            "75"
+        ],
+        "Huygens I-a": [
+            "75"
+        ],
+        "Huygens I-b": [
+            "75"
+        ],
+        "Huygens II": [
+            "75"
+        ],
+        "Huygens II-a": [
+            "75"
+        ],
+        "Huygens II-b": [
+            "75"
+        ],
+        "Huygens III": [
+            "75"
+        ],
+        "Huygens IV": [
+            "75"
+        ],
+        "Huygens V": [
+            "75"
+        ],
+        "Huygens V-a": [
+            "75"
+        ],
+        "Huygens V-b": [
+            "75"
+        ],
+        "Huygens VI": [
+            "75"
+        ],
+        "Huygens VI-a": [
+            "75"
+        ],
+        "Huygens VII": [
+            "75"
+        ],
+        "Huygens VII-a": [
+            "75"
+        ],
+        "Huygens VII-b": [
+            "75"
+        ],
+        "Huygens VII-c": [
+            "75"
+        ],
+        "Huygens VII-d": [
+            "75"
+        ],
+        "Huygens VII-e": [
+            "75"
+        ],
+        "Huygens VIII": [
+            "75"
+        ]
+    },
+    "Hyla": {
+        "Hyla I": [
+            "40"
+        ],
+        "Hyla I-a": [
+            "40"
+        ],
+        "Hyla II": [
+            "40"
+        ],
+        "Hyla II-a": [
+            "40"
+        ],
+        "Hyla II-b": [
+            "40"
+        ],
+        "Hyla III": [
+            "40"
+        ],
+        "Hyla IV": [
+            "40"
+        ],
+        "Hyla IV-a": [
+            "40"
+        ],
+        "Hyla IV-b": [
+            "40"
+        ],
+        "Hyla V": [
+            "40"
+        ],
+        "Hyla V-a": [
+            "40"
+        ],
+        "Hyla VI": [
+            "40"
+        ],
+        "Hyla VI-a": [
+            "40"
+        ],
+        "Hyla VI-b": [
+            "40"
+        ],
+        "Hyla VII": [
+            "40"
+        ],
+        "Hyla VII-a": [
+            "40"
+        ],
+        "Hyla VIII": [
+            "40"
+        ],
+        "Hyla VIII-a": [
+            "40"
+        ],
+        "Hyla VIII-b": [
+            "40"
+        ],
+        "Hyla VIII-c": [
+            "40"
+        ],
+        "Hyla VIII-d": [
+            "40"
+        ],
+        "Hyla VIII-e": [
+            "40"
+        ]
+    },
+    "Indum": {
+        "Indum I": [
+            "20"
+        ],
+        "Indum I-a": [
+            "20"
+        ],
+        "Indum II": [
+            "20"
+        ],
+        "Indum III": [
+            "20"
+        ],
+        "Indum III-a": [
+            "20"
+        ],
+        "Indum III-b": [
+            "20"
+        ],
+        "Indum III-c": [
+            "20"
+        ],
+        "Indum III-d": [
+            "20"
+        ],
+        "Indum IV": [
+            "20"
+        ],
+        "Indum IV-a": [
+            "20"
+        ],
+        "Indum IV-b": [
+            "20"
+        ],
+        "Indum IV-c": [
+            "20"
+        ],
+        "Indum IV-d": [
+            "20"
+        ],
+        "Indum V": [
+            "20"
+        ],
+        "Indum V-a": [
+            "20"
+        ]
+    },
+    "Ixyll": {
+        "Ixyll I": [
+            "40"
+        ],
+        "Ixyll II": [
+            "40"
+        ],
+        "Ixyll II-a": [
+            "40"
+        ],
+        "Ixyll III": [
+            "40"
+        ],
+        "Ixyll III-a": [
+            "40"
+        ],
+        "Ixyll III-b": [
+            "40"
+        ],
+        "Ixyll IV": [
+            "40"
+        ],
+        "Ixyll IX": [
+            "40"
+        ],
+        "Ixyll IX-a": [
+            "40"
+        ],
+        "Ixyll IX-b": [
+            "40"
+        ],
+        "Ixyll IX-c": [
+            "40"
+        ],
+        "Ixyll IX-d": [
+            "40"
+        ],
+        "Ixyll V": [
+            "40"
+        ],
+        "Ixyll VI": [
+            "40"
+        ],
+        "Ixyll VI-a": [
+            "40"
+        ],
+        "Ixyll VI-b": [
+            "40"
+        ],
+        "Ixyll VI-c": [
+            "40"
+        ],
+        "Ixyll VI-d": [
+            "40"
+        ],
+        "Ixyll VI-e": [
+            "40"
+        ],
+        "Ixyll VII": [
+            "40"
+        ],
+        "Ixyll VII-a": [
+            "40"
+        ],
+        "Ixyll VII-b": [
+            "40"
+        ],
+        "Ixyll VII-c": [
+            "40"
+        ],
+        "Ixyll VIII": [
+            "40"
+        ],
+        "Ixyll VIII-a": [
+            "40"
+        ],
+        "Ixyll VIII-b": [
+            "40"
+        ]
+    },
+    "Jaffa": {
+        "Jaffa I": [
+            "35"
+        ],
+        "Jaffa I-a": [
+            "35"
+        ],
+        "Jaffa II": [
+            "35"
+        ],
+        "Jaffa II-a": [
+            "35"
+        ],
+        "Jaffa III": [
+            "35"
+        ],
+        "Jaffa IV": [
+            "35"
+        ],
+        "Jaffa IV-a": [
+            "35"
+        ],
+        "Jaffa V": [
+            "35"
+        ],
+        "Jaffa V-a": [
+            "35"
+        ],
+        "Jaffa VI": [
+            "35"
+        ],
+        "Jaffa VI-a": [
+            "35"
+        ],
+        "Jaffa VI-b": [
+            "35"
+        ],
+        "Jaffa VI-c": [
+            "35"
+        ],
+        "Jaffa VII": [
+            "35"
+        ],
+        "Jaffa VII-a": [
+            "35"
+        ],
+        "Jaffa VII-b": [
+            "35"
+        ],
+        "Jaffa VII-c": [
+            "35"
+        ],
+        "Jaffa VII-d": [
+            "35"
+        ],
+        "Jaffa VII-e": [
+            "35"
+        ],
+        "Jaffa VIII": [
+            "35"
+        ]
+    },
+    "Kang": {
+        "Kang I": [
+            "60"
+        ],
+        "Kang II": [
+            "60"
+        ],
+        "Kang III": [
+            "60"
+        ],
+        "Kang IV": [
+            "60"
+        ],
+        "Kang IV-a": [
+            "60"
+        ],
+        "Kang IV-b": [
+            "60"
+        ],
+        "Kang IV-c": [
+            "60"
+        ],
+        "Kang V": [
+            "60"
+        ],
+        "Kang VI": [
+            "60"
+        ],
+        "Kang VI-a": [
+            "60"
+        ],
+        "Kang VII": [
+            "60"
+        ],
+        "Kang VII-a": [
+            "60"
+        ],
+        "Kang VII-b": [
+            "60"
+        ],
+        "Kang VII-c": [
+            "60"
+        ],
+        "Kang VII-d": [
+            "60"
+        ],
+        "Kang VIII": [
+            "60"
+        ],
+        "Kang VIII-a": [
+            "60"
+        ],
+        "Kang VIII-b": [
+            "60"
+        ],
+        "Kang VIII-c": [
+            "60"
+        ],
+        "Kang VIII-d": [
+            "60"
+        ]
+    },
+    "Kapteyn's Star": {
+        "Kapteyn I": [
+            "10"
+        ],
+        "Kapteyn II": [
+            "10"
+        ]
+    },
+    "Katydid": {
+        "Katydid I": [
+            "75"
+        ],
+        "Katydid I-a": [
+            "75"
+        ],
+        "Katydid I-b": [
+            "75"
+        ],
+        "Katydid II": [
+            "75"
+        ],
+        "Katydid III": [
+            "75"
+        ]
+    },
+    "Khayyam": {
+        "Khayyam I": [
+            "45"
+        ],
+        "Khayyam I-a": [
+            "45"
+        ],
+        "Khayyam II": [
+            "45"
+        ],
+        "Khayyam II-a": [
+            "45"
+        ],
+        "Khayyam III": [
+            "45"
+        ],
+        "Khayyam III-a": [
+            "45"
+        ],
+        "Khayyam III-b": [
+            "45"
+        ],
+        "Khayyam III-c": [
+            "45"
+        ],
+        "Khayyam IV": [
+            "45"
+        ],
+        "Khayyam IV-a": [
+            "45"
+        ],
+        "Khayyam V": [
+            "45"
+        ],
+        "Khayyam V-a": [
+            "45"
+        ],
+        "Khayyam VI": [
+            "45"
+        ],
+        "Khayyam VI-a": [
+            "45"
+        ],
+        "Khayyam VI-b": [
+            "45"
+        ],
+        "Khayyam VI-c": [
+            "45"
+        ],
+        "Khayyam VI-d": [
+            "45"
+        ],
+        "Khayyam VI-e": [
+            "45"
+        ]
+    },
+    "Kryx": {
+        "Boron": [
+            "20"
+        ],
+        "Candore": [
+            "20"
+        ],
+        "Ice": [
+            "20"
+        ],
+        "Max": [
+            "20"
+        ],
+        "Neebas": [
+            "20"
+        ],
+        "Nox": [
+            "20"
+        ],
+        "Rocklock": [
+            "20"
+        ],
+        "Suvorov": [
+            "20"
+        ]
+    },
+    "Kumasi": {
+        "Kumasi I": [
+            "25"
+        ],
+        "Kumasi I-a": [
+            "25"
+        ],
+        "Kumasi II": [
+            "25"
+        ],
+        "Kumasi II-a": [
+            "25"
+        ],
+        "Kumasi III": [
+            "25"
+        ],
+        "Kumasi III-a": [
+            "25"
+        ],
+        "Kumasi IV": [
+            "25"
+        ],
+        "Kumasi IV-a": [
+            "25"
+        ],
+        "Kumasi IX": [
+            "25"
+        ],
+        "Kumasi IX-a": [
+            "25"
+        ],
+        "Kumasi V": [
+            "25"
+        ],
+        "Kumasi V-a": [
+            "25"
+        ],
+        "Kumasi V-b": [
+            "25"
+        ],
+        "Kumasi V-c": [
+            "25"
+        ],
+        "Kumasi V-d": [
+            "25"
+        ],
+        "Kumasi V-e": [
+            "25"
+        ],
+        "Kumasi VI": [
+            "25"
+        ],
+        "Kumasi VI-a": [
+            "25"
+        ],
+        "Kumasi VII": [
+            "25"
+        ],
+        "Kumasi VII-a": [
+            "25"
+        ],
+        "Kumasi VII-b": [
+            "25"
+        ],
+        "Kumasi VII-c": [
+            "25"
+        ],
+        "Kumasi VII-d": [
+            "25"
+        ],
+        "Kumasi VIII": [
+            "25"
+        ],
+        "Kumasi VIII-a": [
+            "25"
+        ],
+        "Kumasi VIII-b": [
+            "25"
+        ],
+        "Kumasi VIII-c": [
+            "25"
+        ],
+        "Kumasi VIII-d": [
+            "25"
+        ]
+    },
+    "Lantana": {
+        "Lantana I": [
+            "30"
+        ],
+        "Lantana II": [
+            "30"
+        ],
+        "Lantana III": [
+            "30"
+        ],
+        "Lantana III-a": [
+            "30"
+        ],
+        "Lantana IV": [
+            "30"
+        ],
+        "Lantana IX": [
+            "30"
+        ],
+        "Lantana IX-a": [
+            "30"
+        ],
+        "Lantana IX-b": [
+            "30"
+        ],
+        "Lantana IX-c": [
+            "30"
+        ],
+        "Lantana IX-d": [
+            "30"
+        ],
+        "Lantana IX-e": [
+            "30"
+        ],
+        "Lantana V": [
+            "30"
+        ],
+        "Lantana V-a": [
+            "30"
+        ],
+        "Lantana V-b": [
+            "30"
+        ],
+        "Lantana VI": [
+            "30"
+        ],
+        "Lantana VII": [
+            "30"
+        ],
+        "Lantana VIII": [
+            "30"
+        ],
+        "Lantana VIII-a": [
+            "30"
+        ],
+        "Lantana VIII-b": [
+            "30"
+        ],
+        "Lantana VIII-c": [
+            "30"
+        ],
+        "Lantana VIII-d": [
+            "30"
+        ]
+    },
+    "Leonis": {
+        "Leonis I": [
+            "65"
+        ],
+        "Leonis I-a": [
+            "65"
+        ],
+        "Leonis I-b": [
+            "65"
+        ],
+        "Leonis II": [
+            "65"
+        ],
+        "Leonis II-a": [
+            "65"
+        ],
+        "Leonis III": [
+            "65"
+        ],
+        "Leonis IV": [
+            "65"
+        ],
+        "Leonis IX": [
+            "65"
+        ],
+        "Leonis V": [
+            "65"
+        ],
+        "Leonis V-a": [
+            "65"
+        ],
+        "Leonis VI": [
+            "65"
+        ],
+        "Leonis VI-a": [
+            "65"
+        ],
+        "Leonis VII": [
+            "65"
+        ],
+        "Leonis VIII": [
+            "65"
+        ],
+        "Leonis VIII-a": [
+            "65"
+        ],
+        "Leonis VIII-b": [
+            "65"
+        ],
+        "Leonis VIII-c": [
+            "65"
+        ]
+    },
+    "Leviathan": {
+        "Leviathan I": [
+            "55"
+        ],
+        "Leviathan II": [
+            "55"
+        ],
+        "Leviathan III": [
+            "55"
+        ],
+        "Leviathan IV": [
+            "55"
+        ],
+        "Leviathan V": [
+            "55"
+        ],
+        "Leviathan V-a": [
+            "55"
+        ],
+        "Leviathan VI": [
+            "55"
+        ],
+        "Leviathan VI-a": [
+            "55"
+        ],
+        "Leviathan VI-b": [
+            "55"
+        ],
+        "Leviathan VII": [
+            "55"
+        ]
+    },
+    "Linnaeus": {
+        "Linnaeus I": [
+            "45"
+        ],
+        "Linnaeus II": [
+            "45"
+        ],
+        "Linnaeus II-a": [
+            "45"
+        ],
+        "Linnaeus III": [
+            "45"
+        ],
+        "Linnaeus III-a": [
+            "45"
+        ],
+        "Linnaeus IV": [
+            "45"
+        ],
+        "Linnaeus IV-a": [
+            "45"
+        ],
+        "Linnaeus IV-b": [
+            "45"
+        ],
+        "Linnaeus IV-c": [
+            "45"
+        ],
+        "Linnaeus V": [
+            "45"
+        ],
+        "Linnaeus VI": [
+            "45"
+        ],
+        "Linnaeus VII": [
+            "45"
+        ]
+    },
+    "Lunara": {
+        "Abetti": [
+            "25"
+        ],
+        "Az-Valok": [
+            "25"
+        ],
+        "Cassini": [
+            "25"
+        ],
+        "Coeus": [
+            "25"
+        ],
+        "Crius": [
+            "25"
+        ],
+        "Cthol": [
+            "25"
+        ],
+        "Earrach": [
+            "25"
+        ],
+        "Gaea": [
+            "25"
+        ],
+        "Gasparis": [
+            "25"
+        ],
+        "Lillius": [
+            "25"
+        ],
+        "Numitor": [
+            "25"
+        ],
+        "Nyarloth": [
+            "25"
+        ],
+        "Okoro": [
+            "25"
+        ],
+        "Okoro Alpha": [
+            "25"
+        ],
+        "Okoro Beta": [
+            "25"
+        ],
+        "Okoro Delta": [
+            "25"
+        ],
+        "Okoro Epsilon": [
+            "25"
+        ],
+        "Okoro Gamma": [
+            "25"
+        ],
+        "Petria": [
+            "25"
+        ],
+        "Remus": [
+            "25"
+        ],
+        "Reva's World": [
+            "25"
+        ],
+        "Romulus": [
+            "25"
+        ],
+        "Uvhan": [
+            "25"
+        ],
+        "Vesta": [
+            "25"
+        ],
+        "Vesta Lunaris": [
+            "25"
+        ]
+    },
+    "Luyten's Star": {
+        "Luyten's Rock": [
+            "5"
+        ]
+    },
+    "Maal": {
+        "Maal I": [
+            "60"
+        ],
+        "Maal I-a": [
+            "60"
+        ],
+        "Maal I-b": [
+            "60"
+        ],
+        "Maal II": [
+            "60"
+        ],
+        "Maal II-a": [
+            "60"
+        ],
+        "Maal III": [
+            "60"
+        ],
+        "Maal III-a": [
+            "60"
+        ],
+        "Maal IV": [
+            "60"
+        ],
+        "Maal IX": [
+            "60"
+        ],
+        "Maal IX-a": [
+            "60"
+        ],
+        "Maal IX-b": [
+            "60"
+        ],
+        "Maal IX-c": [
+            "60"
+        ],
+        "Maal IX-d": [
+            "60"
+        ],
+        "Maal V": [
+            "60"
+        ],
+        "Maal V-a": [
+            "60"
+        ],
+        "Maal VI": [
+            "60"
+        ],
+        "Maal VI-a": [
+            "60"
+        ],
+        "Maal VI-b": [
+            "60"
+        ],
+        "Maal VI-c": [
+            "60"
+        ],
+        "Maal VII": [
+            "60"
+        ],
+        "Maal VIII": [
+            "60"
+        ],
+        "Maal VIII-a": [
+            "60"
+        ],
+        "Maal X": [
+            "60"
+        ]
+    },
+    "Maheo": {
+        "Maheo I": [
+            "1"
+        ],
+        "Maheo II": [
+            "1"
+        ],
+        "Maheo III": [
+            "1"
+        ],
+        "Maheo III-a": [
+            "1"
+        ],
+        "Maheo III-b": [
+            "1"
+        ],
+        "Maheo IV": [
+            "1"
+        ],
+        "Maheo IV-a": [
+            "1"
+        ],
+        "Maheo IV-b": [
+            "1"
+        ],
+        "Maheo IV-c": [
+            "1"
+        ],
+        "Maheo IV-d": [
+            "1"
+        ],
+        "Maheo V": [
+            "1"
+        ],
+        "Maheo V-a": [
+            "1"
+        ],
+        "Maheo VI": [
+            "1"
+        ],
+        "Maheo VI-a": [
+            "1"
+        ],
+        "Maheo VII": [
+            "1"
+        ],
+        "Maheo VII-a": [
+            "1"
+        ]
+    },
+    "Marduk": {
+        "Marduk I": [
+            "70"
+        ],
+        "Marduk I-a": [
+            "70"
+        ],
+        "Marduk II": [
+            "70"
+        ],
+        "Marduk III": [
+            "70"
+        ],
+        "Marduk III-a": [
+            "70"
+        ],
+        "Marduk IV": [
+            "70"
+        ],
+        "Marduk IX": [
+            "70"
+        ],
+        "Marduk IX-a": [
+            "70"
+        ],
+        "Marduk IX-b": [
+            "70"
+        ],
+        "Marduk V": [
+            "70"
+        ],
+        "Marduk V-a": [
+            "70"
+        ],
+        "Marduk VI": [
+            "70"
+        ],
+        "Marduk VII": [
+            "70"
+        ],
+        "Marduk VII-a": [
+            "70"
+        ],
+        "Marduk VII-b": [
+            "70"
+        ],
+        "Marduk VII-c": [
+            "70"
+        ],
+        "Marduk VII-d": [
+            "70"
+        ],
+        "Marduk VIII": [
+            "70"
+        ]
+    },
+    "Masada": {
+        "Masada I": [
+            "75"
+        ],
+        "Masada II": [
+            "75"
+        ],
+        "Masada III": [
+            "75"
+        ],
+        "Masada IV": [
+            "75"
+        ],
+        "Masada IV-a": [
+            "75"
+        ],
+        "Masada IX": [
+            "75"
+        ],
+        "Masada V": [
+            "75"
+        ],
+        "Masada V-a": [
+            "75"
+        ],
+        "Masada V-b": [
+            "75"
+        ],
+        "Masada V-c": [
+            "75"
+        ],
+        "Masada VI": [
+            "75"
+        ],
+        "Masada VI-a": [
+            "75"
+        ],
+        "Masada VII": [
+            "75"
+        ],
+        "Masada VII-a": [
+            "75"
+        ],
+        "Masada VII-b": [
+            "75"
+        ],
+        "Masada VIII": [
+            "75"
+        ],
+        "Masada VIII-a": [
+            "75"
+        ]
+    },
+    "McClure": {
+        "McClure I": [
+            "20"
+        ],
+        "McClure I-a": [
+            "20"
+        ],
+        "McClure II": [
+            "20"
+        ],
+        "McClure II-a": [
+            "20"
+        ],
+        "McClure II-b": [
+            "20"
+        ],
+        "McClure II-c": [
+            "20"
+        ],
+        "McClure III": [
+            "20"
+        ]
+    },
+    "Moloch": {
+        "Moloch I": [
+            "40"
+        ],
+        "Moloch I-a": [
+            "40"
+        ],
+        "Moloch II": [
+            "40"
+        ],
+        "Moloch III": [
+            "40"
+        ],
+        "Moloch IV": [
+            "40"
+        ],
+        "Moloch V": [
+            "40"
+        ],
+        "Moloch V-a": [
+            "40"
+        ],
+        "Moloch V-b": [
+            "40"
+        ],
+        "Moloch V-c": [
+            "40"
+        ],
+        "Moloch V-d": [
+            "40"
+        ],
+        "Moloch VI": [
+            "40"
+        ],
+        "Moloch VI-a": [
+            "40"
+        ],
+        "Moloch VI-b": [
+            "40"
+        ],
+        "Moloch VII": [
+            "40"
+        ]
+    },
+    "Muphrid": {
+        "Muphrid I": [
+            "15"
+        ],
+        "Muphrid I-a": [
+            "15"
+        ],
+        "Muphrid I-b": [
+            "15"
+        ],
+        "Muphrid II": [
+            "15"
+        ],
+        "Muphrid II-a": [
+            "15"
+        ],
+        "Muphrid III": [
+            "15"
+        ],
+        "Muphrid III-a": [
+            "15"
+        ],
+        "Muphrid III-b": [
+            "15"
+        ],
+        "Muphrid III-c": [
+            "15"
+        ],
+        "Muphrid IV": [
+            "15"
+        ],
+        "Muphrid V": [
+            "15"
+        ],
+        "Muphrid V-a": [
+            "15"
+        ],
+        "Muphrid V-b": [
+            "15"
+        ],
+        "Muphrid V-c": [
+            "15"
+        ],
+        "Muphrid V-d": [
+            "15"
+        ],
+        "Muphrid VI": [
+            "15"
+        ],
+        "Muphrid VI-a": [
+            "15"
+        ],
+        "Muphrid VI-b": [
+            "15"
+        ],
+        "Muphrid VI-c": [
+            "15"
+        ],
+        "Muphrid VI-d": [
+            "15"
+        ],
+        "Muphrid VII": [
+            "15"
+        ],
+        "Muphrid VII-a": [
+            "15"
+        ],
+        "Muphrid VII-b": [
+            "15"
+        ],
+        "Muphrid VII-c": [
+            "15"
+        ],
+        "Muphrid VIII": [
+            "15"
+        ],
+        "Muphrid VIII-a": [
+            "15"
+        ],
+        "Muphrid VIII-b": [
+            "15"
+        ],
+        "Muphrid VIII-c": [
+            "15"
+        ],
+        "Muphrid VIII-d": [
+            "15"
+        ]
+    },
+    "Narion": {
+        "Andraphon": [
+            "1"
+        ],
+        "Anselon": [
+            "1"
+        ],
+        "Cruth": [
+            "1"
+        ],
+        "Dalvik": [
+            "1"
+        ],
+        "Danra": [
+            "1"
+        ],
+        "Deepala": [
+            "1"
+        ],
+        "Grimsey": [
+            "1"
+        ],
+        "Gryphus": [
+            "1"
+        ],
+        "Hyperia": [
+            "1"
+        ],
+        "Kreet": [
+            "1"
+        ],
+        "Magreth": [
+            "1"
+        ],
+        "Niira": [
+            "1"
+        ],
+        "Podius": [
+            "1"
+        ],
+        "Sumati": [
+            "1"
+        ],
+        "Vectera": [
+            "1"
+        ]
+    },
+    "Nemeria": {
+        "Nemeria I": [
+            "35"
+        ],
+        "Nemeria II": [
+            "35"
+        ],
+        "Nemeria II-a": [
+            "35"
+        ],
+        "Nemeria II-b": [
+            "35"
+        ],
+        "Nemeria III": [
+            "35"
+        ],
+        "Nemeria III-a": [
+            "35"
+        ],
+        "Nemeria IV": [
+            "35"
+        ],
+        "Nemeria IV-a": [
+            "35"
+        ],
+        "Nemeria IV-b": [
+            "35"
+        ],
+        "Nemeria V": [
+            "35"
+        ],
+        "Nemeria V-a": [
+            "35"
+        ],
+        "Nemeria V-b": [
+            "35"
+        ],
+        "Nemeria V-c": [
+            "35"
+        ],
+        "Nemeria VI": [
+            "35"
+        ],
+        "Nemeria VI-a": [
+            "35"
+        ],
+        "Nemeria VI-b": [
+            "35"
+        ],
+        "Nemeria VI-c": [
+            "35"
+        ],
+        "Nemeria VI-d": [
+            "35"
+        ],
+        "Nemeria VII": [
+            "35"
+        ]
+    },
+    "Newton": {
+        "Newton I": [
+            "55"
+        ],
+        "Newton I-a": [
+            "55"
+        ],
+        "Newton II": [
+            "55"
+        ],
+        "Newton II-a": [
+            "55"
+        ],
+        "Newton II-b": [
+            "55"
+        ],
+        "Newton III": [
+            "55"
+        ],
+        "Newton IV": [
+            "55"
+        ],
+        "Newton V": [
+            "55"
+        ],
+        "Newton V-a": [
+            "55"
+        ],
+        "Newton V-b": [
+            "55"
+        ],
+        "Newton V-c": [
+            "55"
+        ],
+        "Newton VI": [
+            "55"
+        ]
+    },
+    "Nikola": {
+        "Nikola I": [
+            "40"
+        ],
+        "Nikola II": [
+            "40"
+        ],
+        "Nikola II-a": [
+            "40"
+        ],
+        "Nikola III": [
+            "40"
+        ],
+        "Nikola III-a": [
+            "40"
+        ],
+        "Nikola III-b": [
+            "40"
+        ],
+        "Nikola IV": [
+            "40"
+        ],
+        "Nikola IV-a": [
+            "40"
+        ],
+        "Nikola IX": [
+            "40"
+        ],
+        "Nikola V": [
+            "40"
+        ],
+        "Nikola VI": [
+            "40"
+        ],
+        "Nikola VI-a": [
+            "40"
+        ],
+        "Nikola VI-b": [
+            "40"
+        ],
+        "Nikola VII": [
+            "40"
+        ],
+        "Nikola VII-a": [
+            "40"
+        ],
+        "Nikola VIII": [
+            "40"
+        ],
+        "Nikola VIII-a": [
+            "40"
+        ],
+        "Nikola X": [
+            "40"
+        ],
+        "Nikola X-a": [
+            "40"
+        ]
+    },
+    "Nirah": {
+        "Delah": [
+            "55"
+        ],
+        "Ka'zaal": [
+            "55"
+        ],
+        "Kazarah": [
+            "55"
+        ],
+        "Lontrah": [
+            "55"
+        ],
+        "N'raal": [
+            "55"
+        ],
+        "Nirah Prime": [
+            "55"
+        ],
+        "Umanah": [
+            "55"
+        ]
+    },
+    "Nirvana": {
+        "Nirvana I": [
+            "40"
+        ],
+        "Nirvana II": [
+            "40"
+        ],
+        "Nirvana II-a": [
+            "40"
+        ],
+        "Nirvana III": [
+            "40"
+        ],
+        "Nirvana III-a": [
+            "40"
+        ],
+        "Nirvana IV": [
+            "40"
+        ],
+        "Nirvana IV-a": [
+            "40"
+        ]
+    },
+    "Oborum Prime": {
+        "Oborum I": [
+            "20"
+        ],
+        "Oborum II": [
+            "20"
+        ],
+        "Oborum II-a": [
+            "20"
+        ],
+        "Oborum II-b": [
+            "20"
+        ],
+        "Oborum III": [
+            "20"
+        ],
+        "Oborum III-a": [
+            "20"
+        ],
+        "Oborum III-b": [
+            "20"
+        ],
+        "Oborum III-c": [
+            "20"
+        ],
+        "Oborum III-d": [
+            "20"
+        ],
+        "Oborum IV": [
+            "20"
+        ]
+    },
+    "Oborum Proxima": {
+        "Oborum Proxima I": [
+            "25"
+        ]
+    },
+    "Olympus": {
+        "Aion": [
+            "10"
+        ],
+        "Ananke": [
+            "10"
+        ],
+        "Cybele": [
+            "10"
+        ],
+        "Dionysus": [
+            "10"
+        ],
+        "Erebus": [
+            "10"
+        ],
+        "Hypnos": [
+            "10"
+        ],
+        "Mithras": [
+            "10"
+        ],
+        "Nesoi": [
+            "10"
+        ],
+        "Orphius": [
+            "10"
+        ],
+        "Ourea": [
+            "10"
+        ],
+        "Pontus": [
+            "10"
+        ],
+        "Thalassa": [
+            "10"
+        ],
+        "Thanatos": [
+            "10"
+        ]
+    },
+    "Ophion": {
+        "Ophion I": [
+            "45"
+        ],
+        "Ophion I-a": [
+            "45"
+        ]
+    },
+    "Piazzi": {
+        "Piazzi I": [
+            "10"
+        ],
+        "Piazzi II": [
+            "10"
+        ],
+        "Piazzi III": [
+            "10"
+        ],
+        "Piazzi III-a": [
+            "10"
+        ],
+        "Piazzi III-b": [
+            "10"
+        ],
+        "Piazzi IV": [
+            "10"
+        ],
+        "Piazzi IV-a": [
+            "10"
+        ],
+        "Piazzi IV-b": [
+            "10"
+        ],
+        "Piazzi IV-c": [
+            "10"
+        ],
+        "Piazzi V": [
+            "10"
+        ],
+        "Piazzi V-a": [
+            "10"
+        ],
+        "Piazzi V-b": [
+            "10"
+        ],
+        "Piazzi V-c": [
+            "10"
+        ],
+        "Piazzi VI": [
+            "10"
+        ],
+        "Piazzi VI-a": [
+            "10"
+        ],
+        "Piazzi VI-b": [
+            "10"
+        ],
+        "Piazzi VI-c": [
+            "10"
+        ],
+        "Piazzi VII": [
+            "10"
+        ],
+        "Piazzi VII-a": [
+            "10"
+        ],
+        "Piazzi VII-b": [
+            "10"
+        ],
+        "Piazzi VII-c": [
+            "10"
+        ]
+    },
+    "Porrima": {
+        "Porrima I": [
+            "30"
+        ],
+        "Porrima I-a": [
+            "30"
+        ],
+        "Porrima I-b": [
+            "30"
+        ],
+        "Porrima II": [
+            "30"
+        ],
+        "Porrima II-a": [
+            "30"
+        ],
+        "Porrima II-b": [
+            "30"
+        ],
+        "Porrima II-c": [
+            "30"
+        ],
+        "Porrima III": [
+            "30"
+        ],
+        "Porrima III-a": [
+            "30"
+        ],
+        "Porrima III-b": [
+            "30"
+        ],
+        "Porrima IV": [
+            "30"
+        ],
+        "Porrima IV-a": [
+            "30"
+        ],
+        "Porrima IV-b": [
+            "30"
+        ],
+        "Porrima IV-c": [
+            "30"
+        ],
+        "Porrima IV-d": [
+            "30"
+        ],
+        "Porrima V": [
+            "30"
+        ],
+        "Porrima V-a": [
+            "30"
+        ],
+        "Porrima V-b": [
+            "30"
+        ],
+        "Porrima V-c": [
+            "30"
+        ],
+        "Porrima VI": [
+            "30"
+        ],
+        "Porrima VI-a": [
+            "30"
+        ]
+    },
+    "Procyon A": {
+        "Procyon I": [
+            "10"
+        ],
+        "Procyon I-a": [
+            "10"
+        ],
+        "Procyon II": [
+            "10"
+        ],
+        "Procyon III": [
+            "10"
+        ],
+        "Procyon III-a": [
+            "10"
+        ],
+        "Procyon IV": [
+            "10"
+        ],
+        "Procyon IV-a": [
+            "10"
+        ],
+        "Procyon V": [
+            "10"
+        ],
+        "Procyon V-a": [
+            "10"
+        ],
+        "Procyon V-b": [
+            "10"
+        ],
+        "Procyon V-c": [
+            "10"
+        ],
+        "Procyon VI": [
+            "10"
+        ],
+        "Procyon VI-a": [
+            "10"
+        ],
+        "Procyon VI-b": [
+            "10"
+        ],
+        "Procyon VI-c": [
+            "10"
+        ]
+    },
+    "Procyon B": {
+        "Procyon-B I": [
+            "5"
+        ]
+    },
+    "Proxima Ternion": {
+        "Proxima Ternion I": [
+            "65"
+        ],
+        "Proxima Ternion I-a": [
+            "65"
+        ],
+        "Proxima Ternion I-b": [
+            "65"
+        ],
+        "Proxima Ternion I-c": [
+            "65"
+        ],
+        "Proxima Ternion II": [
+            "65"
+        ],
+        "Proxima Ternion III": [
+            "65"
+        ],
+        "Proxima Ternion IV": [
+            "65"
+        ],
+        "Proxima Ternion IV-a": [
+            "65"
+        ]
+    },
+    "Pyraas": {
+        "Pyraas I": [
+            "70"
+        ],
+        "Pyraas II": [
+            "70"
+        ],
+        "Pyraas II-a": [
+            "70"
+        ],
+        "Pyraas III": [
+            "70"
+        ],
+        "Pyraas III-a": [
+            "70"
+        ],
+        "Pyraas III-b": [
+            "70"
+        ],
+        "Pyraas IV": [
+            "70"
+        ],
+        "Pyraas V": [
+            "70"
+        ],
+        "Pyraas VI": [
+            "70"
+        ],
+        "Pyraas VI-a": [
+            "70"
+        ],
+        "Pyraas VI-b": [
+            "70"
+        ],
+        "Pyraas VI-c": [
+            "70"
+        ],
+        "Pyraas VI-d": [
+            "70"
+        ],
+        "Pyraas VII": [
+            "70"
+        ],
+        "Pyraas VII-a": [
+            "70"
+        ],
+        "Pyraas VII-b": [
+            "70"
+        ],
+        "Pyraas VIII": [
+            "70"
+        ],
+        "Pyraas VIII-a": [
+            "70"
+        ],
+        "Pyraas VIII-b": [
+            "70"
+        ],
+        "Pyraas VIII-c": [
+            "70"
+        ],
+        "Pyraas VIII-d": [
+            "70"
+        ]
+    },
+    "Rana": {
+        "Rana I": [
+            "65"
+        ],
+        "Rana I-a": [
+            "65"
+        ],
+        "Rana I-b": [
+            "65"
+        ],
+        "Rana I-c": [
+            "65"
+        ],
+        "Rana II": [
+            "65"
+        ],
+        "Rana II-a": [
+            "65"
+        ],
+        "Rana III": [
+            "65"
+        ],
+        "Rana III-a": [
+            "65"
+        ],
+        "Rana IV": [
+            "65"
+        ],
+        "Rana IX": [
+            "65"
+        ],
+        "Rana IX-a": [
+            "65"
+        ],
+        "Rana IX-b": [
+            "65"
+        ],
+        "Rana V": [
+            "65"
+        ],
+        "Rana V-a": [
+            "65"
+        ],
+        "Rana VI": [
+            "65"
+        ],
+        "Rana VI-a": [
+            "65"
+        ],
+        "Rana VI-b": [
+            "65"
+        ],
+        "Rana VI-c": [
+            "65"
+        ],
+        "Rana VI-d": [
+            "65"
+        ],
+        "Rana VI-e": [
+            "65"
+        ],
+        "Rana VII": [
+            "65"
+        ],
+        "Rana VII-a": [
+            "65"
+        ],
+        "Rana VII-b": [
+            "65"
+        ],
+        "Rana VIII": [
+            "65"
+        ]
+    },
+    "Rasalhague": {
+        "Rasalhague I": [
+            "40"
+        ],
+        "Rasalhague I-a": [
+            "40"
+        ],
+        "Rasalhague II": [
+            "40"
+        ],
+        "Rasalhague III": [
+            "40"
+        ],
+        "Rasalhague III-a": [
+            "40"
+        ],
+        "Rasalhague III-b": [
+            "40"
+        ],
+        "Rasalhague IV": [
+            "40"
+        ]
+    },
+    "Rivera": {
+        "Rivera I": [
+            "35"
+        ],
+        "Rivera I-a": [
+            "35"
+        ],
+        "Rivera II": [
+            "35"
+        ],
+        "Rivera II-a": [
+            "35"
+        ],
+        "Rivera II-b": [
+            "35"
+        ],
+        "Rivera II-c": [
+            "35"
+        ],
+        "Rivera III": [
+            "35"
+        ],
+        "Rivera IV": [
+            "35"
+        ],
+        "Rivera IV-a": [
+            "35"
+        ],
+        "Rivera V": [
+            "35"
+        ],
+        "Rivera V-a": [
+            "35"
+        ]
+    },
+    "Rutherford": {
+        "Rutherford I": [
+            "45"
+        ],
+        "Rutherford I-a": [
+            "45"
+        ],
+        "Rutherford I-b": [
+            "45"
+        ],
+        "Rutherford II": [
+            "45"
+        ],
+        "Rutherford II-a": [
+            "45"
+        ],
+        "Rutherford III": [
+            "45"
+        ],
+        "Rutherford III-a": [
+            "45"
+        ],
+        "Rutherford IV": [
+            "45"
+        ],
+        "Rutherford IV-a": [
+            "45"
+        ],
+        "Rutherford IV-b": [
+            "45"
+        ],
+        "Rutherford IV-c": [
+            "45"
+        ],
+        "Rutherford IV-d": [
+            "45"
+        ],
+        "Rutherford IV-e": [
+            "45"
+        ],
+        "Rutherford V": [
+            "45"
+        ],
+        "Rutherford V-a": [
+            "45"
+        ],
+        "Rutherford V-b": [
+            "45"
+        ],
+        "Rutherford VI": [
+            "45"
+        ],
+        "Rutherford VI-a": [
+            "45"
+        ],
+        "Rutherford VI-b": [
+            "45"
+        ],
+        "Rutherford VI-c": [
+            "45"
+        ],
+        "Rutherford VI-d": [
+            "45"
+        ]
+    },
+    "Sagan": {
+        "Sagan I": [
+            "15"
+        ]
+    },
+    "Sakharov": {
+        "Bonner": [
+            "15"
+        ],
+        "Mir II": [
+            "15"
+        ]
+    },
+    "Schrodinger": {
+        "Schrodinger I": [
+            "65"
+        ],
+        "Schrodinger I-a": [
+            "65"
+        ],
+        "Schrodinger II": [
+            "65"
+        ],
+        "Schrodinger III": [
+            "65"
+        ],
+        "Schrodinger III-a": [
+            "65"
+        ],
+        "Schrodinger IV": [
+            "65"
+        ],
+        "Schrodinger V": [
+            "65"
+        ],
+        "Schrodinger V-a": [
+            "65"
+        ],
+        "Schrodinger VI": [
+            "65"
+        ],
+        "Schrodinger VI-a": [
+            "65"
+        ],
+        "Schrodinger VI-b": [
+            "65"
+        ],
+        "Schrodinger VI-c": [
+            "65"
+        ],
+        "Schrodinger VII": [
+            "65"
+        ],
+        "Schrodinger VII-a": [
+            "65"
+        ],
+        "Schrodinger VII-b": [
+            "65"
+        ],
+        "Schrodinger VII-c": [
+            "65"
+        ],
+        "Schrodinger VIII": [
+            "65"
+        ],
+        "Schrodinger VIII-a": [
+            "65"
+        ],
+        "Schrodinger VIII-b": [
+            "65"
+        ],
+        "Schrodinger VIII-c": [
+            "65"
+        ],
+        "Schrodinger VIII-d": [
+            "65"
+        ],
+        "Schrodinger VIII-e": [
+            "65"
+        ]
+    },
+    "Serpentis": {
+        "Serpentis I": [
+            "55"
+        ],
+        "Serpentis II": [
+            "55"
+        ],
+        "Serpentis II-a": [
+            "55"
+        ],
+        "Serpentis II-b": [
+            "55"
+        ],
+        "Serpentis III": [
+            "55"
+        ],
+        "Serpentis IV": [
+            "55"
+        ],
+        "Serpentis IV-a": [
+            "55"
+        ],
+        "Serpentis V": [
+            "55"
+        ],
+        "Serpentis V-a": [
+            "55"
+        ],
+        "Serpentis V-b": [
+            "55"
+        ],
+        "Serpentis V-c": [
+            "55"
+        ],
+        "Serpentis V-d": [
+            "55"
+        ],
+        "Serpentis VI": [
+            "55"
+        ],
+        "Serpentis VI-a": [
+            "55"
+        ],
+        "Serpentis VI-b": [
+            "55"
+        ]
+    },
+    "Shoza": {
+        "Shoza I": [
+            "35"
+        ],
+        "Shoza I-a": [
+            "35"
+        ],
+        "Shoza II": [
+            "35"
+        ],
+        "Shoza II-a": [
+            "35"
+        ],
+        "Shoza III": [
+            "35"
+        ],
+        "Shoza III-a": [
+            "35"
+        ],
+        "Shoza IV": [
+            "35"
+        ],
+        "Shoza IX": [
+            "35"
+        ],
+        "Shoza V": [
+            "35"
+        ],
+        "Shoza VI": [
+            "35"
+        ],
+        "Shoza VI-a": [
+            "35"
+        ],
+        "Shoza VII": [
+            "35"
+        ],
+        "Shoza VII-a": [
+            "35"
+        ],
+        "Shoza VII-b": [
+            "35"
+        ],
+        "Shoza VII-c": [
+            "35"
+        ],
+        "Shoza VIII": [
+            "35"
+        ],
+        "Shoza VIII-a": [
+            "35"
+        ],
+        "Shoza VIII-b": [
+            "35"
+        ],
+        "Shoza VIII-c": [
+            "35"
+        ],
+        "Shoza VIII-d": [
+            "35"
+        ]
+    },
+    "Sirius": {
+        "Sirius I": [
+            "5"
+        ],
+        "Sirius II": [
+            "5"
+        ],
+        "Sirius II-a": [
+            "5"
+        ],
+        "Sirius III": [
+            "5"
+        ],
+        "Sirius III-a": [
+            "5"
+        ],
+        "Sirius III-b": [
+            "5"
+        ]
+    },
+    "Sol": {
+        "Ariel": [
+            "1"
+        ],
+        "Callisto": [
+            "1"
+        ],
+        "Charon": [
+            "1"
+        ],
+        "Deimos": [
+            "1"
+        ],
+        "Dione": [
+            "1"
+        ],
+        "Earth": [
+            "1"
+        ],
+        "Enceladus": [
+            "1"
+        ],
+        "Europa": [
+            "1"
+        ],
+        "Ganymede": [
+            "1"
+        ],
+        "Iapetus": [
+            "1"
+        ],
+        "Io": [
+            "1"
+        ],
+        "Jupiter": [
+            "1"
+        ],
+        "Luna": [
+            "1"
+        ],
+        "Mars": [
+            "1"
+        ],
+        "Mercury": [
+            "1"
+        ],
+        "Mimas": [
+            "1"
+        ],
+        "Miranda": [
+            "1"
+        ],
+        "Neptune": [
+            "1"
+        ],
+        "Oberon": [
+            "1"
+        ],
+        "Phobos": [
+            "1"
+        ],
+        "Pluto": [
+            "1"
+        ],
+        "Rhea": [
+            "1"
+        ],
+        "Saturn": [
+            "1"
+        ],
+        "Tethys": [
+            "1"
+        ],
+        "Titan": [
+            "1"
+        ],
+        "Titania": [
+            "1"
+        ],
+        "Triton": [
+            "1"
+        ],
+        "Umbriel": [
+            "1"
+        ],
+        "Uranus": [
+            "1"
+        ],
+        "Venus": [
+            "1"
+        ]
+    },
+    "Sparta": {
+        "Sparta I": [
+            "60"
+        ],
+        "Sparta II": [
+            "60"
+        ],
+        "Sparta II-a": [
+            "60"
+        ],
+        "Sparta II-b": [
+            "60"
+        ],
+        "Sparta III": [
+            "60"
+        ],
+        "Sparta III-a": [
+            "60"
+        ],
+        "Sparta IV": [
+            "60"
+        ],
+        "Sparta V": [
+            "60"
+        ],
+        "Sparta V-a": [
+            "60"
+        ],
+        "Sparta VI": [
+            "60"
+        ],
+        "Sparta VI-a": [
+            "60"
+        ],
+        "Sparta VI-b": [
+            "60"
+        ],
+        "Sparta VI-c": [
+            "60"
+        ],
+        "Sparta VII": [
+            "60"
+        ],
+        "Sparta VII-a": [
+            "60"
+        ],
+        "Sparta VII-b": [
+            "60"
+        ],
+        "Sparta VII-c": [
+            "60"
+        ],
+        "Sparta VIII": [
+            "60"
+        ],
+        "Sparta VIII-a": [
+            "60"
+        ],
+        "Sparta VIII-b": [
+            "60"
+        ],
+        "Sparta VIII-c": [
+            "60"
+        ]
+    },
+    "Strix": {
+        "Strix I": [
+            "70"
+        ],
+        "Strix I-a": [
+            "70"
+        ],
+        "Strix II": [
+            "70"
+        ],
+        "Strix III": [
+            "70"
+        ],
+        "Strix III-a": [
+            "70"
+        ],
+        "Strix III-b": [
+            "70"
+        ],
+        "Strix III-c": [
+            "70"
+        ],
+        "Strix III-d": [
+            "70"
+        ],
+        "Strix IV": [
+            "70"
+        ],
+        "Strix IV-a": [
+            "70"
+        ],
+        "Strix V": [
+            "70"
+        ],
+        "Strix VI": [
+            "70"
+        ],
+        "Strix VI-a": [
+            "70"
+        ],
+        "Strix VI-b": [
+            "70"
+        ],
+        "Strix VI-c": [
+            "70"
+        ]
+    },
+    "Syrma": {
+        "Syrma I": [
+            "55"
+        ],
+        "Syrma I-a": [
+            "55"
+        ],
+        "Syrma I-b": [
+            "55"
+        ],
+        "Syrma II": [
+            "55"
+        ],
+        "Syrma II-a": [
+            "55"
+        ],
+        "Syrma III": [
+            "55"
+        ],
+        "Syrma IV": [
+            "55"
+        ],
+        "Syrma IV-a": [
+            "55"
+        ],
+        "Syrma V": [
+            "55"
+        ],
+        "Syrma V-a": [
+            "55"
+        ],
+        "Syrma VI": [
+            "55"
+        ],
+        "Syrma VI-a": [
+            "55"
+        ],
+        "Syrma VI-b": [
+            "55"
+        ],
+        "Syrma VI-c": [
+            "55"
+        ],
+        "Syrma VI-d": [
+            "55"
+        ],
+        "Syrma VII": [
+            "55"
+        ],
+        "Syrma VII-a": [
+            "55"
+        ],
+        "Syrma VII-b": [
+            "55"
+        ]
+    },
+    "Tau Ceti": {
+        "Tau Ceti I": [
+            "10"
+        ],
+        "Tau Ceti II": [
+            "10"
+        ],
+        "Tau Ceti II-a": [
+            "10"
+        ],
+        "Tau Ceti III": [
+            "10"
+        ],
+        "Tau Ceti IV": [
+            "10"
+        ],
+        "Tau Ceti IV-a": [
+            "10"
+        ],
+        "Tau Ceti IV-b": [
+            "10"
+        ],
+        "Tau Ceti IX": [
+            "10"
+        ],
+        "Tau Ceti V": [
+            "10"
+        ],
+        "Tau Ceti VI": [
+            "10"
+        ],
+        "Tau Ceti VI-a": [
+            "10"
+        ],
+        "Tau Ceti VII": [
+            "10"
+        ],
+        "Tau Ceti VII-a": [
+            "10"
+        ],
+        "Tau Ceti VIII": [
+            "10"
+        ],
+        "Tau Ceti VIII-a": [
+            "10"
+        ],
+        "Tau Ceti VIII-b": [
+            "10"
+        ],
+        "Tau Ceti VIII-c": [
+            "10"
+        ],
+        "Tau Ceti VIII-d": [
+            "10"
+        ]
+    },
+    "The Pup": {
+        "Pup I": [
+            "10"
+        ]
+    },
+    "Tidacha": {
+        "Tidacha I": [
+            "45"
+        ],
+        "Tidacha I-a": [
+            "45"
+        ],
+        "Tidacha I-b": [
+            "45"
+        ],
+        "Tidacha I-c": [
+            "45"
+        ]
+    },
+    "Toliman": {
+        "Toliman I": [
+            "5"
+        ],
+        "Toliman II": [
+            "5"
+        ],
+        "Toliman II-a": [
+            "5"
+        ],
+        "Toliman II-b": [
+            "5"
+        ],
+        "Toliman II-c": [
+            "5"
+        ]
+    },
+    "Ursae Majoris": {
+        "Ursa Major I": [
+            "30"
+        ],
+        "Ursa Major I-a": [
+            "30"
+        ],
+        "Ursa Major I-b": [
+            "30"
+        ],
+        "Ursa Major I-c": [
+            "30"
+        ],
+        "Ursa Major II": [
+            "30"
+        ],
+        "Ursa Major III": [
+            "30"
+        ]
+    },
+    "Ursae Minoris": {
+        "Ursa Minor I": [
+            "20"
+        ],
+        "Ursa Minor I-a": [
+            "20"
+        ],
+        "Ursa Minor I-b": [
+            "20"
+        ],
+        "Ursa Minor II": [
+            "20"
+        ],
+        "Ursa Minor II-a": [
+            "20"
+        ],
+        "Ursa Minor III": [
+            "20"
+        ]
+    },
+    "Valo": {
+        "Cantra": [
+            "5"
+        ],
+        "Golga": [
+            "5"
+        ],
+        "Hillex": [
+            "5"
+        ],
+        "Kindi": [
+            "5"
+        ],
+        "Lumos": [
+            "5"
+        ],
+        "Miatha": [
+            "5"
+        ],
+        "Navacci": [
+            "5"
+        ],
+        "Polvo": [
+            "5"
+        ],
+        "Prax": [
+            "5"
+        ],
+        "Shorun": [
+            "5"
+        ],
+        "Virum": [
+            "5"
+        ]
+    },
+    "Van Maanen's Star": {
+        "Van Maanen I": [
+            "10"
+        ]
+    },
+    "Vega": {
+        "Vega I": [
+            "25"
+        ],
+        "Vega I-a": [
+            "25"
+        ],
+        "Vega I-b": [
+            "25"
+        ],
+        "Vega I-c": [
+            "25"
+        ],
+        "Vega II": [
+            "25"
+        ],
+        "Vega II-a": [
+            "25"
+        ],
+        "Vega II-b": [
+            "25"
+        ],
+        "Vega II-c": [
+            "25"
+        ],
+        "Vega II-d": [
+            "25"
+        ],
+        "Vega II-e": [
+            "25"
+        ]
+    },
+    "Verne": {
+        "Verne I": [
+            "70"
+        ],
+        "Verne I-a": [
+            "70"
+        ],
+        "Verne II": [
+            "70"
+        ],
+        "Verne II-a": [
+            "70"
+        ],
+        "Verne III": [
+            "70"
+        ],
+        "Verne III-a": [
+            "70"
+        ],
+        "Verne IV": [
+            "70"
+        ],
+        "Verne V": [
+            "70"
+        ],
+        "Verne VI": [
+            "70"
+        ],
+        "Verne VI-a": [
+            "70"
+        ],
+        "Verne VI-b": [
+            "70"
+        ],
+        "Verne VII": [
+            "70"
+        ],
+        "Verne VII-a": [
+            "70"
+        ],
+        "Verne VII-b": [
+            "70"
+        ],
+        "Verne VII-c": [
+            "70"
+        ],
+        "Verne VII-d": [
+            "70"
+        ],
+        "Verne VII-e": [
+            "70"
+        ]
+    },
+    "Volii": {
+        "Volii Alpha": [
+            "5"
+        ],
+        "Volii Beta": [
+            "5"
+        ],
+        "Volii Chi": [
+            "5"
+        ],
+        "Volii Delta": [
+            "5"
+        ],
+        "Volii Epsilon": [
+            "5"
+        ],
+        "Volii Gamma": [
+            "5"
+        ],
+        "Volii Omega": [
+            "5"
+        ],
+        "Volii Phi": [
+            "5"
+        ],
+        "Volii Psi": [
+            "5"
+        ],
+        "Volii Tau": [
+            "5"
+        ],
+        "Volii Upsilon": [
+            "5"
+        ]
+    },
+    "Wolf": {
+        "Chthonia": [
+            "5"
+        ],
+        "Etherea": [
+            "5"
+        ],
+        "Pontem": [
+            "5"
+        ]
+    },
+    "Xi Ophiuchi": {
+        "Xi Ophiuchi I": [
+            "50"
+        ],
+        "Xi Ophiuchi II": [
+            "50"
+        ],
+        "Xi Ophiuchi III": [
+            "50"
+        ],
+        "Xi Ophiuchi III-a": [
+            "50"
+        ],
+        "Xi Ophiuchi IV": [
+            "50"
+        ],
+        "Xi Ophiuchi IX": [
+            "50"
+        ],
+        "Xi Ophiuchi V": [
+            "50"
+        ],
+        "Xi Ophiuchi V-a": [
+            "50"
+        ],
+        "Xi Ophiuchi VI": [
+            "50"
+        ],
+        "Xi Ophiuchi VI-a": [
+            "50"
+        ],
+        "Xi Ophiuchi VI-b": [
+            "50"
+        ],
+        "Xi Ophiuchi VI-c": [
+            "50"
+        ],
+        "Xi Ophiuchi VI-d": [
+            "50"
+        ],
+        "Xi Ophiuchi VI-e": [
+            "50"
+        ],
+        "Xi Ophiuchi VII": [
+            "50"
+        ],
+        "Xi Ophiuchi VII-a": [
+            "50"
+        ],
+        "Xi Ophiuchi VII-b": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII-a": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII-b": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII-c": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII-d": [
+            "50"
+        ],
+        "Xi Ophiuchi VIII-e": [
+            "50"
+        ]
+    },
+    "Zelazny": {
+        "Zelazny I": [
+            "60"
+        ],
+        "Zelazny II": [
+            "60"
+        ],
+        "Zelazny II-a": [
+            "60"
+        ],
+        "Zelazny III": [
+            "60"
+        ],
+        "Zelazny IV": [
+            "60"
+        ],
+        "Zelazny V": [
+            "60"
+        ],
+        "Zelazny VI": [
+            "60"
+        ],
+        "Zelazny VII": [
+            "60"
+        ],
+        "Zelazny VII-a": [
+            "60"
+        ],
+        "Zelazny VII-b": [
+            "60"
+        ],
+        "Zelazny VII-c": [
+            "60"
+        ],
+        "Zelazny VII-d": [
+            "60"
+        ],
+        "Zelazny VIII": [
+            "60"
+        ],
+        "Zelazny VIII-a": [
+            "60"
+        ],
+        "Zelazny VIII-b": [
+            "60"
+        ],
+        "Zelazny VIII-c": [
+            "60"
+        ],
+        "Zelazny VIII-d": [
+            "60"
+        ],
+        "Zelazny VIII-e": [
+            "60"
+        ]
+    },
+    "Zeta Ophiuchi": {
+        "Zeta Ophiuchi I": [
+            "50"
+        ],
+        "Zeta Ophiuchi II": [
+            "50"
+        ],
+        "Zeta Ophiuchi III": [
+            "50"
+        ],
+        "Zeta Ophiuchi III-a": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV-a": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV-b": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV-c": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV-d": [
+            "50"
+        ],
+        "Zeta Ophiuchi IV-e": [
+            "50"
+        ],
+        "Zeta Ophiuchi V": [
+            "50"
+        ],
+        "Zeta Ophiuchi V-a": [
+            "50"
+        ],
+        "Zeta Ophiuchi V-b": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI-a": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI-b": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI-c": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI-d": [
+            "50"
+        ],
+        "Zeta Ophiuchi VI-e": [
+            "50"
+        ]
+    },
+    "Zosma": {
+        "Zosma I": [
+            "50"
+        ],
+        "Zosma I-a": [
+            "50"
+        ],
+        "Zosma II": [
+            "50"
+        ],
+        "Zosma III": [
+            "50"
+        ],
+        "Zosma III-a": [
+            "50"
+        ],
+        "Zosma IV": [
+            "50"
+        ],
+        "Zosma IV-a": [
+            "50"
+        ],
+        "Zosma IV-b": [
+            "50"
+        ],
+        "Zosma IV-c": [
+            "50"
+        ],
+        "Zosma V": [
+            "50"
+        ],
+        "Zosma V-a": [
+            "50"
+        ],
+        "Zosma V-b": [
+            "50"
+        ],
+        "Zosma V-c": [
+            "50"
+        ]
+    }
+}

@@ -1,65 +1,86 @@
-import json
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import json
 
-# Function to wait for the presence of element
-def wait_for_element(driver, xpath, timeout=10):
-    try:
-        element_present = EC.presence_of_element_located((By.XPATH, xpath))
-        WebDriverWait(driver, timeout).until(element_present)
-        return True
-    except TimeoutException:
-        return False
 
 # Path to the ChromeDriver executable
 chromedriver_path = 'chromedriver.exe'
 
-# Create a new Chrome session
+# Initialize the Chrome WebDriver
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-# URL of the webpage to scrape
-url = "https://starfieldwiki.net/wiki/Category:Starfield-Places-Star_Systems"
+# Load star system names from JSON file
+with open("pro_l33t_hacker.json", "r", encoding="utf-8") as file:
+    star_systems_dict = json.load(file)
 
-# Navigate to the webpage
-driver.get(url)
+# URL to the star system search page
+search_url = "https://inara.cz/starfield/starsystems/"
 
-# Wait for the body element to be present
-xpath = "/html/body/div[3]/div[3]/div[4]/div[2]/div/div"
-if not wait_for_element(driver, xpath):
-    print("Timeout waiting for element")
-    driver.quit()
-    exit()
+# Navigate to the star system search page
+driver.get(search_url)
 
-# Get the body element
-body_element = driver.find_element(By.XPATH, xpath)
-
-# Get the text content of the body element
-scraped_data = body_element.text
-
-# Split the scraped data into individual system names
-system_names = scraped_data.split('\n')
-
-# Remove the "Starfield:" prefix and " System" suffix, and create the desired structure
-solar_system = {}
-for system_name in system_names:
-    system_name = system_name.replace("Starfield:", "").replace(" System", "")
-    solar_system[system_name] = {"planets": {}}
-
-# Wrap the solar_system dictionary with another dictionary
-solar_system_final = {"solar_system": solar_system}
-
-# Save the structured data into a JSON file
-output_file = "structured_data.json"
-with open(output_file, "w") as file:
-    json.dump(solar_system_final, file, indent=4)
-
-print("Structured data saved to:", output_file)
+# Loop through each star system and search for it
+for star_system in star_systems_dict:
+    print(f"Processing star system: {star_system}")
+    try:
+        # Wait for the search input field to be ready
+        search_input = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[1]/div[2]/div/div/form/div[1]/div/input"))
+        )
+        
+        # Clear the search input field
+        search_input.clear()
+        
+        # Enter the star system name in the search input field
+        search_input.send_keys(star_system)
+        
+        # Submit the search query
+        search_input.send_keys(Keys.RETURN)
+        
+        print("Search query submitted")
+        
+        # Wait for the search results to load
+        time.sleep(5)  # You may adjust the waiting time as needed
+        
+        print("Searching for table containing planet and resource information")
+        
+        # Find the table containing planet and resource information
+        table = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[2]/div/div/table/tbody"))
+        )
+        
+        print("Table found")
+        
+        # Extract planet and resource information from each row of the table
+        planets = {}
+        for row in table.find_elements(By.TAG_NAME, "tr"):
+            cells = row.find_elements(By.TAG_NAME, "td")
+            if len(cells) >= 2:
+                planet_name = cells[0].text
+                resources = cells[-1].text.split("\n")
+                planets[planet_name] = resources
+        
+        # Update the star system dictionary with the planet and resource information
+        star_systems_dict[star_system] = planets
+        
+        print("Planet and resource information collected")
+    except Exception as e:
+        print(f"Error occurred while processing {star_system}: {e}")
+    
+    # Navigate back to the star system search page
+    driver.get(search_url)
 
 # Quit the WebDriver
 driver.quit()
+
+# Save the updated star system dictionary as JSON
+with open("pro_l33t_hacker.json", "w", encoding="utf-8") as file:
+    json.dump(star_systems_dict, file, indent=4)
+
+print("Planet and resource information have been collected and saved.")
