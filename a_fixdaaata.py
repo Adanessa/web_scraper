@@ -1,53 +1,42 @@
-def clean_data(text):
-    return text.strip().replace("︎", "").replace("︎", "").replace("︎", "").strip()
+import json
+import re
 
+# Path to the file containing the plain text data
+file_path = 'masterpiece.json'
 
-def parse_data(filename):
-    starsystem_data = {}
-    current_system = None
-    current_planet = None
-    current_moon = None
+# Reading the content of the file
+with open(file_path, 'r', encoding='utf-8') as file:
+    text = file.read()
 
-    with open(filename, "r", encoding="utf-8") as file:
-        for line in file:
-            line = clean_data(line)
-            if line.startswith("STAR SYSTEM"):
-                parts = line.split(":")
-                if len(parts) > 1:
-                    current_system = parts[1].strip()
-                    starsystem_data[current_system] = {"planets": {}}
-            elif line.startswith("PLANETS AND MOONS OF"):
-                parts = line.split(":")
-                if len(parts) > 1:
-                    current_planet = parts[1].strip()
-                    current_moon = None
-                    starsystem_data[current_system]["planets"][current_planet] = {}
-            elif line.startswith("\uFFFD"):
-                parts = line.split(":")
-                if len(parts) > 1:
-                    current_moon = parts[0].strip()
-                    starsystem_data[current_system]["planets"][current_planet][current_moon] = {}
-            elif line:
-                parts = line.split(":", 1)
-                if len(parts) > 1:
-                    key = clean_data(parts[0])
-                    value = clean_data(parts[1])
-                    if current_moon:
-                        starsystem_data[current_system]["planets"][current_planet][current_moon][key] = value
-                    elif current_planet:
-                        starsystem_data[current_system]["planets"][current_planet][key] = value
-                    elif current_system:
-                        starsystem_data[current_system][key] = value
+# Extracting the star system name
+system_name_match = re.search(r"STAR SYSTEM\n(.*?)\n", text)
+if system_name_match:
+    system_name = system_name_match.group(1)
+else:
+    system_name = "Unknown"
 
-    return starsystem_data
+# Finding all planets and their resources
+planets = []
+for planet_info in re.finditer(r"(\uE053︎.*?)RESOURCES\n(.*?)(?=\uE053︎|$)", text, re.DOTALL):
+    planet_data = {}
+    planet_details = planet_info.group(1).split("\n")
+    planet_name_match = re.match(r"^\uE053︎ (.*)", planet_details[0])
+    if planet_name_match:
+        planet_data['name'] = planet_name_match.group(1)
 
+    resources = planet_info.group(2).strip().split("\n")
+    planet_data['resources'] = resources
+    planets.append(planet_data)
 
+# Constructing the JSON structure
+star_system = {
+    'system_name': system_name,
+    'planets': planets
+}
 
-def main():
-    filename = "masterpiece.json"
-    starsystem_data = parse_data(filename)
-    print(starsystem_data)
+# Writing to JSON
+json_file_path = 'starfield_data.json'
+with open(json_file_path, 'w') as file:
+    json.dump(star_system, file, indent=4)
 
-
-if __name__ == "__main__":
-    main()
+# This script reads from a specified file and writes a structured JSON file.
