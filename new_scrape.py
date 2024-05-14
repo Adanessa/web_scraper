@@ -1,4 +1,6 @@
 import time
+import json
+import unicodedata
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -6,7 +8,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-import json
+
+def normalize_unicode(text):
+    return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
 
 chromedriver_path = 'chromedriver.exe'
 
@@ -67,10 +71,18 @@ for star_system in star_systems_dict:
     
             span_tags = row.find_elements(By.TAG_NAME, 'span')
             
+            planet_key = list(planets.keys())[idx]
+            
+            if planet_key not in planets:
+                planets[planet_key] = {'resources': []}
+            
             for span_tag in span_tags:
                 resource_name = span_tag.text
-                if not resource_name.isdigit() and "days" and "hours" not in resource_name:
-                    planets[list(planets.keys())[idx]]['resources'].append(resource_name)
+                if not resource_name.isdigit() and "days" not in resource_name and "hours" not in resource_name:
+                    normalized_name = normalize_unicode(resource_name)
+                    planet_key = list(planets.keys())[idx]
+
+                    planets[list(planets.keys())[idx]]['resources'].append(normalized_name)
 
         print("Resource names collected")
 
@@ -79,11 +91,11 @@ for star_system in star_systems_dict:
         print("Planet and resource information collected")
         
         # Increment the counter
-        star_systems_processed += 1
+       # star_systems_processed += 1
         
         # Break the loop if 10 star systems have been processed
-        if star_systems_processed >= 10:
-            print("Processed 10 star systems, breaking the loop")
+        if star_systems_processed >= 30:
+            print(f"Processed {star_systems_processed} star systems, breaking the loop")
             break
 
     except Exception as e:
