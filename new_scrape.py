@@ -63,7 +63,7 @@ for star_system in star_systems_dict:
         planets = {}
         for row in table_planets.find_elements(By.TAG_NAME, "tr"):
             planet_name = row.find_element(By.TAG_NAME, "td").text
-            planets[planet_name] = []
+            planets[planet_name] = {"resources": []}  # Initialize resources as an empty list
         
         print("Planet names collected")
         
@@ -71,19 +71,33 @@ for star_system in star_systems_dict:
         
         # Find the table containing resource links
         table_links = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr[1]/td[5]/div"))
+            EC.visibility_of_element_located((By.XPATH, '//*[@id="DataTables_Table_0"]/tbody/tr[1]/td[5]/div'))
         )
         
         print("Table containing resource links found")
         
         # Extract resource links
-        for idx, row in enumerate(table_links.find_elements(By.TAG_NAME, "tr")):
-            resource_link = row.find_element(By.XPATH, f"./td[5]/div/a").get_attribute("href")
+        for idx, row in enumerate(table_links.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr')):
+            print(row.text)  # Print the row text for debugging
+    
+         # Check if the row contains hab level information
+            hab_rank_cell = row.find_elements(By.TAG_NAME, 'td')[-1]
+            hab_rank_text = hab_rank_cell.text
+    
+            if hab_rank_text:  # If hab level information exists
+                resource_link = row.find_element(By.XPATH, './td[5]/div/a').get_attribute('href')
+            else:  # If hab level information doesn't exist
+                resource_link = "N/A"
+    
             planet_name = list(planets.keys())[idx]  # Get the planet name corresponding to the current row
-            planets[planet_name].append(resource_link)
-        
+
+            # Add the resource link to the respective planet dictionary
+            planets[planet_name]['resources'].append(resource_link)
+
+
+
         print("Resource links collected")
-        
+
         # Update the star system dictionary with the planet names and resource links
         star_systems_dict[star_system] = planets
         
