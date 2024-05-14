@@ -77,22 +77,33 @@ for star_system in star_systems_dict:
         
         print("Table containing resource links found")
         
-        # Extract resource names
+       # Extract resource links
         for idx, row in enumerate(table_links.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr')):
             print(row.text)  # Print the row text for debugging
     
-            # Find all <span> tags within the row
-            span_tags = row.find_elements(By.TAG_NAME, 'span')
-            
-            # Extract text from each <span> tag and add it to the resources list
-            for span_tag in span_tags:
-                resource_name = span_tag.text
-                if not resource_name.isdigit() and "days" not in resource_name:  # Check if the text is not a number (days)
-                    planets[list(planets.keys())[idx]]['resources'].append(resource_name)
+            # Check if the row contains hab level information
+            hab_rank_cell = row.find_elements(By.TAG_NAME, 'td')[-1]
+            hab_rank_text = hab_rank_cell.text
+    
+            if hab_rank_text:  # If hab level information exists
+                try:
+                    resource_link = row.find_element(By.XPATH, './td[5]/div/a').get_attribute('href')
+                except NoSuchElementException:
+                    resource_link = "N/A"  # Placeholder for missing resource link
+            else:  # If hab level information doesn't exist
+                resource_link = "N/A"
+    
+            planet_name = list(planets.keys())[idx]  # Get the planet name corresponding to the current row
 
-        print("Resource names collected")
+    # Add the resource link to the respective planet dictionary
+            planets[planet_name]['resources'].append(resource_link)
 
-        # Update the star system dictionary with the planet names and resource names
+
+
+
+        print("Resource links collected")
+
+        # Update the star system dictionary with the planet names and resource links
         star_systems_dict[star_system] = planets
         
         print("Planet and resource information collected")
@@ -104,7 +115,6 @@ for star_system in star_systems_dict:
         if star_systems_processed >= 10:
             print("Processed 10 star systems, breaking the loop")
             break
-
     except Exception as e:
         print(f"Error occurred while processing {star_system}: {e}")
     
