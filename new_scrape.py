@@ -7,7 +7,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import json
 
-
 # Path to the ChromeDriver executable
 chromedriver_path = 'chromedriver.exe'
 
@@ -24,6 +23,9 @@ search_url = "https://inara.cz/starfield/starsystems/"
 
 # Navigate to the star system search page
 driver.get(search_url)
+
+# Counter to track the number of star systems processed
+star_systems_processed = 0
 
 # Loop through each star system and search for it
 for star_system in star_systems_dict:
@@ -48,28 +50,52 @@ for star_system in star_systems_dict:
         # Wait for the search results to load
         time.sleep(5)  # You may adjust the waiting time as needed
         
-        print("Searching for table containing planet and resource information")
+        print("Searching for table containing planet information")
         
-        # Find the table containing planet and resource information
-        table = WebDriverWait(driver, 10).until(
+        # Find the table containing planet information
+        table_planets = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[2]/div/div/table/tbody"))
         )
         
-        print("Table found")
+        print("Table containing planet information found")
         
-        # Extract planet and resource information from each row of the table
+        # Extract planet names
         planets = {}
-        for row in table.find_elements(By.TAG_NAME, "tr"):
-            cells = row.find_elements(By.TAG_NAME, "td")
-            if len(cells) >= 2:
-                planet_name = cells[0].text
-                resources = cells[-1].text.split("\n")
-                planets[planet_name] = resources
+        for row in table_planets.find_elements(By.TAG_NAME, "tr"):
+            planet_name = row.find_element(By.TAG_NAME, "td").text
+            planets[planet_name] = []
         
-        # Update the star system dictionary with the planet and resource information
+        print("Planet names collected")
+        
+        print("Searching for table containing resource links")
+        
+        # Find the table containing resource links
+        table_links = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr[1]/td[5]/div"))
+        )
+        
+        print("Table containing resource links found")
+        
+        # Extract resource links
+        for idx, row in enumerate(table_links.find_elements(By.TAG_NAME, "tr")):
+            resource_link = row.find_element(By.XPATH, f"./td[5]/div/a").get_attribute("href")
+            planet_name = list(planets.keys())[idx]  # Get the planet name corresponding to the current row
+            planets[planet_name].append(resource_link)
+        
+        print("Resource links collected")
+        
+        # Update the star system dictionary with the planet names and resource links
         star_systems_dict[star_system] = planets
         
         print("Planet and resource information collected")
+        
+        # Increment the counter
+        star_systems_processed += 1
+        
+        # Break the loop if 10 star systems have been processed
+        if star_systems_processed >= 10:
+            print("Processed 10 star systems, breaking the loop")
+            break
     except Exception as e:
         print(f"Error occurred while processing {star_system}: {e}")
     

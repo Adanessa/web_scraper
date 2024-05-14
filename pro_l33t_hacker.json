@@ -1,500 +1,182 @@
 {
     "Al-Battani": {
-        "Al-Battani I": [
-            "35"
-        ],
-        "Al-Battani I-a": [
-            "35"
-        ],
-        "Al-Battani I-b": [
-            "35"
-        ],
-        "Al-Battani I-c": [
-            "35"
-        ],
-        "Al-Battani II": [
-            "35"
-        ],
-        "Al-Battani III": [
-            "35"
-        ],
-        "Al-Battani III-a": [
-            "35"
-        ],
-        "Al-Battani III-b": [
-            "35"
-        ],
-        "Al-Battani IV": [
-            "35"
-        ],
-        "Al-Battani IV-a": [
-            "35"
-        ],
-        "Al-Battani IV-b": [
-            "35"
-        ],
-        "Al-Battani V": [
-            "35"
-        ],
-        "Al-Battani V-a": [
-            "35"
-        ],
-        "Al-Battani VI": [
-            "35"
-        ],
-        "Al-Battani VI-a": [
-            "35"
-        ],
-        "Al-Battani VI-b": [
-            "35"
-        ],
-        "Al-Battani VII": [
-            "35"
-        ],
-        "Al-Battani VII-a": [
-            "35"
-        ],
-        "Al-Battani VIII": [
-            "35"
-        ],
-        "Al-Battani VIII-a": [
-            "35"
-        ]
+        "Al-Battani I": [],
+        "Al-Battani I-a": [],
+        "Al-Battani I-b": [],
+        "Al-Battani I-c": [],
+        "Al-Battani II": [],
+        "Al-Battani III": [],
+        "Al-Battani III-a": [],
+        "Al-Battani III-b": [],
+        "Al-Battani IV": [],
+        "Al-Battani IV-a": [],
+        "Al-Battani IV-b": [],
+        "Al-Battani V": [],
+        "Al-Battani V-a": [],
+        "Al-Battani VI": [],
+        "Al-Battani VI-a": [],
+        "Al-Battani VI-b": [],
+        "Al-Battani VII": [],
+        "Al-Battani VII-a": [],
+        "Al-Battani VIII": [],
+        "Al-Battani VIII-a": []
     },
     "Alchiba": {
-        "Alchiba I": [
-            "50"
-        ],
-        "Alchiba II": [
-            "50"
-        ],
-        "Alchiba II-a": [
-            "50"
-        ],
-        "Alchiba III": [
-            "50"
-        ],
-        "Alchiba III-a": [
-            "50"
-        ],
-        "Alchiba III-b": [
-            "50"
-        ],
-        "Alchiba III-c": [
-            "50"
-        ],
-        "Alchiba IV": [
-            "50"
-        ],
-        "Alchiba IV-a": [
-            "50"
-        ],
-        "Alchiba IX": [
-            "50"
-        ],
-        "Alchiba IX-a": [
-            "50"
-        ],
-        "Alchiba V": [
-            "50"
-        ],
-        "Alchiba V-a": [
-            "50"
-        ],
-        "Alchiba VI": [
-            "50"
-        ],
-        "Alchiba VI-a": [
-            "50"
-        ],
-        "Alchiba VI-b": [
-            "50"
-        ],
-        "Alchiba VI-c": [
-            "50"
-        ],
-        "Alchiba VII": [
-            "50"
-        ],
-        "Alchiba VII-a": [
-            "50"
-        ],
-        "Alchiba VII-b": [
-            "50"
-        ],
-        "Alchiba VII-c": [
-            "50"
-        ],
-        "Alchiba VII-d": [
-            "50"
-        ],
-        "Alchiba VIII": [
-            "50"
-        ],
-        "Alchiba VIII-a": [
-            "50"
-        ],
-        "Alchiba VIII-b": [
-            "50"
-        ],
-        "Alchiba X": [
-            "50"
-        ],
-        "Alchiba X-a": [
-            "50"
-        ],
-        "Alchiba X-b": [
-            "50"
-        ]
+        "Alchiba I": [],
+        "Alchiba II": [],
+        "Alchiba II-a": [],
+        "Alchiba III": [],
+        "Alchiba III-a": [],
+        "Alchiba III-b": [],
+        "Alchiba III-c": [],
+        "Alchiba IV": [],
+        "Alchiba IV-a": [],
+        "Alchiba IX": [],
+        "Alchiba IX-a": [],
+        "Alchiba V": [],
+        "Alchiba V-a": [],
+        "Alchiba VI": [],
+        "Alchiba VI-a": [],
+        "Alchiba VI-b": [],
+        "Alchiba VI-c": [],
+        "Alchiba VII": [],
+        "Alchiba VII-a": [],
+        "Alchiba VII-b": [],
+        "Alchiba VII-c": [],
+        "Alchiba VII-d": [],
+        "Alchiba VIII": [],
+        "Alchiba VIII-a": [],
+        "Alchiba VIII-b": [],
+        "Alchiba X": [],
+        "Alchiba X-a": [],
+        "Alchiba X-b": []
     },
     "Algorab": {
-        "Algorab I": [
-            "70"
-        ],
-        "Algorab II": [
-            "70"
-        ],
-        "Algorab III": [
-            "70"
-        ],
-        "Algorab III-a": [
-            "70"
-        ],
-        "Algorab III-b": [
-            "70"
-        ],
-        "Algorab III-c": [
-            "70"
-        ],
-        "Algorab III-d": [
-            "70"
-        ],
-        "Algorab III-e": [
-            "70"
-        ]
+        "Algorab I": [],
+        "Algorab II": [],
+        "Algorab III": [],
+        "Algorab III-a": [],
+        "Algorab III-b": [],
+        "Algorab III-c": [],
+        "Algorab III-d": [],
+        "Algorab III-e": []
     },
     "Alpha Andraste": {
-        "Alpha Andraste I": [
-            "30"
-        ],
-        "Alpha Andraste I-a": [
-            "30"
-        ],
-        "Alpha Andraste II": [
-            "30"
-        ],
-        "Alpha Andraste III": [
-            "30"
-        ],
-        "Alpha Andraste IV": [
-            "30"
-        ],
-        "Alpha Andraste V": [
-            "30"
-        ],
-        "Alpha Andraste VI": [
-            "30"
-        ]
+        "Alpha Andraste I": [],
+        "Alpha Andraste I-a": [],
+        "Alpha Andraste II": [],
+        "Alpha Andraste III": [],
+        "Alpha Andraste IV": [],
+        "Alpha Andraste V": [],
+        "Alpha Andraste VI": []
     },
     "Alpha Centauri": {
-        "Bondar": [
-            "1"
-        ],
-        "Chawla": [
-            "1"
-        ],
-        "Curbeam": [
-            "1"
-        ],
-        "Gagarin": [
-            "1"
-        ],
-        "Grissom": [
-            "1"
-        ],
-        "Hawley": [
-            "1"
-        ],
-        "Jemison": [
-            "1"
-        ],
-        "Kurtz": [
-            "1"
-        ],
-        "Lovell": [
-            "1"
-        ],
-        "Olivas": [
-            "1"
-        ],
-        "Voss": [
-            "1"
-        ],
-        "Zamka": [
-            "1"
-        ]
+        "Bondar": [],
+        "Chawla": [],
+        "Curbeam": [],
+        "Gagarin": [],
+        "Grissom": [],
+        "Hawley": [],
+        "Jemison": [],
+        "Kurtz": [],
+        "Lovell": [],
+        "Olivas": [],
+        "Voss": [],
+        "Zamka": []
     },
     "Alpha Marae": {
-        "Alpha Marae I": [
-            "45"
-        ],
-        "Alpha Marae II": [
-            "45"
-        ],
-        "Alpha Marae II-a": [
-            "45"
-        ],
-        "Alpha Marae III": [
-            "45"
-        ],
-        "Alpha Marae III-a": [
-            "45"
-        ],
-        "Alpha Marae III-b": [
-            "45"
-        ],
-        "Alpha Marae III-c": [
-            "45"
-        ],
-        "Alpha Marae III-d": [
-            "45"
-        ],
-        "Alpha Marae IV": [
-            "45"
-        ],
-        "Alpha Marae IV-a": [
-            "45"
-        ],
-        "Alpha Marae IV-b": [
-            "45"
-        ],
-        "Alpha Marae V": [
-            "45"
-        ]
+        "Alpha Marae I": [],
+        "Alpha Marae II": [],
+        "Alpha Marae II-a": [],
+        "Alpha Marae III": [],
+        "Alpha Marae III-a": [],
+        "Alpha Marae III-b": [],
+        "Alpha Marae III-c": [],
+        "Alpha Marae III-d": [],
+        "Alpha Marae IV": [],
+        "Alpha Marae IV-a": [],
+        "Alpha Marae IV-b": [],
+        "Alpha Marae V": []
     },
     "Alpha Ternion": {
-        "Ternion I": [
-            "60"
-        ],
-        "Ternion II": [
-            "60"
-        ],
-        "Ternion III": [
-            "60"
-        ],
-        "Ternion III-a": [
-            "60"
-        ],
-        "Ternion IV": [
-            "60"
-        ],
-        "Ternion IX": [
-            "60"
-        ],
-        "Ternion IX-a": [
-            "60"
-        ],
-        "Ternion IX-b": [
-            "60"
-        ],
-        "Ternion IX-c": [
-            "60"
-        ],
-        "Ternion IX-d": [
-            "60"
-        ],
-        "Ternion V": [
-            "60"
-        ],
-        "Ternion V-a": [
-            "60"
-        ],
-        "Ternion V-b": [
-            "60"
-        ],
-        "Ternion VI": [
-            "60"
-        ],
-        "Ternion VI-a": [
-            "60"
-        ],
-        "Ternion VII": [
-            "60"
-        ],
-        "Ternion VIII": [
-            "60"
-        ]
+        "Ternion I": [],
+        "Ternion II": [],
+        "Ternion III": [],
+        "Ternion III-a": [],
+        "Ternion IV": [],
+        "Ternion IX": [],
+        "Ternion IX-a": [],
+        "Ternion IX-b": [],
+        "Ternion IX-c": [],
+        "Ternion IX-d": [],
+        "Ternion V": [],
+        "Ternion V-a": [],
+        "Ternion V-b": [],
+        "Ternion VI": [],
+        "Ternion VI-a": [],
+        "Ternion VII": [],
+        "Ternion VIII": []
     },
     "Alpha Tirna": {
-        "Tirna I": [
-            "35"
-        ],
-        "Tirna II": [
-            "35"
-        ],
-        "Tirna II-a": [
-            "35"
-        ],
-        "Tirna III": [
-            "35"
-        ],
-        "Tirna III-a": [
-            "35"
-        ],
-        "Tirna III-b": [
-            "35"
-        ],
-        "Tirna III-c": [
-            "35"
-        ],
-        "Tirna IV": [
-            "35"
-        ],
-        "Tirna IV-a": [
-            "35"
-        ],
-        "Tirna IX": [
-            "35"
-        ],
-        "Tirna V": [
-            "35"
-        ],
-        "Tirna VI": [
-            "35"
-        ],
-        "Tirna VI-a": [
-            "35"
-        ],
-        "Tirna VI-b": [
-            "35"
-        ],
-        "Tirna VI-c": [
-            "35"
-        ],
-        "Tirna VI-d": [
-            "35"
-        ],
-        "Tirna VI-e": [
-            "35"
-        ],
-        "Tirna VII": [
-            "35"
-        ],
-        "Tirna VII-a": [
-            "35"
-        ],
-        "Tirna VII-b": [
-            "35"
-        ],
-        "Tirna VII-c": [
-            "35"
-        ],
-        "Tirna VIII": [
-            "35"
-        ],
-        "Tirna VIII-a": [
-            "35"
-        ],
-        "Tirna VIII-b": [
-            "35"
-        ],
-        "Tirna VIII-c": [
-            "35"
-        ],
-        "Tirna VIII-d": [
-            "35"
-        ],
-        "Tirna VIII-e": [
-            "35"
-        ],
-        "Tirna X": [
-            "35"
-        ],
-        "Tirna X-a": [
-            "35"
-        ],
-        "Tirna X-b": [
-            "35"
-        ],
-        "Tirna X-c": [
-            "35"
-        ]
+        "Tirna I": [],
+        "Tirna II": [],
+        "Tirna II-a": [],
+        "Tirna III": [],
+        "Tirna III-a": [],
+        "Tirna III-b": [],
+        "Tirna III-c": [],
+        "Tirna IV": [],
+        "Tirna IV-a": [],
+        "Tirna IX": [],
+        "Tirna V": [],
+        "Tirna VI": [],
+        "Tirna VI-a": [],
+        "Tirna VI-b": [],
+        "Tirna VI-c": [],
+        "Tirna VI-d": [],
+        "Tirna VI-e": [],
+        "Tirna VII": [],
+        "Tirna VII-a": [],
+        "Tirna VII-b": [],
+        "Tirna VII-c": [],
+        "Tirna VIII": [],
+        "Tirna VIII-a": [],
+        "Tirna VIII-b": [],
+        "Tirna VIII-c": [],
+        "Tirna VIII-d": [],
+        "Tirna VIII-e": [],
+        "Tirna X": [],
+        "Tirna X-a": [],
+        "Tirna X-b": [],
+        "Tirna X-c": []
     },
     "Altair": {
-        "Altair I": [
-            "15"
-        ],
-        "Altair II": [
-            "15"
-        ],
-        "Altair III": [
-            "15"
-        ],
-        "Altair III-a": [
-            "15"
-        ],
-        "Altair III-b": [
-            "15"
-        ],
-        "Altair III-c": [
-            "15"
-        ],
-        "Altair IV": [
-            "15"
-        ],
-        "Altair IV-a": [
-            "15"
-        ],
-        "Altair IV-b": [
-            "15"
-        ],
-        "Altair IV-c": [
-            "15"
-        ],
-        "Altair IV-d": [
-            "15"
-        ],
-        "Altair V": [
-            "15"
-        ],
-        "Altair V-a": [
-            "15"
-        ]
+        "Altair I": [],
+        "Altair II": [],
+        "Altair III": [],
+        "Altair III-a": [],
+        "Altair III-b": [],
+        "Altair III-c": [],
+        "Altair IV": [],
+        "Altair IV-a": [],
+        "Altair IV-b": [],
+        "Altair IV-c": [],
+        "Altair IV-d": [],
+        "Altair V": [],
+        "Altair V-a": []
     },
     "Andromas": {
-        "Andromas I": [
-            "15"
-        ],
-        "Andromas II": [
-            "15"
-        ],
-        "Andromas III": [
-            "15"
-        ],
-        "Andromas IV": [
-            "15"
-        ],
-        "Andromas IV-a": [
-            "15"
-        ],
-        "Andromas V": [
-            "15"
-        ],
-        "Andromas V-a": [
-            "15"
-        ],
-        "Andromas V-b": [
-            "15"
-        ],
-        "Andromas VI": [
-            "15"
-        ],
-        "Andromas VI-a": [
-            "15"
-        ],
-        "Andromas VI-b": [
-            "15"
-        ]
+        "Andromas I": [],
+        "Andromas II": [],
+        "Andromas III": [],
+        "Andromas IV": [],
+        "Andromas IV-a": [],
+        "Andromas V": [],
+        "Andromas V-a": [],
+        "Andromas V-b": [],
+        "Andromas VI": [],
+        "Andromas VI-a": [],
+        "Andromas VI-b": []
     },
     "Aranae": {
         "Aranae I": [
@@ -610,9 +292,7 @@
         ]
     },
     "Bannoc Secondus": {
-        "Bannoc Secondus I": [
-            "50"
-        ]
+        "Bannoc Secondus I": "https://inara.cz/starfield/resource/9/"
     },
     "Bara": {
         "Bara I": [
@@ -730,9 +410,7 @@
         ]
     },
     "Barnard's Star": {
-        "Frost": [
-            "1"
-        ]
+        "Frost": "https://inara.cz/starfield/resource/10/"
     },
     "Bel": {
         "Belwah": [
@@ -910,9 +588,7 @@
         ]
     },
     "Beta Tirna": {
-        "Tirna B": [
-            "35"
-        ]
+        "Tirna B": "https://inara.cz/starfield/resource/1/"
     },
     "Bohr": {
         "Bohr I": [
@@ -962,9 +638,7 @@
         ]
     },
     "Bolivar": {
-        "Bolivar I": [
-            "35"
-        ]
+        "Bolivar I": "https://inara.cz/starfield/resource/4/"
     },
     "Bradbury": {
         "Bradbury I": [
@@ -2758,30 +2432,14 @@
         ]
     },
     "Kryx": {
-        "Boron": [
-            "20"
-        ],
-        "Candore": [
-            "20"
-        ],
-        "Ice": [
-            "20"
-        ],
-        "Max": [
-            "20"
-        ],
-        "Neebas": [
-            "20"
-        ],
-        "Nox": [
-            "20"
-        ],
-        "Rocklock": [
-            "20"
-        ],
-        "Suvorov": [
-            "20"
-        ]
+        "Boron": "https://inara.cz/starfield/resource/9/",
+        "Candore": "https://inara.cz/starfield/resource/9/",
+        "Ice": "https://inara.cz/starfield/resource/3/",
+        "Max": "https://inara.cz/starfield/resource/4/",
+        "Neebas": "https://inara.cz/starfield/resource/5/",
+        "Nox": "https://inara.cz/starfield/resource/9/",
+        "Rocklock": "https://inara.cz/starfield/resource/1/",
+        "Suvorov": "https://inara.cz/starfield/resource/5/"
     },
     "Kumasi": {
         "Kumasi I": [
@@ -3135,9 +2793,7 @@
         ]
     },
     "Luyten's Star": {
-        "Luyten's Rock": [
-            "5"
-        ]
+        "Luyten's Rock": "https://inara.cz/starfield/resource/3/"
     },
     "Maal": {
         "Maal I": [
@@ -3807,9 +3463,7 @@
         ]
     },
     "Oborum Proxima": {
-        "Oborum Proxima I": [
-            "25"
-        ]
+        "Oborum Proxima I": "https://inara.cz/starfield/resource/4/"
     },
     "Olympus": {
         "Aion": [
@@ -4038,9 +3692,7 @@
         ]
     },
     "Procyon B": {
-        "Procyon-B I": [
-            "5"
-        ]
+        "Procyon-B I": "https://inara.cz/starfield/resource/9/"
     },
     "Proxima Ternion": {
         "Proxima Ternion I": [
@@ -4331,9 +3983,7 @@
         ]
     },
     "Sagan": {
-        "Sagan I": [
-            "15"
-        ]
+        "Sagan I": "https://inara.cz/starfield/resource/135/"
     },
     "Sakharov": {
         "Bonner": [
