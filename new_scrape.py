@@ -8,91 +8,72 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import json
 
-# Path to the ChromeDriver executable
 chromedriver_path = 'chromedriver.exe'
 
-# Initialize the Chrome WebDriver
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-# Load star system names from JSON file
 with open("pro_l33t_hacker.json", "r", encoding="utf-8") as file:
     star_systems_dict = json.load(file)
 
-# URL to the star system search page
 search_url = "https://inara.cz/starfield/starsystems/"
 
-# Navigate to the star system search page
 driver.get(search_url)
 
-# Counter to track the number of star systems processed
 star_systems_processed = 0
 
-# Loop through each star system and search for it
 for star_system in star_systems_dict:
     print(f"Processing star system: {star_system}")
     try:
-        # Wait for the search input field to be ready
         search_input = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[1]/div[2]/div/div/form/div[1]/div/input"))
         )
         
-        # Clear the search input field
         search_input.clear()
-        
-        # Enter the star system name in the search input field
+
         search_input.send_keys(star_system)
-        
-        # Submit the search query
+
         search_input.send_keys(Keys.RETURN)
         
         print("Search query submitted")
         
-        # Wait for the search results to load
-        time.sleep(5)  # You may adjust the waiting time as needed
+        time.sleep(5)
         
         print("Searching for table containing planet information")
-        
-        # Find the table containing planet information
+
         table_planets = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[2]/div/div/table/tbody"))
         )
         
         print("Table containing planet information found")
         
-        # Extract planet names
         planets = {}
         for row in table_planets.find_elements(By.TAG_NAME, "tr"):
             planet_name = row.find_element(By.TAG_NAME, "td").text
-            planets[planet_name] = {"resources": []}  # Initialize resources as an empty list
+            planets[planet_name] = {"resources": []}  
         
         print("Planet names collected")
         
         print("Searching for table containing resource links")
         
-        # Find the table containing resource links
         table_links = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, '//*[@id="DataTables_Table_0"]/tbody/tr[1]/td[5]/div'))
         )
         
         print("Table containing resource links found")
         
-        # Extract resource names
         for idx, row in enumerate(table_links.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr')):
-            print(row.text)  # Print the row text for debugging
+            print(row.text)
     
-            # Find all <span> tags within the row
             span_tags = row.find_elements(By.TAG_NAME, 'span')
             
-            # Extract text from each <span> tag and add it to the resources list
             for span_tag in span_tags:
                 resource_name = span_tag.text
-                if not resource_name.isdigit() and "days" not in resource_name:  # Check if the text is not a number (days)
+                if not resource_name.isdigit() and "days" and "hours" not in resource_name:
                     planets[list(planets.keys())[idx]]['resources'].append(resource_name)
 
         print("Resource names collected")
 
-        # Update the star system dictionary with the planet names and resource names
         star_systems_dict[star_system] = planets
         
         print("Planet and resource information collected")
@@ -108,13 +89,10 @@ for star_system in star_systems_dict:
     except Exception as e:
         print(f"Error occurred while processing {star_system}: {e}")
     
-    # Navigate back to the star system search page
     driver.get(search_url)
 
-# Quit the WebDriver
 driver.quit()
 
-# Save the updated star system dictionary as JSON
 with open("pro_l33t_hacker.json", "w", encoding="utf-8") as file:
     json.dump(star_systems_dict, file, indent=4)
 
