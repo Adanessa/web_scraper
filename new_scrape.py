@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 import json
 
 # Path to the ChromeDriver executable
@@ -76,23 +77,27 @@ for star_system in star_systems_dict:
         
         print("Table containing resource links found")
         
-        # Extract resource links
+       # Extract resource links
         for idx, row in enumerate(table_links.find_elements(By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/div/table/tbody/tr')):
             print(row.text)  # Print the row text for debugging
     
-         # Check if the row contains hab level information
+            # Check if the row contains hab level information
             hab_rank_cell = row.find_elements(By.TAG_NAME, 'td')[-1]
             hab_rank_text = hab_rank_cell.text
     
             if hab_rank_text:  # If hab level information exists
-                resource_link = row.find_element(By.XPATH, './td[5]/div/a').get_attribute('href')
+                try:
+                    resource_link = row.find_element(By.XPATH, './td[5]/div/a').get_attribute('href')
+                except NoSuchElementException:
+                    resource_link = "N/A"  # Placeholder for missing resource link
             else:  # If hab level information doesn't exist
                 resource_link = "N/A"
     
             planet_name = list(planets.keys())[idx]  # Get the planet name corresponding to the current row
 
-            # Add the resource link to the respective planet dictionary
+    # Add the resource link to the respective planet dictionary
             planets[planet_name]['resources'].append(resource_link)
+
 
 
 
