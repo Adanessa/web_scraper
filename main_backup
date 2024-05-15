@@ -12,6 +12,42 @@ from selenium.common.exceptions import NoSuchElementException
 def normalize_unicode(text):
     return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
 
+def part_two():
+    chromedriver_path_partial = 'chromedriver.exe'
+    service_partial = Service(chromedriver_path_partial)
+    driver_partial = webdriver.Chrome(service=service_partial)
+
+    with open("pro_l33t_hacker.json", "r", encoding="utf-8") as file:
+        star_systems_dict_partial = json.load(file)
+
+    search_url = "https://inara.cz/starfield/starsystems/?formbrief=1&ps1=bel&pi10=0&pi1=0&pi2=100&pi9=0&pi12=0&pi11=0"
+    driver_partial.get(search_url)
+
+    specific_numbers = ["1", "5", "10","15", "20", "25", "30", "35", "40", "45", "50", "55", "60", "65", "70", "75"]
+    for star_system_partial, planets_partial in star_systems_dict_partial.items():
+        for planet_name, data in planets_partial.items():
+            resources_partial = data.get("resources", [])
+            if any(number in resources_partial for number in specific_numbers):
+                print(f'Planet {planet_name} in star system {star_system_partial} has a faulty list.') 
+            else:
+                print(f'Processing: {planet_name}')
+                try:
+                    search_input_partial = WebDriverWait(driver_partial, 10).until(
+                        EC.visibility_of_element_located((By.XPATH, "/html/body/div[3]/div[2]/div[1]/div[2]/div/div/form/div[1]/div/input"))
+                    )
+                    search_input_partial.clear()
+                    search_input_partial.send_keys(planet_name)
+                    search_input_partial.send_keys(Keys.RETURN)
+                    print('Search query submitted')
+                    time.sleep(5)
+                    print(f'Searching for planet: {planet_name}')
+                    # Continue with the rest of your code for collecting data
+                except Exception as e:
+                    print(f"Error occurred while processing {planet_name}: {e}")
+
+
+
+
 chromedriver_path = 'chromedriver.exe'
 
 service = Service(chromedriver_path)
