@@ -24,7 +24,7 @@ search_url = "https://inara.cz/starfield/starsystems/"
 
 driver.get(search_url)
 
-star_systems_processed = 0
+star_systems_processed = 0 # Used for limited amount of systems to see if data is f*cked.
 
 for star_system in star_systems_dict:
     print(f"Processing star system: {star_system}")
@@ -90,10 +90,10 @@ for star_system in star_systems_dict:
         
         print("Planet and resource information collected")
         
-        # Increment the counter
-       # star_systems_processed += 1
+        #Increment the counter
+        star_systems_processed += 1
         
-        # Break the loop if 10 star systems have been processed
+        #Break the loop if 10 star systems have been processed
         if star_systems_processed >= 30:
             print(f"Processed {star_systems_processed} star systems, breaking the loop")
             break
